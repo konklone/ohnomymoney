@@ -5,39 +5,18 @@ task :migrate => :environment do
 end
 
 
-namespace :data do
+namespace :fixtures do
 
-  desc "Restore a model using YAML backup"
-  task :restore => :environment do
-    model = ENV['model'].singularize.camelize.constantize
-    model.delete_all
-    
-    YAML::load_file("data/#{model.table_name}.yml").each do |row|
-      record = model.new
-      row.keys.each do |field|
-        record[field] = row[field] if row[field]
-      end
-      record.save
-    end
+  desc "Load all fixtures, or one model's"
+  task :load => :environment do
+    models = ENV['model'] ? [ENV['model'].singularize.camelize.constantize] : all_models
+    models.each {|model| restore_fixture model}
   end
- 
   
-  desc "Backup a model to YAML."
-  task :backup => :environment do
-    model = ENV['model'].singularize.camelize.constantize
-    
-    data = model.all.reduce([]) do |records, record|
-      element = {}
-      model.columns.map(&:name).each do |field|
-        element[field] = record[field]
-      end
-      records << element
-    end
-    
-    FileUtils.mkdir_p "data"
-    File.open("data/#{model.table_name}.yml", "w") do |file|
-      YAML.dump data, file
-    end
+  desc "Dump all models into fixtures, or one model"
+  task :dump => :environment do
+    models = ENV['model'] ? [ENV['model'].singularize.camelize.constantize] : all_models
+    models.each {|model| dump_fixture model}
   end
 
 end
@@ -45,4 +24,43 @@ end
 desc 'Loads environment'
 task :environment do
   require 'ohnomymoney'
+end
+
+def all_models
+  [User, Account, Day]
+end
+
+def fixture_dir
+  "fixtures"
+end
+
+def restore_fixture(model)
+  model.delete_all
+  
+  YAML::load_file("#{fixture_dir}/#{model.table_name}.yml").each do |row|
+    record = model.new
+    row.keys.each do |field|
+      record[field] = row[field] if row[field]
+    end
+    record.save
+  end
+  
+  puts "Loaded #{model} fixtures"
+end
+
+def dump_fixture(model)
+  data = model.all.reduce([]) do |records, record|
+    element = {}
+    model.columns.map(&:name).each do |field|
+      element[field] = record[field]
+    end
+    records << element
+  end
+  
+  FileUtils.mkdir_p fixture_dir
+  File.open("#{fixture_dir}/#{model.table_name}.yml", "w") do |file|
+    YAML.dump data, file
+  end
+  
+  puts "Dumped #{model} fixtures"
 end
