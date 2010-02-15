@@ -1,4 +1,4 @@
-This code powers [Ohnomymoney.com](http://ohnomymoney.com), a website for broadcasting, visualizing, and discussing one's money.  It's a social money site.
+This code powers [Ohnomymoney.com](http://ohnomymoney.com), a website for visualizing, discussing, and broadcasting one's money.  It's a social money site.
 
 It also serves as a playground and showcase for the latest in social graph and integration APIs.  Namely, this thing is going to integrate cleanly with [Pubsubhubbub](http://code.google.com/p/pubsubhubbub/), [Salmon](http://www.salmon-protocol.org/) (and thus [Google Buzz](http://www.google.com/buzz)) and will take advantage of Google's already-activated support for the [PortableContacts](http://portablecontacts.net/) and [Webfinger](http://code.google.com/p/webfinger/) protocols.
 
