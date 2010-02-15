@@ -14,7 +14,3 @@ get "/:handle" do
   
   user.accounts.all.map(&:name).join("<br/>\n")
 end
-
-not_found do
-  "User not found"
-end
