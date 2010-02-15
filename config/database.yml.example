@@ -1,0 +1,10 @@
+:development:
+  :adapter: sqlite3
+  :database: money.sqlite3
+  
+:production:
+  :adapter: mysql
+  :hostname: localhost
+  :database: ohnomymoney
+  :username: ohnomymoney
+  :password: ohnomymoney
