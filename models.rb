@@ -6,7 +6,7 @@ class Day < ActiveRecord::Base
 end
 
 class Account < ActiveRecord::Base
-  TYPES = %w( worth balance )
+  TYPES = %w( worth assets debt )
   
   belongs_to :user
   has_many :days
@@ -15,8 +15,9 @@ class Account < ActiveRecord::Base
   validates_presence_of :user_id
   validates_inclusion_of :account_type, :in => TYPES
   
+  
   def needs_name
-    account_type == 'balance'
+    account_type != 'worth'
   end
 end
 
