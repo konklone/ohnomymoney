@@ -1,6 +1,7 @@
 --- 
 - name: Jericho Jones
   created_at: 2010-02-14 22:04:46 -05:00
+  handle: jericho
   updated_at: 2010-02-14 22:04:46 -05:00
   id: 1
   email: jericho@example.com

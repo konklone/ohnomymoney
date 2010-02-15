@@ -24,6 +24,6 @@ end
 class User < ActiveRecord::Base
   has_many :accounts
   
-  validates_presence_of :email, :name
-  validates_uniqueness_of :email
+  validates_presence_of :email, :handle, :name
+  validates_uniqueness_of :email, :handle
 end
