@@ -4,13 +4,7 @@ task :migrate => :environment do
   ActiveRecord::Migrator.migrate 'migrations', (ENV['version'] ? ENV['version'].to_i : nil)
 end
 
-desc 'Loads environment'
-task :environment do
-  require 'ohnomymoney'
-end
 
-
-# Generic YAML loading/backup code, for my fixture convenience
 namespace :data do
 
   desc "Restore a model using YAML backup"
@@ -46,4 +40,9 @@ namespace :data do
     end
   end
 
+end
+
+desc 'Loads environment'
+task :environment do
+  require 'ohnomymoney'
 end
