@@ -16,14 +16,12 @@ namespace :data do
   desc "Restore a model using YAML backup"
   task :restore => :environment do
     model = ENV['model'].singularize.camelize.constantize
-    filename = "%s.yml" % File.join("data", model.table_name)
-    
     model.delete_all
     
-    YAML::load_file(filename).each do |data_row|
+    YAML::load_file("data/#{model.table_name}.yml").each do |row|
       record = model.new
-      data_row.keys.each do |field|
-        record[field] = data_row[field] if data_row[field]
+      row.keys.each do |field|
+        record[field] = row[field] if row[field]
       end
       record.save
     end
@@ -33,7 +31,6 @@ namespace :data do
   desc "Backup a model to YAML."
   task :backup => :environment do
     model = ENV['model'].singularize.camelize.constantize
-    filename = "%s.yml" % File.join("data", model.table_name)
     
     data = model.all.reduce([]) do |records, record|
       element = {}
@@ -43,8 +40,8 @@ namespace :data do
       records << element
     end
     
-    FileUtils.mkdir_p File.dirname(filename)
-    File.open(filename, "w") do |file|
+    FileUtils.mkdir_p "data"
+    File.open("data/#{model.table_name}.yml", "w") do |file|
       YAML.dump data, file
     end
   end
