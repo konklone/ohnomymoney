@@ -6,7 +6,7 @@ Users will signup using either a Webfinger-enabled email (this includes all Gmai
 
 
 Getting the Money
-=================================
+-----------------
 
 Money loading is done by sitting on top of Buxfer, a Mint competitor that provides an API over its data.  Sadly, the Buxfer API currently only supports plain HTTP authentication, so I have to ask users for their Buxfer username and password, which sucks.  In the interim, as I set this site up for just myself, I'll just store my Buxfer username/password somewhere and use that to populate my money.
 
