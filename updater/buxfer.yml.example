@@ -10,7 +10,12 @@
     :remote_id: 
   - :local_id: 
     :remote_id: 
+
+# Any manual accounts
+# For example, Buxfer can't do student loans, so you could update this by hand each month
+# Remember to put the negative sign on a debt
+:manual:
   - :local_id: 
-    :remote_id: 
-  - :local_id: 
-    :remote_id: 
+    :balance: 
+  - :local_id:
+    :balance:
