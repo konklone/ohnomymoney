@@ -1,0 +1,16 @@
+:credentials:
+  :email: 
+  :password: 
+  
+  
+# local_id is the local database ID of an account
+# remote_id is Buxfer's ID for that account
+:accounts:
+  - :local_id: 
+    :remote_id: 
+  - :local_id: 
+    :remote_id: 
+  - :local_id: 
+    :remote_id: 
+  - :local_id: 
+    :remote_id: 

@@ -19,6 +19,14 @@ class Account < ActiveRecord::Base
   named_scope :assets, :conditions => {:account_type => 'assets'}
   named_scope :debts, :conditions => {:account_type => 'debts'}
   
+  def assets?
+    account_type == 'credit'
+  end
+  
+  def debts?
+    account_type == 'debts'
+  end
+  
   def needs_name
     account_type != 'worth'
   end

@@ -1,12 +1,13 @@
-desc 'Migrate the database'
-task :migrate => :environment do
-  ActiveRecord::Base.logger = Logger.new STDOUT
-  ActiveRecord::Migrator.migrate 'migrations', (ENV['version'] ? ENV['version'].to_i : nil)
+desc "Update all accounts"
+task :update => :environment do
+  require 'updater/updater'
+  
+  User.all.each do |user|
+    Updater.new(user).update_accounts!
+  end
 end
 
-def all_models
-  [User, Account, Day]
-end
+
 
 namespace :fixtures do
 
@@ -22,6 +23,16 @@ namespace :fixtures do
     models.each {|model| dump_fixture model}
   end
 
+end
+
+desc 'Migrate the database'
+task :migrate => :environment do
+  ActiveRecord::Base.logger = Logger.new STDOUT
+  ActiveRecord::Migrator.migrate 'migrations', (ENV['version'] ? ENV['version'].to_i : nil)
+end
+
+def all_models
+  [User, Account, Day]
 end
 
 desc 'Loads environment'
