@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+  <title><%= user.name %>'s Money</title>
+</head>
+<body>
+  
+  <h1><%= user.name %>'s Money</h1>
+  
+  <div class="sidebar">
+    <div class="account worth">
+      <h2>Net Worth</h2>
+      <span><%= worth.balance %></span>
+    </div>
+    
+    <% (assets + debts).each do |account| %>
+      <div class="account <%= account.account_type %>">
+        <h2><%= account.name %></h2>
+        <span><%= account.balance %></span>
+      </div>
+    <% end %>
+  </div>
+  
+  <div class="main">
+    <img src="<%= double_encode chart_for(worth.days.all(:limit => 10)) %>" />
+  </div>
+  
+</body>
+</html>

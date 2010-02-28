@@ -4,6 +4,9 @@ task :migrate => :environment do
   ActiveRecord::Migrator.migrate 'migrations', (ENV['version'] ? ENV['version'].to_i : nil)
 end
 
+def all_models
+  [User, Account, Day]
+end
 
 namespace :fixtures do
 
@@ -26,18 +29,11 @@ task :environment do
   require 'ohnomymoney'
 end
 
-def all_models
-  [User, Account, Day]
-end
-
-def fixture_dir
-  "fixtures"
-end
 
 def restore_fixture(model)
   model.delete_all
   
-  YAML::load_file("#{fixture_dir}/#{model.table_name}.yml").each do |row|
+  YAML::load_file("fixtures/#{model.table_name}.yml").each do |row|
     record = model.new
     row.keys.each do |field|
       record[field] = row[field] if row[field]
@@ -57,8 +53,8 @@ def dump_fixture(model)
     records << element
   end
   
-  FileUtils.mkdir_p fixture_dir
-  File.open("#{fixture_dir}/#{model.table_name}.yml", "w") do |file|
+  FileUtils.mkdir_p "fixtures"
+  File.open("fixtures/#{model.table_name}.yml", "w") do |file|
     YAML.dump data, file
   end
   
