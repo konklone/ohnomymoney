@@ -1,29 +1,68 @@
-<!doctype html>
-<html>
-<head>
-  <title><%= user.name %>'s Money</title>
-</head>
-<body>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+  <title>Oh No My Money</title>
   
-  <h1><%= user.name %>'s Money</h1>
+  <meta content="money graphs charts" name="keywords" />
+  <meta content="<%= user.name %>'s money, on display, with graphs." name="description" />
+  <meta content="<%= user.name %>" name="author" />
+  <meta content="2008" name="copyright" />
   
-  <div class="sidebar">
-    <div class="account worth">
-      <h2>Net Worth</h2>
-      <span><%= worth.balance %></span>
-    </div>
+  <link charset="utf-8" href="/style.css" media="screen" rel="stylesheet" type="text/css" />
+  <link href="/worth.xml" rel="alternate" title="Oh No My Money" type="application/rss+xml" />
+</head> 
+<body> 
+  
+  <h1>Oh No My Money</h1>
+  
+  <div class="accounts left">
+    <h2>Oh No</h2>
     
-    <% (assets + debts).each do |account| %>
-      <div class="account <%= account.account_type %>">
-        <h2><%= account.name %></h2>
-        <span><%= account.balance %></span>
-      </div>
+    <% assets.each do |account| %>
+      <% balance = account.balances.first :order => "created_at DESC" %>
+      <div class="account">
+        <h3><%= account.name %></h3>
+        <span class="<%= direction balance.amount %>"><%= format_amount balance.amount %></span>
+        <a href="/<%= user.handle %>/account/<%= account.id %>">history</a>
+      </div> 
     <% end %>
   </div>
   
-  <div class="main">
-    <img src="<%= double_encode chart_for(worth.days.all(:limit => 10)) %>" />
+  <div class="accounts right">
+    <h2>My Money</h2>
+    
+    <div class="account">
+      <h3>Checking</h3>
+      <span class="positive">+$326.94</span> 
+      <a href="/account/1">history</a> 
+    </div> 
+    
+  </div> 
+  
+  <div class="worth"> 
+    <h3>Net Worth</h3> 
+    <span class="negative">-$18,321.28</span> 
+    <h4> 
+      updated March 23
+      <a href="/worth.xml"> 
+        <img alt="RSS" src="/images/rss.png" /> 
+      </a> 
+    </h4> 
   </div>
   
+  <div class="footer"> 
+    This is <a href="http://mill-industries.com">Eric Mill</a>'s money.  This site made against the advice of everyone who loves him.
+  </div> 
+  
+  <script type="text/javascript"> 
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script> 
+  <script type="text/javascript"> 
+    var pageTracker = _gat._getTracker("UA-252618-6");
+    pageTracker._initData();
+    pageTracker._trackPageview();
+  </script>
+  
 </body>
-</html>
+</html> 

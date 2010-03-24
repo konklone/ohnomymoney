@@ -1,3 +1,6 @@
+require 'logger'
+
+
 desc "Update all accounts"
 task :update => :environment do
   require 'updater/updater'
@@ -8,31 +11,31 @@ task :update => :environment do
 end
 
 
-
 namespace :fixtures do
 
   desc "Load all fixtures, or one model's"
   task :load => :environment do
-    models = ENV['model'] ? [ENV['model'].singularize.camelize.constantize] : all_models
-    models.each {|model| restore_fixture model}
+    fixtures = ENV['model'] ? [ENV['model']] : all_fixtures
+    fixtures.each {|fixture| restore_fixture fixture.singularize.camelize.constantize}
   end
   
   desc "Dump all models into fixtures, or one model"
   task :dump => :environment do
-    models = ENV['model'] ? [ENV['model'].singularize.camelize.constantize] : all_models
-    models.each {|model| dump_fixture model}
+    fixtures = ENV['model'] ? [ENV['model']] : all_fixtures
+    fixtures.each {|fixture| dump_fixture fixture.singularize.camelize.constantize}
+  end
+  
+  def all_fixtures
+    Dir.glob("fixtures/*.yml").map {|f| File.basename(f, ".yml")}
   end
 
 end
+
 
 desc 'Migrate the database'
 task :migrate => :environment do
   ActiveRecord::Base.logger = Logger.new STDOUT
   ActiveRecord::Migrator.migrate 'migrations', (ENV['version'] ? ENV['version'].to_i : nil)
-end
-
-def all_models
-  [User, Account, Day]
 end
 
 desc 'Loads environment'

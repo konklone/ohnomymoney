@@ -1,6 +1,6 @@
 require 'rubygems'
 
-require 'activerecord'
+require 'active_record'
 require 'models'
 
 configure do

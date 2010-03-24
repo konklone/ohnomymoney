@@ -2,13 +2,13 @@ require 'google_chart'
 
 helpers do
   
-  def chart_for(days)
-    oldest = days.first
-    newest = days[days.size-1]
-    balances = days.map {|day| day.balance}
+  def chart_for(balances)
+    oldest = balances.first
+    newest = balances[balances.size-1]
+    amounts = balances.map {|day| day.amount}
     
-    min = balances.min
-    max = balances.max
+    min = amounts.min
+    max = amounts.max
     disparity = max - min
     y = (disparity * 1.66).to_i
     buffer = (y - disparity) / 2
@@ -18,19 +18,19 @@ helpers do
     y = y_max - y_min
     y_step = round(y / 10.0, 2)
     
-    x_step = days.size / 7
+    x_step = balances.size / 7
     x_step = 1 if x_step < 1
-    x_days = []
-    days.each_with_index {|b, i| x_days << b if i % x_step == 0}
-    x_days[0] = days[0]
-    x_days[-1] = days[-1]
+    x_balances = []
+    balances.each_with_index {|b, i| x_balances << b if i % x_step == 0}
+    x_balances[0] = balances[0]
+    x_balances[-1] = balances[-1]
     
     y_labels = (0..10).map {|i| format_balance(y_min + (y_step * i))}
-    x_labels = x_days.map {|day| format_date day.date_of}
+    x_labels = x_balances.map {|day| format_date day.date_of}
     
-    label = newest.balance > 0 ? 'Money' : 'Debt'
-    data = balances.map {|balance| (balance - y_min).to_f}
-    color = newest.balance > 0 ? '008800' : 'cc0000'
+    label = newest.amount > 0 ? 'Money' : 'Debt'
+    data = amounts.map {|amount| (amount - y_min).to_f}
+    color = newest.amount > 0 ? '008800' : 'cc0000'
     
     chart = GoogleChart::LineChart.new '857x350'
     chart.data_encoding = :text
@@ -40,7 +40,6 @@ helpers do
     chart.axis :y, :labels => y_labels
     chart.axis :right, :labels => y_labels
     
-    p chart.to_url(:chdlp => 'b')
     chart.to_url :chdlp => 'b'
   end
   

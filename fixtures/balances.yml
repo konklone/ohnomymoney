@@ -5,137 +5,137 @@
   id: 3
   user_id: 1
   date_of: 2010-02-12
-  balance: 100000
+  amount: 100000
 - created_at: 2010-02-15 02:44:33 -05:00
   updated_at: 2010-02-15 02:44:33 -05:00
   account_id: 2
   id: 4
   user_id: 1
   date_of: 2010-02-13
-  balance: 200000
+  amount: 200000
 - created_at: 2010-02-15 02:44:40 -05:00
   updated_at: 2010-02-15 02:44:40 -05:00
   account_id: 2
   id: 5
   user_id: 1
   date_of: 2010-02-14
-  balance: 400000
+  amount: 400000
 - created_at: 2010-02-15 02:44:48 -05:00
   updated_at: 2010-02-15 02:44:48 -05:00
   account_id: 2
   id: 6
   user_id: 1
   date_of: 2010-02-15
-  balance: 300000
+  amount: 300000
 - created_at: 2010-02-15 02:45:14 -05:00
   updated_at: 2010-02-15 02:45:14 -05:00
   account_id: 3
   id: 7
   user_id: 1
   date_of: 2010-02-12
-  balance: 0
+  amount: 0
 - created_at: 2010-02-15 02:45:26 -05:00
   updated_at: 2010-02-15 02:45:26 -05:00
   account_id: 3
   id: 8
   user_id: 1
   date_of: 2010-02-13
-  balance: 50000
+  amount: 50000
 - created_at: 2010-02-15 02:45:33 -05:00
   updated_at: 2010-02-15 02:45:33 -05:00
   account_id: 3
   id: 9
   user_id: 1
   date_of: 2010-02-14
-  balance: 100000
+  amount: 100000
 - created_at: 2010-02-15 02:45:38 -05:00
   updated_at: 2010-02-15 02:45:38 -05:00
   account_id: 3
   id: 10
   user_id: 1
   date_of: 2010-02-15
-  balance: 150000
+  amount: 150000
 - created_at: 2010-02-15 02:45:50 -05:00
   updated_at: 2010-02-15 02:45:50 -05:00
   account_id: 4
   id: 11
   user_id: 1
   date_of: 2010-02-12
-  balance: -300000
+  amount: -300000
 - created_at: 2010-02-15 02:49:12 -05:00
   updated_at: 2010-02-15 02:49:12 -05:00
   account_id: 4
   id: 12
   user_id: 1
   date_of: 2010-02-13
-  balance: -200000
+  amount: -200000
 - created_at: 2010-02-15 02:49:17 -05:00
   updated_at: 2010-02-15 02:49:17 -05:00
   account_id: 4
   id: 13
   user_id: 1
   date_of: 2010-02-14
-  balance: -300000
+  amount: -300000
 - created_at: 2010-02-15 02:49:19 -05:00
   updated_at: 2010-02-15 02:49:19 -05:00
   account_id: 4
   id: 14
   user_id: 1
   date_of: 2010-02-15
-  balance: -300000
+  amount: -300000
 - created_at: 2010-02-15 02:49:32 -05:00
   updated_at: 2010-02-15 02:49:32 -05:00
   account_id: 5
   id: 15
   user_id: 1
   date_of: 2010-02-12
-  balance: -2000000
+  amount: -2000000
 - created_at: 2010-02-15 02:49:42 -05:00
   updated_at: 2010-02-15 02:49:42 -05:00
   account_id: 5
   id: 16
   user_id: 1
   date_of: 2010-02-13
-  balance: -1900000
+  amount: -1900000
 - created_at: 2010-02-15 02:49:49 -05:00
   updated_at: 2010-02-15 02:49:49 -05:00
   account_id: 5
   id: 17
   user_id: 1
   date_of: 2010-02-14
-  balance: -1800000
+  amount: -1800000
 - created_at: 2010-02-15 02:49:54 -05:00
   updated_at: 2010-02-15 02:49:54 -05:00
   account_id: 5
   id: 18
   user_id: 1
   date_of: 2010-02-15
-  balance: -800000
+  amount: -800000
 - created_at: 2010-02-15 03:04:25 -05:00
   updated_at: 2010-02-15 03:04:25 -05:00
   account_id: 1
   id: 19
   user_id: 1
   date_of: 2010-02-12
-  balance: -2200000
+  amount: -2200000
 - created_at: 2010-02-15 03:04:42 -05:00
   updated_at: 2010-02-15 03:04:42 -05:00
   account_id: 1
   id: 20
   user_id: 1
   date_of: 2010-02-13
-  balance: -1850000
+  amount: -1850000
 - created_at: 2010-02-15 03:05:00 -05:00
   updated_at: 2010-02-15 03:05:00 -05:00
   account_id: 1
   id: 21
   user_id: 1
   date_of: 2010-02-14
-  balance: -1600000
+  amount: -1600000
 - created_at: 2010-02-15 03:06:57 -05:00
   updated_at: 2010-02-15 03:06:57 -05:00
   account_id: 1
   id: 22
   user_id: 1
   date_of: 2010-02-15
-  balance: -650000
+  amount: -650000
