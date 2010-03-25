@@ -4,7 +4,7 @@
   
 :production:
   :adapter: mysql
-  :hostname: localhost
+  :host: localhost
   :database: ohnomymoney
   :username: ohnomymoney
   :password: ohnomymoney
