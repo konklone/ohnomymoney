@@ -17,6 +17,6 @@
 # Remember to put the negative sign on a debt
 :manual:
   - :local_id: 
-    :balance: 
+    :amount: 
   - :local_id:
-    :balance:
+    :amount:

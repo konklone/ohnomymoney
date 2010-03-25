@@ -24,21 +24,21 @@ class Updater
       map = maps.find {|m| m[:remote_id] == remote['id']}
       if map
         account = user.accounts.find map[:local_id]
-        balance = (remote['balance'] * 100).to_i # convert to pennies
-        balance *= -1 if account.debts?
+        amount = (remote['balance'] * 100).to_i # convert to pennies
+        amount *= -1 if account.debts?
         
-        worth += balance
-        update_account! account, balance
+        worth += amount
+        update_account! account, amount
       end
     end
     
     # the manual accounts that Buxfer doesn't support
     manual.each do |map|
       account = user.accounts.find map[:local_id]
-      balance = map[:balance]
+      amount = map[:amount]
       
-      worth += balance
-      update_account! account, map[:balance]
+      worth += amount
+      update_account! account, amount
     end
     
     # the net worth of it all
@@ -47,11 +47,11 @@ class Updater
   end
   
   # idempotent - will overwrite balance if one exists for today
-  def update_account!(account, balance)
-    day = account.days.find_or_initialize_by_date_of Time.now.to_date
-    day.user_id = user.id
-    day.balance = balance 
-    day.save!
-    puts "Updated #{account.name} with balance of #{balance}, for #{day.date_of}."
+  def update_account!(account, amount)
+    balance = account.balances.find_or_initialize_by_date_of Time.now.to_date
+    balance.user_id = user.id
+    balance.amount = amount
+    balance.save!
+    puts "Updated #{account.name} with balance of #{amount}, for #{balance.date_of}."
   end
 end
