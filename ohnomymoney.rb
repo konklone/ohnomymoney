@@ -36,13 +36,20 @@ get "/:handle/account/:id" do
     :account => account,
     :oldest => account.balances.first(:order => "created_at ASC"),
     :newest => account.balances.first(:order => "created_at DESC"),
-    :balances => account.balances.all(:limit => 180)
+    :balances => account.balances.all(:limit => 180, :order => "created_at DESC")
   }
 end
 
 get "/:handle/worth.xml" do
-  headers['Content-Type'] = 'application/rss+xml'
-  "<?xml><xml/>"
+  halt 404 unless user = User.find_by_handle(params[:handle])
+  halt 404 unless account = user.accounts.worth.first
+  
+  response['Content-Type'] = 'application/rss+xml'
+  erb :worth, :locals => {
+    :user => user,
+    :account => account,
+    :balances => account.balances.all(:limit => 10, :order => "created_at DESC")
+  }
 end
 
 helpers do
@@ -65,6 +72,10 @@ helpers do
       answer = '-' + answer
     end
     answer
+  end
+  
+  def midnight_stamp(date)
+    date.strftime "%a, %d %b %Y 00:00:00 EST"
   end
   
 end
