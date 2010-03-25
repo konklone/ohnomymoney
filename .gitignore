@@ -2,4 +2,4 @@
 /*.sqlite3
 /updater/buxfer.yml
 /tmp
-/config.ru
+/dreamhost.rb

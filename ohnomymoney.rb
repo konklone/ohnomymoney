@@ -1,5 +1,11 @@
 #!/usr/bin/env ruby
 
+# Dreamhost has some special...I don't want to talk about it
+begin
+  require 'dreamhost'
+rescue LoadError
+end
+
 require 'rubygems'
 require 'sinatra'
 require 'environment'
