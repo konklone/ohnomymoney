@@ -27,6 +27,19 @@ get "/:handle" do
   }
 end
 
+get "/:handle/account/:id" do
+  halt 404 unless user = User.find_by_handle(params[:handle])
+  halt 404 unless account = user.accounts.find(params[:id])
+  
+  erb :account, :locals => {
+    :user => user,
+    :account => account,
+    :oldest => account.balances.first(:order => "created_at ASC"),
+    :newest => account.balances.first(:order => "created_at DESC"),
+    :balances => account.balances.all(:limit => 180)
+  }
+end
+
 get "/:handle/worth.xml" do
   headers['Content-Type'] = 'application/rss+xml'
   "<?xml><xml/>"

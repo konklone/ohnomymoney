@@ -13,50 +13,35 @@
 </head> 
 <body> 
   
-  <h1>Oh No My Money</h1>
-  
-  <div class="accounts left">
-    <h2>Oh No</h2>
-    
-    <% debts.each do |account| %>
-      <% balance = account.balances.first :order => "created_at DESC" %>
-      <div class="account">
-        <h3><%= account.name %></h3>
-        <span class="<%= direction balance.amount %>"><%= format_amount balance.amount %></span>
-        <a href="/<%= user.handle %>/account/<%= account.id %>">history</a>
-      </div> 
-    <% end %>
-  </div>
-  
-  <div class="accounts right">
-    <h2>My Money</h2>
-    
-    <% assets.each do |account| %>
-      <% balance = account.balances.first :order => "created_at DESC" %>
-      <div class="account">
-        <h3><%= account.name %></h3>
-        <span class="<%= direction balance.amount %>"><%= format_amount balance.amount %></span>
-        <a href="/<%= user.handle %>/account/<%= account.id %>">history</a>
-      </div> 
-    <% end %>
-    
+  <div class="accounts left"> 
+    <div class="account oldest"> 
+      <h3><%= date oldest.date_of %></h3> 
+      <span class="<%= direction oldest.amount %>"><%= format_amount oldest.amount %></span> 
+    </div> 
   </div> 
   
-  <div class="worth"> 
-    <h3>Net Worth</h3> 
-    <% balance = worth.balances.first :order => "created_at DESC" %>
-    <span class="<%= direction balance.amount %>"><%= format_amount balance.amount %></span> 
-    <h4> 
-      as of <%= date Time.now %>
-      <a href="/<%= user.handle %>/worth.xml"> 
-        <img alt="RSS" src="/images/rss.png" /> 
-      </a> 
-    </h4> 
+  <div class="accounts right"> 
+    <div class="account newest"> 
+      <h3><%= date newest.date_of %></h3> 
+      <span class="<%= direction newest.amount %>"><%= format_amount newest.amount %></span> 
+    </div> 
+  </div> 
+  
+  <div class="title"> 
+    <h2 class="negative"><%= account.name %></h2> 
+  </div> 
+  
+  <div class="graph"> 
+    <img alt="Chart for <%= account.name %>" src="<%= double_encode chart_for(balances) %>" />
+    
+    <div class="back"> 
+      <a href="/<%= user.handle %>">Go Back</a>
+    </div> 
   </div>
   
-  <div class="footer"> 
+  <div class="footer">
     This is <a href="<%= user.url %>"><%= user.name %></a>'s money.  This site made against the advice of everyone who loves him.
-  </div> 
+  </div>
   
   <script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
