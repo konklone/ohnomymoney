@@ -36,7 +36,7 @@ get "/:handle/account/:id" do
     :account => account,
     :oldest => account.balances.first(:order => "created_at ASC"),
     :newest => account.balances.first(:order => "created_at DESC"),
-    :balances => account.balances.all(:limit => 180, :order => "created_at DESC")
+    :balances => account.balances.all(:limit => 180, :order => "created_at DESC").reverse
   }
 end
 
