@@ -15,9 +15,9 @@ class Account < ActiveRecord::Base
   validates_presence_of :user_id
   validates_inclusion_of :account_type, :in => TYPES
   
-  scope :worth, :conditions => {:account_type => 'worth'}
-  scope :assets, :conditions => {:account_type => 'assets'}
-  scope :debts, :conditions => {:account_type => 'debts'}
+  named_scope :worth, :conditions => {:account_type => 'worth'}
+  named_scope :assets, :conditions => {:account_type => 'assets'}
+  named_scope :debts, :conditions => {:account_type => 'debts'}
   
   def assets?
     account_type == 'credit'
