@@ -34,7 +34,8 @@ namespace :deploy do
   desc "Get shared files into position"
   task :shared_links, :roles => [:web, :app] do
     run "ln -nfs #{shared_path}/database.yml #{release_path}/config/database.yml"
-    run "ln -nfs #{shared_path}/buxfer.yml #{release_path}/updater/buxfer.yml"
+    run "ln -nfs #{shared_path}/buxfer.yml #{release_path}/updater/buxfer/buxfer.yml"
+    run "ln -nfs #{shared_path}/wesabe.yml #{release_path}/updater/wesabe/wesabe.yml"
     run "ln -nfs #{shared_path}/dreamhost.rb #{release_path}/dreamhost.rb"
     run "rm #{File.join release_path, 'tmp', 'pids'}"
     run "rm #{File.join release_path, 'public', 'system'}"

@@ -1,0 +1,22 @@
+# Buxfer email and password
+:credentials:
+  :email: 
+  :password: 
+  
+  
+# local_id is the local database ID of an account
+# remote_id is Wesabe's ID for that account
+:accounts:
+  - :local_id: 
+    :remote_id: 
+  - :local_id: 
+    :remote_id: 
+
+# Any manual accounts
+# For example, Wesabe can't do student loans, so you could update this by hand each month
+# Remember to put the negative sign on a debt
+:manual:
+  - :local_id: 
+    :amount: 
+  - :local_id:
+    :amount:

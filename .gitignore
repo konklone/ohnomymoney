@@ -1,5 +1,7 @@
 /config/database.yml
 /*.sqlite3
-/updater/buxfer.yml
+/updater/buxfer/buxfer.yml
+/updater/wesabe/wesabe.yml
+/updater/wesabe/cacert.pem
 /tmp
 /dreamhost.rb

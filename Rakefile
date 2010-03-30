@@ -3,7 +3,7 @@ require 'logger'
 
 desc "Update all accounts"
 task :update => :environment do
-  require 'updater/updater'
+  require 'updater/wesabe/updater'
   
   User.all.each do |user|
     Updater.new(user).update_accounts!
