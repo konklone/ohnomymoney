@@ -46,6 +46,7 @@
     <h3>Net Worth</h3> 
     <% balance = worth.balances.first :order => "created_at DESC" %>
     <span class="<%= direction balance.amount %>"><%= format_amount balance.amount %></span> 
+    <a class="<%= direction balance.amount %>" href="/<%= user.handle %>/account/<%= worth.id %>">history</a>
     <h4> 
       as of <%= date Time.now %>
       <a href="/<%= user.handle %>/worth.xml"> 
