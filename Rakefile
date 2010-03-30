@@ -40,7 +40,7 @@ end
 
 desc 'Loads environment'
 task :environment do
-  require 'environment'
+  require 'ohnomymoney'
 end
 
 
