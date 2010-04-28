@@ -10,8 +10,8 @@
       <item>
         <title><%= user.name %>'s <%= account.name %>: <%= format_amount balance.amount %></title>
         <description><%= format_amount balance.amount %></description>
-        <link>http://ohnomymoney.com#<%= i + 1 %></link>
-        <guid>http://ohnomymoney.com#<%= i + 1 %></guid>
+        <link>http://ohnomymoney.com/<%= user.handle %>#<%= i + 1 %></link>
+        <guid>http://ohnomymoney.com/<%= user.handle %>#<%= i + 1 %></guid>
         <pubDate><%= midnight_stamp balance.date_of %></pubDate>
       </item>
     <% end %>
