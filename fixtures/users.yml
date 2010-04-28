@@ -5,4 +5,5 @@
   updated_at: 2010-02-14 22:04:46 -05:00
   id: 1
   email: jericho@example.com
-  url: http://example.com
+  url: "http://example.com"
+  me_url: "http://www.google.com/profiles/jericho"
