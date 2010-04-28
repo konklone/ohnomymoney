@@ -22,7 +22,7 @@ before do
   end
 end
 
-get "/:handle" do
+get "/:handle/?" do
   halt 404 unless user = User.find_by_handle(params[:handle])
   
   erb :index, :locals => {
@@ -33,7 +33,7 @@ get "/:handle" do
   }
 end
 
-get "/:handle/account/:id" do
+get "/:handle/account/:id/?" do
   halt 404 unless user = User.find_by_handle(params[:handle])
   halt 404 unless account = user.accounts.find(params[:id])
   
