@@ -10,20 +10,20 @@ require 'rubygems'
 require 'sinatra'
 require 'environment'
 
+# front-end specific requires
 require 'erb'
 require 'charting'
 
 # For now, have the root URL act as if we visited the userpage of the first user
 before do
-  if request.path_info == '/'
-    request.path_info = "/#{User.first.handle}" 
-  elsif request.path_info == '/worth.xml'
-    request.path_info = "/#{User.first.handle}/worth.xml"
+  @user = User.first
+  if request.path_info !~ /^\/#{@user.handle}/
+    request.path_info = "/#{@user.handle}" + request.path_info
   end
 end
 
 get "/:handle/?" do
-  halt 404 unless user = User.find_by_handle(params[:handle])
+  halt 404 unless user = @user #User.find_by_handle(params[:handle])
   
   erb :index, :locals => {
     :user => user, 
@@ -34,7 +34,7 @@ get "/:handle/?" do
 end
 
 get "/:handle/account/:id/?" do
-  halt 404 unless user = User.find_by_handle(params[:handle])
+  halt 404 unless user = @user # User.find_by_handle(params[:handle])
   halt 404 unless account = user.accounts.find(params[:id])
   
   erb :account, :locals => {
@@ -47,7 +47,7 @@ get "/:handle/account/:id/?" do
 end
 
 get "/:handle/worth.xml" do
-  halt 404 unless user = User.find_by_handle(params[:handle])
+  halt 404 unless user = @user # User.find_by_handle(params[:handle])
   halt 404 unless account = user.accounts.worth.first
   
   response['Content-Type'] = 'application/rss+xml'
@@ -82,6 +82,13 @@ helpers do
   
   def midnight_stamp(date)
     date.strftime "%a, %d %b %Y 00:00:00 EST"
+  end
+  
+  def number_with_delimiter(number)
+    number = number.to_i.abs
+    parts = number.to_s.split('.')
+    parts[0].gsub! /(\d)(?=(\d\d\d)+(?!\d))/, "\\1,"
+    parts.join '.'
   end
   
 end
