@@ -10,6 +10,22 @@
   
   <link charset="utf-8" href="/ohnomymoney.css" media="screen" rel="stylesheet" type="text/css" />
   <link href="/worth.xml" rel="alternate" title="Oh No My Money" type="application/rss+xml" />
+  
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+  <script type="text/javascript" src="/javascripts/highcharts.src.js"></script>
+  <!--[if IE]>
+    <script type="text/javascript" src="/javascripts/excanvas.compiled.js"></script>
+  <![endif]-->
+  
+  <script type="text/javascript">
+    var user_handle = "<%= user.handle %>";
+    var account = {
+      id: <%= account.id %>,
+      name: "<%= account.name %>",
+      type: "<%= account.account_type %>"
+    }
+  </script>
+  <script type="text/javascript" src="/javascripts/ohnomychart.js"></script>
 </head> 
 <body> 
   
@@ -18,7 +34,7 @@
       <h3><%= date oldest.date_of %></h3> 
       <span class="<%= direction oldest.amount %>"><%= format_amount oldest.amount %></span> 
     </div> 
-  </div> 
+  </div>
   
   <div class="accounts right"> 
     <div class="account newest"> 
@@ -32,7 +48,7 @@
   </div> 
   
   <div class="graph"> 
-    <img alt="Chart for <%= account.name %>" src="<%= double_encode chart_for(balances) %>" />
+    <div id="main-chart" style="width: 857px; height: 350px"></div>
     
     <div class="back"> 
       <a href="/<%= user.handle %>">Go Back</a>

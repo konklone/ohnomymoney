@@ -12,7 +12,7 @@ require 'environment'
 
 # front-end specific requires
 require 'erb'
-require 'charting'
+
 
 # For now, have the root URL act as if we visited the userpage of the first user
 before do
