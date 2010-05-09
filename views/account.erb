@@ -23,7 +23,12 @@
       id: <%= account.id %>,
       name: "<%= account.name %>",
       type: "<%= account.account_type %>",
-      balances: [<%= balances.map {|b| b.amount}.join(", ") %>]
+      balances: [<%=
+        balances.map do |b| 
+          "[#{b.date_of.to_time.to_i * 1000}, #{b.amount}]"
+        end.join(", ") 
+      %>],
+      direction: "<%= balances.last.amount < 0 ? "negative" : "positive" %>"
     }
   </script>
   <script type="text/javascript" src="/javascripts/ohnomychart.js"></script>
@@ -31,30 +36,27 @@
 <body> 
   
 <div class="accounts left"> 
-  <div class="account oldest"> 
+  <div class="account oldest history"> 
     <h3 class="date"><%= long_date balances.first.date_of %></h3> 
     <span class="<%= direction balances.first.amount %>"><%= format_amount balances.first.amount %></span> 
   </div> 
 </div>
 
 <div class="accounts right"> 
-  <div class="account newest"> 
+  <div class="account newest history"> 
     <h3 class="date"><%= long_date balances.last.date_of %></h3>
     <span class="<%= direction balances.last.amount %>"><%= format_amount balances.last.amount %></span> 
   </div> 
 </div> 
 
 <div class="title"> 
-  <h2 class="negative"><%= account.name %></h2> 
+  <h2 class="negative"><%= account.name %></h2>
+  <div class="back"> 
+    <a href="/<%= user.handle %>">back to home</a>
+  </div>
 </div> 
 
-<div class="graph"> 
-  <div id="main-chart" style="width: 957px; height: 450px"></div>
-  
-  <div class="back"> 
-    <a href="/<%= user.handle %>">Go Back</a>
-  </div> 
-</div>
+<div class="graph" id="graph"></div>
 
 <div class="footer">
   This is <a href="<%= user.url %>"><%= user.name %></a>'s money.  This site made against the advice of everyone who loves him.

@@ -39,13 +39,14 @@ div.title {
   width: 33%; 
   text-align: center;
 }
+div.title div.back {float: left; text-align: center; margin-top: 10px; width: 100%;}
+div.title div.back a {color: #3355aa; font-size: 1.0em; font-weight: bold;}
+
 
 div.graph {
-  clear: both; margin: 10px auto; margin-bottom: 30px;
-  width: 957px;
+  clear: both; margin: 10px auto; margin-bottom: 10px; margin-top: 40px;
+  width: 957px; height: 500px;
 }
-div.graph div.back {float: left; text-align: center; margin: 20px 0; width: 100%;}
-div.graph div.back a {color: #3355aa; font-size: 1.0em; font-weight: bold;}
 
 /** footer **/
 
@@ -60,6 +61,7 @@ div.footer a {color: #3355aa}
 /* main design */
 
 div.account.oldest, div.account.newest {margin: 0; margin-top: -10px; margin-bottom: 30px;}
+div.account.oldest.history, div.account.newest.history {margin-bottom: 0}
 
 .accounts.left h2 {
   width: 196px;
