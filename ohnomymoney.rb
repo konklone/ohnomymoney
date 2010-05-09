@@ -40,9 +40,7 @@ get "/:handle/account/:id/?" do
   erb :account, :locals => {
     :user => user,
     :account => account,
-    :oldest => account.balances.first(:order => "created_at ASC"),
-    :newest => account.balances.first(:order => "created_at DESC"),
-    :balances => account.balances.all(:limit => 180, :order => "created_at DESC").reverse
+    :balances => account.balances.all(:order => "created_at ASC")
   }
 end
 
@@ -62,6 +60,10 @@ helpers do
   
   def date(date)
     date.strftime("%B ") + date.strftime("%d").gsub(/^0/, "")
+  end
+  
+  def long_date(date)
+    date.strftime("%B ") + date.strftime("%d").gsub(/^0/, "") + ", #{date.strftime "%Y"}"
   end
   
   def direction(balance)

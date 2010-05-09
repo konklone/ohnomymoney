@@ -8,7 +8,7 @@
   <meta content="<%= user.name %>" name="author" />
   <meta content="2008" name="copyright" />
   
-  <link charset="utf-8" href="/ohnomymoney.css" media="screen" rel="stylesheet" type="text/css" />
+  <link charset="utf-8" href="/stylesheets/ohnomymoney.css" media="screen" rel="stylesheet" type="text/css" />
   <link href="/worth.xml" rel="alternate" title="Oh No My Money" type="application/rss+xml" />
   
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
@@ -22,53 +22,55 @@
     var account = {
       id: <%= account.id %>,
       name: "<%= account.name %>",
-      type: "<%= account.account_type %>"
+      type: "<%= account.account_type %>",
+      balances: [<%= balances.map {|b| b.amount}.join(", ") %>]
     }
   </script>
   <script type="text/javascript" src="/javascripts/ohnomychart.js"></script>
 </head> 
 <body> 
   
-  <div class="accounts left"> 
-    <div class="account oldest"> 
-      <h3><%= date oldest.date_of %></h3> 
-      <span class="<%= direction oldest.amount %>"><%= format_amount oldest.amount %></span> 
-    </div> 
-  </div>
-  
-  <div class="accounts right"> 
-    <div class="account newest"> 
-      <h3><%= date newest.date_of %></h3> 
-      <span class="<%= direction newest.amount %>"><%= format_amount newest.amount %></span> 
-    </div> 
+<div class="accounts left"> 
+  <div class="account oldest"> 
+    <h3 class="date"><%= long_date balances.first.date_of %></h3> 
+    <span class="<%= direction balances.first.amount %>"><%= format_amount balances.first.amount %></span> 
   </div> 
-  
-  <div class="title"> 
-    <h2 class="negative"><%= account.name %></h2> 
+</div>
+
+<div class="accounts right"> 
+  <div class="account newest"> 
+    <h3 class="date"><%= long_date balances.last.date_of %></h3>
+    <span class="<%= direction balances.last.amount %>"><%= format_amount balances.last.amount %></span> 
   </div> 
+</div> 
+
+<div class="title"> 
+  <h2 class="negative"><%= account.name %></h2> 
+</div> 
+
+<div class="graph"> 
+  <div id="main-chart" style="width: 957px; height: 450px"></div>
   
-  <div class="graph"> 
-    <div id="main-chart" style="width: 857px; height: 350px"></div>
-    
-    <div class="back"> 
-      <a href="/<%= user.handle %>">Go Back</a>
-    </div> 
-  </div>
-  
-  <div class="footer">
-    This is <a href="<%= user.url %>"><%= user.name %></a>'s money.  This site made against the advice of everyone who loves him.
-  </div>
-  
-  <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-  </script>
-  <script type="text/javascript">
-    try {
-      var pageTracker = _gat._getTracker("UA-252618-6");
-      pageTracker._trackPageview();
-    } catch(err) {}
-  </script>
-  
+  <div class="back"> 
+    <a href="/<%= user.handle %>">Go Back</a>
+  </div> 
+</div>
+
+<div class="footer">
+  This is <a href="<%= user.url %>"><%= user.name %></a>'s money.  This site made against the advice of everyone who loves him.
+</div>
+
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  try {
+    var pageTracker = _gat._getTracker("UA-252618-6");
+    pageTracker._trackPageview();
+  } catch(err) {}
+</script>
+
+
 </body>
 </html>
