@@ -1,5 +1,6 @@
 require 'rubygems'
 require 'sinatra'
+require 'sinatra/content_for'
 
 gem 'activerecord', '=2.3.5'
 require 'active_record'

@@ -1,3 +1,4 @@
+<% content_for :head do %>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
   <script type="text/javascript" src="/javascripts/highcharts.src.js"></script>
   <!--[if IE]>
@@ -19,7 +20,8 @@
     }
   </script>
   <script type="text/javascript" src="/javascripts/ohnomychart.js"></script>
-  
+<% end %>
+
 <div class="accounts left"> 
   <div class="account oldest history"> 
     <h3 class="date"><%= long_date balances.first.date_of %></h3> 

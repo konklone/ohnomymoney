@@ -1,3 +1,9 @@
+<% content_for :head do %>
+  <% if user.me_url.present? %>
+    <link rel="me" type="text/html" href="<%= user.me_url %>" />
+  <% end %>
+<% end %>
+
 <h1>Oh No My Money</h1>
 
 <div class="accounts left">

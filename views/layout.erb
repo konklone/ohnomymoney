@@ -11,9 +11,7 @@
   <link charset="utf-8" href="/stylesheets/ohnomymoney.css" media="screen" rel="stylesheet" type="text/css" />
   <link href="/<%= user.handle %>/worth.xml" rel="alternate" title="Oh No My Money" type="application/rss+xml" />
   
-  <% if user.me_url.present? %>
-    <link rel="me" type="text/html" href="<%= user.me_url %>"/>
-  <% end %>
+  <% yield_content :head %>
 </head> 
 <body> 
   
