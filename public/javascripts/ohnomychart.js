@@ -8,6 +8,7 @@ $(document).ready(function() {
       defaultSeriesType: "line",
       margin: [20, 50, 50, 80],
       plotBackgroundColor: "#ffffff",
+      zoomType: "x"
     },
     
     plotOptions: {
@@ -22,6 +23,27 @@ $(document).ready(function() {
     
     title: {
       text: ""
+    },
+    
+    subtitle: {
+      text: "Click and drag to zoom in",
+      style: {
+        color: "#366",
+        fontSize: "10pt",
+        marginTop: "27px",
+        marginLeft: "100px",
+        textAlign: "left"
+      }
+    },
+    
+    toolbar: {
+      itemStyle: {
+        marginTop: "48px",
+        marginLeft: "100px",
+        padding: "1px 7px",
+        fontSize: "10pt",
+        border: "1px solid #4572A7"
+      }
     },
     
     xAxis: {
