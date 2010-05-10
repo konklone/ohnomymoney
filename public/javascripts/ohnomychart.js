@@ -15,9 +15,15 @@ $(document).ready(function() {
       line: {
         color: colors[account.direction],
         marker: {
-          enabled: false
+          enabled: false,
+          states: {
+            hover: {
+              enabled: true,
+              radius: 4
+            }
+          }
         },
-        lineWidth: 3
+        lineWidth: 2
       },
     },
     
