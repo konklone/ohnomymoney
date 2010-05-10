@@ -72,7 +72,8 @@ $(document).ready(function() {
           color: "#444"
         },
         formatter: function() {
-          return formatCurrency(this.value / 100);
+          var prefix = (this.value < 0 ? "-" : "") + "$";
+          return prefix + Highcharts.numberFormat(Math.abs(this.value) / 100, 0, '.', ',');
         }
       }
     },
@@ -88,20 +89,3 @@ $(document).ready(function() {
     
   });
 });
-
-
-// adapted from http://javascript.internet.com/forms/currency-format.html
-function formatCurrency(num) {
-  num = num.toString().replace(/\$|\,/g,'');
-  sign = (num == (num = Math.abs(num)));
-  num = Math.floor(num * 100 + 0.50000000001);
-  // cents = num % 100;
-  num = Math.floor(num / 100).toString();
-  // if (cents < 10) 
-  //   cents = "0" + cents;
-    
-  for (var i = 0; i < Math.floor((num.length - (1 + i)) / 3); i++)
-    num = num.substring(0, num.length - (4 * i + 3)) + ',' + num.substring(num.length - (4 * i + 3));
-    
-  return (sign ? '' : '-') + '$' + num; //  + '.' + cents;
-}
