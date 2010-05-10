@@ -36,6 +36,17 @@ $(document).ready(function() {
       }
     },
     
+    tooltip: {
+      formatter: function() {
+        var date = "<strong>" + Highcharts.dateFormat("%B %e, %Y", this.x) + "</strong>";
+        
+        var prefix = (this.y < 0 ? "-" : "") + "$";
+        var money = prefix + Highcharts.numberFormat(Math.abs(this.y) / 100, 2, '.', ',');
+        
+        return date + "<br/>" + money;
+      }
+    },
+    
     toolbar: {
       itemStyle: {
         marginTop: "48px",
@@ -51,7 +62,7 @@ $(document).ready(function() {
       dateTimeLabelFormats: {
         day: "%b %e",
         week: "%b %e",
-        month: "%b %y",
+        month: "%b '%y",
         year: "%Y"
       },
       labels: {
