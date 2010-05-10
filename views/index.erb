@@ -1,77 +1,41 @@
-<!DOCTYPE html> 
-<html> 
-<head> 
-  <title>Oh No My Money</title>
+<h1>Oh No My Money</h1>
+
+<div class="accounts left">
+  <h2>Oh No</h2>
   
-  <meta content="money graphs charts" name="keywords" />
-  <meta content="<%= user.name %>'s money, on display, with graphs." name="description" />
-  <meta content="<%= user.name %>" name="author" />
-  <meta content="2008" name="copyright" />
-  
-  <link charset="utf-8" href="/stylesheets/ohnomymoney.css" media="screen" rel="stylesheet" type="text/css" />
-  <link href="/<%= user.handle %>/worth.xml" rel="alternate" title="Oh No My Money" type="application/rss+xml" />
-  <% if user.me_url.present? %>
-    <link rel="me" type="text/html" href="<%= user.me_url %>"/>
+  <% debts.each do |account| %>
+    <% balance = account.balances.first :order => "created_at DESC" %>
+    <div class="account">
+      <h3><%= account.name %></h3>
+      <span class="negative"><%= format_amount balance.amount %></span>
+      <a href="/<%= user.handle %>/account/<%= account.id %>">graph</a>
+    </div> 
   <% end %>
-</head> 
-<body> 
+</div>
+
+<div class="accounts right">
+  <h2>My Money</h2>
   
-  <h1>Oh No My Money</h1>
+  <% assets.each do |account| %>
+    <% balance = account.balances.first :order => "created_at DESC" %>
+    <div class="account">
+      <h3><%= account.name %></h3>
+      <span class="positive"><%= format_amount balance.amount %></span>
+      <a href="/<%= user.handle %>/account/<%= account.id %>">graph</a>
+    </div> 
+  <% end %>
   
-  <div class="accounts left">
-    <h2>Oh No</h2>
-    
-    <% debts.each do |account| %>
-      <% balance = account.balances.first :order => "created_at DESC" %>
-      <div class="account">
-        <h3><%= account.name %></h3>
-        <span class="negative"><%= format_amount balance.amount %></span>
-        <a href="/<%= user.handle %>/account/<%= account.id %>">graph</a>
-      </div> 
-    <% end %>
-  </div>
-  
-  <div class="accounts right">
-    <h2>My Money</h2>
-    
-    <% assets.each do |account| %>
-      <% balance = account.balances.first :order => "created_at DESC" %>
-      <div class="account">
-        <h3><%= account.name %></h3>
-        <span class="positive"><%= format_amount balance.amount %></span>
-        <a href="/<%= user.handle %>/account/<%= account.id %>">graph</a>
-      </div> 
-    <% end %>
-    
-  </div> 
-  
-  <div class="worth"> 
-    <h3>Net Worth</h3> 
-    <% balance = worth.balances.first :order => "created_at DESC" %>
-    <span class="<%= direction balance.amount %>"><%= format_amount balance.amount %></span> 
-    <a class="<%= direction balance.amount %>" href="/<%= user.handle %>/account/<%= worth.id %>">graph</a>
-    <h4> 
-      as of <%= long_date Time.now %>
-      <a href="/<%= user.handle %>/worth.xml"> 
-        <img alt="RSS" src="/images/rss.png" /> 
-      </a> 
-    </h4>
-  </div>
-  
-  <div class="footer"> 
-    This is <a href="<%= user.url %>"><%= user.name %></a>'s money.  This site made against the advice of everyone who loves him.
-  </div> 
-  
-  <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-  </script>
-  <script type="text/javascript">
-    try {
-      var pageTracker = _gat._getTracker("UA-252618-6");
-      pageTracker._trackPageview();
-    } catch(err) {}
-  </script>
-  
-</body>
-</html>
+</div> 
+
+<div class="worth"> 
+  <h3>Net Worth</h3> 
+  <% balance = worth.balances.first :order => "created_at DESC" %>
+  <span class="<%= direction balance.amount %>"><%= format_amount balance.amount %></span> 
+  <a class="<%= direction balance.amount %>" href="/<%= user.handle %>/account/<%= worth.id %>">graph</a>
+  <h4> 
+    as of <%= long_date Time.now %>
+    <a href="/<%= user.handle %>/worth.xml"> 
+      <img alt="RSS" src="/images/rss.png" /> 
+    </a> 
+  </h4>
+</div>

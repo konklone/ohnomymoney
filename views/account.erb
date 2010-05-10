@@ -1,16 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
-<html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml"> 
-<head> 
-  <title>Oh No My Money</title>
-  
-  <meta content="money graphs charts" name="keywords" />
-  <meta content="<%= user.name %>'s money, on display, with graphs." name="description" />
-  <meta content="<%= user.name %>" name="author" />
-  <meta content="2008" name="copyright" />
-  
-  <link charset="utf-8" href="/stylesheets/ohnomymoney.css" media="screen" rel="stylesheet" type="text/css" />
-  <link href="/worth.xml" rel="alternate" title="Oh No My Money" type="application/rss+xml" />
-  
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
   <script type="text/javascript" src="/javascripts/highcharts.src.js"></script>
   <!--[if IE]>
@@ -32,8 +19,6 @@
     }
   </script>
   <script type="text/javascript" src="/javascripts/ohnomychart.js"></script>
-</head> 
-<body> 
   
 <div class="accounts left"> 
   <div class="account oldest history"> 
@@ -57,22 +42,3 @@
 </div> 
 
 <div class="graph" id="graph"></div>
-
-<div class="footer">
-  This is <a href="<%= user.url %>"><%= user.name %></a>'s money.  This site made against the advice of everyone who loves him.
-</div>
-
-<script type="text/javascript">
-  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-  try {
-    var pageTracker = _gat._getTracker("UA-252618-6");
-    pageTracker._trackPageview();
-  } catch(err) {}
-</script>
-
-
-</body>
-</html>
