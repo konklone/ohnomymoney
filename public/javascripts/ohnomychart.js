@@ -38,12 +38,16 @@ $(document).ready(function() {
     
     tooltip: {
       formatter: function() {
-        var date = "<strong>" + Highcharts.dateFormat("%B %e, %Y", this.x) + "</strong>";
-        
+        var date =  Highcharts.dateFormat("%B %e, %Y", this.x);
         var prefix = (this.y < 0 ? "-" : "") + "$";
         var money = prefix + Highcharts.numberFormat(Math.abs(this.y) / 100, 2, '.', ',');
         
-        return date + "<br/>" + money;
+        return "<p class=\"tooltip header\">" + date + "</p><p class=\"tooltip value\">" + money + "</p>";
+      },
+      borderColor: "#4572A7",
+      borderWidth: 1,
+      style: {
+        padding: "10px"
       }
     },
     
