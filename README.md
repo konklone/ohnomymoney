@@ -1,13 +1,12 @@
-This code powers [Ohnomymoney.com](http://ohnomymoney.com), a website for visualizing, discussing, and broadcasting one's money.  It's a social money site.
+This code powers [Ohnomymoney.com](http://ohnomymoney.com).  It's a Ruby app running on Sinatra.
 
-It also serves as a playground and showcase for the latest in social graph and conversation APIs.  Namely, this thing is going to integrate with [Pubsubhubbub](http://code.google.com/p/pubsubhubbub/), [Salmon](http://www.salmon-protocol.org/) (and thus [Google Buzz](http://www.google.com/buzz)) and will take advantage of Google's already-activated support for the [PortableContacts](http://portablecontacts.net/) and [Webfinger](http://code.google.com/p/webfinger/) protocols.
+### Loading data
 
-Users will signup using either a [Webfinger](http://code.google.com/p/webfinger/)-enabled email (this includes all Gmail addresses), or an [OpenID](http://openid.net/) - no passwords accepted or stored.
+Money data can be loaded from either the [Wesabe](http://wesabe.com) API or the [Buxfer](http://buxfer.com) API.  Ohnomymoney uses Wesabe as of this writing, as Buxfer [doesn't look like it's doing very well](http://getsatisfaction.com/buxfer/products/buxfer_wwwbuxfercom).  
+
+You'll want to set up an account on one of the two sites, and then fill out the corresponding YML file in the /updaters directory.  The YML setup is a clunky workaround for having a real frontend interface for connecting local accounts to Wesabe or Buxfer accounts.
 
 
-Getting the Money
------------------
+### User accounts
 
-Money loading is done by sitting on top of [Buxfer](http://buxfer.com), a [Mint](http://mint.com) competitor that provides an API over its data.  Sadly, the [Buxfer API](http://www.buxfer.com/help.php?topic=API) currently only supports plain HTTP authentication, so I have to ask users for their Buxfer username and password, which sucks.  In the interim, as I set this site up for just myself, I'll just store my Buxfer username/password somewhere and use that to populate my money.
-
-I'd much prefer that Buxfer give me a better way of accessing their API, like [OAuth](http://oauth.net/) for example, before I open it for public signups.  But, if I get impatient enough, I may launch anyway and just be really clear about why I would ask for someone's Buxfer credentials and deal with the smaller crowd willing to give them to me.
+I want to open up the site to other users, but that's difficult now, with how unreliable the state of bank scraping is online.  When that situation improves, I'll be more inclined to do it.
