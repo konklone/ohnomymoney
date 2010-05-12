@@ -32,7 +32,7 @@ class Account < ActiveRecord::Base
   end
   
   def amount
-    balances.count > 0 ? balances.first(:order => "created_at DESC").amount : 0
+    balances.count > 0 ? balances.first(:order => "date_of DESC").amount : 0
   end
 end
 
