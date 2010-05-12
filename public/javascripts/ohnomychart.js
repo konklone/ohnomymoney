@@ -1,6 +1,7 @@
 var chart;
 var colors = {positive: "#3fb021", negative: "#b61515"};
 
+
 $(document).ready(function() {
   chart = new Highcharts.Chart({
     chart: {
@@ -97,7 +98,8 @@ $(document).ready(function() {
           return prefix + Highcharts.numberFormat(Math.abs(this.value) / 100, 0, '.', ',');
         }
       },
-      max: (account.type == 'worth' && account.direction == 'negative' ? 0 : null)
+      max: (account.type == 'worth' && account.direction == 'negative' ? 0 : null),
+      min: (account.name == 'Savings' ? 0 : null)
     },
     
     series: [{
