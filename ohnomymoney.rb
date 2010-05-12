@@ -40,7 +40,7 @@ get "/:handle/account/:id/?" do
   erb :account, :locals => {
     :user => user,
     :account => account,
-    :balances => account.balances.all(:order => "created_at ASC")
+    :balances => account.balances.all(:order => "date_of ASC")
   }
 end
 
@@ -52,7 +52,7 @@ get "/:handle/worth.xml" do
   erb :worth, :locals => {
     :user => user,
     :account => account,
-    :balances => account.balances.all(:limit => 10, :order => "created_at DESC")
+    :balances => account.balances.all(:limit => 10, :order => "date_of DESC")
   }
 end
 
