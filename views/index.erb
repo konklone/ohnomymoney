@@ -4,6 +4,10 @@
   <% end %>
 <% end %>
 
+<% content_for :footer do %>
+  This is <a href="<%= user.url %>"><%= user.name %></a>'s money.  This site made against the advice of everyone who loves him.
+<% end %>
+
 <h1>Oh No My Money</h1>
 
 <div class="accounts left">

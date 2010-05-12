@@ -23,6 +23,12 @@
   <script type="text/javascript" src="/javascripts/ohnomychart.js"></script>
 <% end %>
 
+<% content_for :footer do %>
+  <p>
+    Data powered mostly by <a href="http://wesabe.com">Wesabe</a>, and some with my hands. Code lives on <a href="http://github.com/klondike/ohnomymoney">Github</a>.
+  </p>
+<% end %>
+
 <div class="accounts left"> 
   <div class="account oldest history"> 
     <h3 class="date"><%= long_date balances.first.date_of %></h3> 
