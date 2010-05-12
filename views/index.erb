@@ -10,7 +10,7 @@
   <h2>Oh No</h2>
   
   <% debts.each do |account| %>
-    <% balance = account.balances.first :order => "created_at DESC" %>
+    <% balance = account.balances.first :order => "date_of DESC" %>
     <div class="account">
       <h3><%= account.name %></h3>
       <span class="negative"><%= format_amount balance.amount %></span>
@@ -23,7 +23,7 @@
   <h2>My Money</h2>
   
   <% assets.each do |account| %>
-    <% balance = account.balances.first :order => "created_at DESC" %>
+    <% balance = account.balances.first :order => "date_of DESC" %>
     <div class="account">
       <h3><%= account.name %></h3>
       <span class="positive"><%= format_amount balance.amount %></span>
@@ -35,7 +35,7 @@
 
 <div class="worth"> 
   <h3>Net Worth</h3> 
-  <% balance = worth.balances.first :order => "created_at DESC" %>
+  <% balance = worth.balances.first :order => "date_of DESC" %>
   <span class="<%= direction balance.amount %>"><%= format_amount balance.amount %></span> 
   <a class="<%= direction balance.amount %>" href="/<%= user.handle %>/account/<%= worth.id %>">graph</a>
   <h4> 
