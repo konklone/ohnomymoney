@@ -53,7 +53,7 @@ get "/:handle/worth.xml" do
     :user => user,
     :account => account,
     :balances => account.balances.all(:limit => 10, :order => "date_of DESC")
-  }
+  }, :layout => false
 end
 
 helpers do
