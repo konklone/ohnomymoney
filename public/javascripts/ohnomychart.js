@@ -1,13 +1,27 @@
 var chart;
-var colors = {positive: "#3fb021", negative: "#b61515"};
 
+// color of the graph's line
 var color;
+var colors = {positive: "#3fb021", negative: "#b61515"};
 if (account.type == 'worth')
   color = colors[account.direction];
 else if (account.type == 'assets')
   color = colors.positive;
 else // if (account.type == 'debts')
   color = colors.negative;
+  
+
+// y axis options for different types of accounts
+var min, max;
+var reversed = false;
+if (account.type == 'worth' && account.direction == 'negative')
+  max = 0;
+else if (account.type == 'debts') {
+  reversed = true;
+  max = 0;
+} else if (account.name == 'Savings')
+  min = 0;
+
 
 $(document).ready(function() {
   chart = new Highcharts.Chart({
@@ -105,8 +119,9 @@ $(document).ready(function() {
           return prefix + Highcharts.numberFormat(Math.abs(this.value) / 100, 0, '.', ',');
         }
       },
-      max: ((account.type == 'worth' && account.direction == 'negative') || (account.type == 'debts') ? 0 : null),
-      min: (account.name == 'Savings' ? 0 : null)
+      max: max,
+      min: min,
+      reversed: reversed
     },
     
     series: [{
