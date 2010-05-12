@@ -11,12 +11,13 @@
       id: <%= account.id %>,
       name: "<%= account.name %>",
       type: "<%= account.account_type %>",
+      direction: "<%= balances.last.amount < 0 ? "negative" : "positive" %>",
+      
       balances: [<%=
         balances.map do |b| 
           "[#{b.date_of.to_time.to_i * 1000}, #{b.amount}]"
         end.join(", ") 
-      %>],
-      direction: "<%= balances.last.amount < 0 ? "negative" : "positive" %>"
+      %>]
     }
   </script>
   <script type="text/javascript" src="/javascripts/ohnomychart.js"></script>

@@ -96,7 +96,8 @@ $(document).ready(function() {
           var prefix = (this.value < 0 ? "-" : "") + "$";
           return prefix + Highcharts.numberFormat(Math.abs(this.value) / 100, 0, '.', ',');
         }
-      }
+      },
+      max: (account.type == 'worth' && account.direction == 'negative' ? 0 : null)
     },
     
     series: [{
