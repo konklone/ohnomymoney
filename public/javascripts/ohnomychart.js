@@ -1,6 +1,13 @@
 var chart;
 var colors = {positive: "#3fb021", negative: "#b61515"};
 
+var color;
+if (account.type == 'worth')
+  color = colors[account.direction];
+else if (account.type == 'assets')
+  color = colors.positive;
+else // if (account.type == 'debts')
+  color = colors.negative;
 
 $(document).ready(function() {
   chart = new Highcharts.Chart({
@@ -14,7 +21,7 @@ $(document).ready(function() {
     
     plotOptions: {
       line: {
-        color: colors[account.direction],
+        color: color,
         marker: {
           enabled: false,
           states: {
