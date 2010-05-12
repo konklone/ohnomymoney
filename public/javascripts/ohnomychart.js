@@ -28,9 +28,17 @@ $(document).ready(function() {
     chart: {
       renderTo: "graph",
       defaultSeriesType: "line",
-      margin: [20, 50, 50, 80],
-      plotBackgroundColor: "#ffffff",
-      zoomType: "x"
+      margin: [20, 50, 50, 80], 
+      zoomType: "x",
+      backgroundColor: {
+        linearGradient: [0, 0, 0, 400],
+        stops: [
+          [0, "rgb(255, 255, 255)"],
+          [1, "rgb(240, 240, 240)"]
+        ]
+      },
+      borderColor: "#98C2D5",
+      borderWidth: 1
     },
     
     plotOptions: {
@@ -58,9 +66,20 @@ $(document).ready(function() {
       style: {
         color: "#366",
         fontSize: "10pt",
+        fontWeight: "bold",
         marginTop: "27px",
         marginLeft: "100px",
         textAlign: "left"
+      }
+    },
+    
+    toolbar: {
+      itemStyle: {
+        marginTop: "48px",
+        marginLeft: "100px",
+        padding: "1px 7px",
+        fontSize: "10pt",
+        border: "1px solid #4572A7"
       }
     },
     
@@ -76,16 +95,6 @@ $(document).ready(function() {
       borderWidth: 1,
       style: {
         padding: "10px"
-      }
-    },
-    
-    toolbar: {
-      itemStyle: {
-        marginTop: "48px",
-        marginLeft: "100px",
-        padding: "1px 7px",
-        fontSize: "10pt",
-        border: "1px solid #4572A7"
       }
     },
     
@@ -112,7 +121,8 @@ $(document).ready(function() {
       },
       labels: {
         style: {
-          color: "#444"
+          color: "#444",
+          fontSize: "10pt"
         },
         formatter: function() {
           var prefix = (this.value < 0 ? "-" : "") + "$";
