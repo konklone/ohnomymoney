@@ -5824,1456 +5824,1456 @@
   user_id: 1
   date_of: 2008-12-24
 - created_at: 2008-05-31 00:00:00 -04:00
-  updated_at: 2008-05-31 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2369946
   id: 1078
   user_id: 1
   date_of: 2008-05-31
 - created_at: 2008-06-01 00:00:00 -04:00
-  updated_at: 2008-06-01 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2115629
   id: 1079
   user_id: 1
   date_of: 2008-06-01
 - created_at: 2008-06-02 00:00:00 -04:00
-  updated_at: 2008-06-02 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2340702
   id: 1080
   user_id: 1
   date_of: 2008-06-02
 - created_at: 2008-06-03 00:00:00 -04:00
-  updated_at: 2008-06-03 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2361853
   id: 1081
   user_id: 1
   date_of: 2008-06-03
 - created_at: 2008-06-04 00:00:00 -04:00
-  updated_at: 2008-06-04 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2363465
   id: 1082
   user_id: 1
   date_of: 2008-06-04
 - created_at: 2008-06-05 00:00:00 -04:00
-  updated_at: 2008-06-05 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2434165
   id: 1083
   user_id: 1
   date_of: 2008-06-05
 - created_at: 2008-06-06 00:00:00 -04:00
-  updated_at: 2008-06-06 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2245862
   id: 1084
   user_id: 1
   date_of: 2008-06-06
 - created_at: 2008-06-07 00:00:00 -04:00
-  updated_at: 2008-06-07 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2247702
   id: 1085
   user_id: 1
   date_of: 2008-06-07
 - created_at: 2008-06-08 00:00:00 -04:00
-  updated_at: 2008-06-08 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2247702
   id: 1086
   user_id: 1
   date_of: 2008-06-08
 - created_at: 2008-06-09 00:00:00 -04:00
-  updated_at: 2008-06-09 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2249327
   id: 1087
   user_id: 1
   date_of: 2008-06-09
 - created_at: 2008-06-10 00:00:00 -04:00
-  updated_at: 2008-06-10 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2263953
   id: 1088
   user_id: 1
   date_of: 2008-06-10
 - created_at: 2008-06-11 00:00:00 -04:00
-  updated_at: 2008-06-11 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2263953
   id: 1089
   user_id: 1
   date_of: 2008-06-11
 - created_at: 2008-06-12 00:00:00 -04:00
-  updated_at: 2008-06-12 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2287632
   id: 1090
   user_id: 1
   date_of: 2008-06-12
 - created_at: 2008-06-13 00:00:00 -04:00
-  updated_at: 2008-06-13 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2344603
   id: 1091
   user_id: 1
   date_of: 2008-06-13
 - created_at: 2008-06-14 00:00:00 -04:00
-  updated_at: 2008-06-14 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2349678
   id: 1092
   user_id: 1
   date_of: 2008-06-14
 - created_at: 2008-06-15 00:00:00 -04:00
-  updated_at: 2008-06-15 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2349678
   id: 1093
   user_id: 1
   date_of: 2008-06-15
 - created_at: 2008-06-16 00:00:00 -04:00
-  updated_at: 2008-06-16 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2349678
   id: 1094
   user_id: 1
   date_of: 2008-06-16
 - created_at: 2008-06-17 00:00:00 -04:00
-  updated_at: 2008-06-17 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2349678
   id: 1095
   user_id: 1
   date_of: 2008-06-17
 - created_at: 2008-06-18 00:00:00 -04:00
-  updated_at: 2008-06-18 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2365844
   id: 1096
   user_id: 1
   date_of: 2008-06-18
 - created_at: 2008-06-19 00:00:00 -04:00
-  updated_at: 2008-06-19 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2365844
   id: 1097
   user_id: 1
   date_of: 2008-06-19
 - created_at: 2008-06-20 00:00:00 -04:00
-  updated_at: 2008-06-20 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2365844
   id: 1098
   user_id: 1
   date_of: 2008-06-20
 - created_at: 2008-06-21 00:00:00 -04:00
-  updated_at: 2008-06-21 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2364248
   id: 1099
   user_id: 1
   date_of: 2008-06-21
 - created_at: 2008-06-22 00:00:00 -04:00
-  updated_at: 2008-06-22 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2401551
   id: 1100
   user_id: 1
   date_of: 2008-06-22
 - created_at: 2008-06-23 00:00:00 -04:00
-  updated_at: 2008-06-23 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2312450
   id: 1101
   user_id: 1
   date_of: 2008-06-23
 - created_at: 2008-06-24 00:00:00 -04:00
-  updated_at: 2008-06-24 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2270050
   id: 1102
   user_id: 1
   date_of: 2008-06-24
 - created_at: 2008-06-25 00:00:00 -04:00
-  updated_at: 2008-06-25 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2266250
   id: 1103
   user_id: 1
   date_of: 2008-06-25
 - created_at: 2008-06-26 00:00:00 -04:00
-  updated_at: 2008-06-26 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2279310
   id: 1104
   user_id: 1
   date_of: 2008-06-26
 - created_at: 2008-06-27 00:00:00 -04:00
-  updated_at: 2008-06-27 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2288835
   id: 1105
   user_id: 1
   date_of: 2008-06-27
 - created_at: 2008-06-28 00:00:00 -04:00
-  updated_at: 2008-06-28 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2308835
   id: 1106
   user_id: 1
   date_of: 2008-06-28
 - created_at: 2008-06-29 00:00:00 -04:00
-  updated_at: 2008-06-29 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2316634
   id: 1107
   user_id: 1
   date_of: 2008-06-29
 - created_at: 2008-06-30 00:00:00 -04:00
-  updated_at: 2008-06-30 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2325249
   id: 1108
   user_id: 1
   date_of: 2008-06-30
 - created_at: 2008-07-01 00:00:00 -04:00
-  updated_at: 2008-07-01 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2331909
   id: 1109
   user_id: 1
   date_of: 2008-07-01
 - created_at: 2008-07-02 00:00:00 -04:00
-  updated_at: 2008-07-02 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2335463
   id: 1110
   user_id: 1
   date_of: 2008-07-02
 - created_at: 2008-07-03 00:00:00 -04:00
-  updated_at: 2008-07-03 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2164700
   id: 1111
   user_id: 1
   date_of: 2008-07-03
 - created_at: 2008-07-04 00:00:00 -04:00
-  updated_at: 2008-07-04 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2134320
   id: 1112
   user_id: 1
   date_of: 2008-07-04
 - created_at: 2008-07-05 00:00:00 -04:00
-  updated_at: 2008-07-05 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2134320
   id: 1113
   user_id: 1
   date_of: 2008-07-05
 - created_at: 2008-07-06 00:00:00 -04:00
-  updated_at: 2008-07-06 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2144048
   id: 1114
   user_id: 1
   date_of: 2008-07-06
 - created_at: 2008-07-07 00:00:00 -04:00
-  updated_at: 2008-07-07 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2144048
   id: 1115
   user_id: 1
   date_of: 2008-07-07
 - created_at: 2008-07-08 00:00:00 -04:00
-  updated_at: 2008-07-08 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2057986
   id: 1116
   user_id: 1
   date_of: 2008-07-08
 - created_at: 2008-07-09 00:00:00 -04:00
-  updated_at: 2008-07-09 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2057986
   id: 1117
   user_id: 1
   date_of: 2008-07-09
 - created_at: 2008-07-10 00:00:00 -04:00
-  updated_at: 2008-07-10 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2287536
   id: 1118
   user_id: 1
   date_of: 2008-07-10
 - created_at: 2008-07-11 00:00:00 -04:00
-  updated_at: 2008-07-11 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2274901
   id: 1119
   user_id: 1
   date_of: 2008-07-11
 - created_at: 2008-07-12 00:00:00 -04:00
-  updated_at: 2008-07-12 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2274901
   id: 1120
   user_id: 1
   date_of: 2008-07-12
 - created_at: 2008-07-13 00:00:00 -04:00
-  updated_at: 2008-07-13 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2274901
   id: 1121
   user_id: 1
   date_of: 2008-07-13
 - created_at: 2008-07-14 00:00:00 -04:00
-  updated_at: 2008-07-14 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2274901
   id: 1122
   user_id: 1
   date_of: 2008-07-14
 - created_at: 2008-07-15 00:00:00 -04:00
-  updated_at: 2008-07-15 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2291164
   id: 1123
   user_id: 1
   date_of: 2008-07-15
 - created_at: 2008-07-16 00:00:00 -04:00
-  updated_at: 2008-07-16 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2288646
   id: 1124
   user_id: 1
   date_of: 2008-07-16
 - created_at: 2008-07-17 00:00:00 -04:00
-  updated_at: 2008-07-17 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2276227
   id: 1125
   user_id: 1
   date_of: 2008-07-17
 - created_at: 2008-07-18 00:00:00 -04:00
-  updated_at: 2008-07-18 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2276227
   id: 1126
   user_id: 1
   date_of: 2008-07-18
 - created_at: 2008-07-19 00:00:00 -04:00
-  updated_at: 2008-07-19 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2356649
   id: 1127
   user_id: 1
   date_of: 2008-07-19
 - created_at: 2008-07-20 00:00:00 -04:00
-  updated_at: 2008-07-20 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2356649
   id: 1128
   user_id: 1
   date_of: 2008-07-20
 - created_at: 2008-07-21 00:00:00 -04:00
-  updated_at: 2008-07-21 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2369499
   id: 1129
   user_id: 1
   date_of: 2008-07-21
 - created_at: 2008-07-22 00:00:00 -04:00
-  updated_at: 2008-07-22 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2369499
   id: 1130
   user_id: 1
   date_of: 2008-07-22
 - created_at: 2008-07-23 00:00:00 -04:00
-  updated_at: 2008-07-23 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2369499
   id: 1131
   user_id: 1
   date_of: 2008-07-23
 - created_at: 2008-07-24 00:00:00 -04:00
-  updated_at: 2008-07-24 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2369499
   id: 1132
   user_id: 1
   date_of: 2008-07-24
 - created_at: 2008-07-25 00:00:00 -04:00
-  updated_at: 2008-07-25 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2379220
   id: 1133
   user_id: 1
   date_of: 2008-07-25
 - created_at: 2008-07-26 00:00:00 -04:00
-  updated_at: 2008-07-26 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2386512
   id: 1134
   user_id: 1
   date_of: 2008-07-26
 - created_at: 2008-07-27 00:00:00 -04:00
-  updated_at: 2008-07-27 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2386512
   id: 1135
   user_id: 1
   date_of: 2008-07-27
 - created_at: 2008-07-28 00:00:00 -04:00
-  updated_at: 2008-07-28 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2394384
   id: 1136
   user_id: 1
   date_of: 2008-07-28
 - created_at: 2008-07-29 00:00:00 -04:00
-  updated_at: 2008-07-29 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2394384
   id: 1137
   user_id: 1
   date_of: 2008-07-29
 - created_at: 2008-07-30 00:00:00 -04:00
-  updated_at: 2008-07-30 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2394384
   id: 1138
   user_id: 1
   date_of: 2008-07-30
 - created_at: 2008-07-31 00:00:00 -04:00
-  updated_at: 2008-07-31 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2394384
   id: 1139
   user_id: 1
   date_of: 2008-07-31
 - created_at: 2008-08-01 00:00:00 -04:00
-  updated_at: 2008-08-01 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2266162
   id: 1140
   user_id: 1
   date_of: 2008-08-01
 - created_at: 2008-08-02 00:00:00 -04:00
-  updated_at: 2008-08-02 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2296878
   id: 1141
   user_id: 1
   date_of: 2008-08-02
 - created_at: 2008-08-03 00:00:00 -04:00
-  updated_at: 2008-08-03 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2307678
   id: 1142
   user_id: 1
   date_of: 2008-08-03
 - created_at: 2008-08-04 00:00:00 -04:00
-  updated_at: 2008-08-04 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2275922
   id: 1143
   user_id: 1
   date_of: 2008-08-04
 - created_at: 2008-08-05 00:00:00 -04:00
-  updated_at: 2008-08-05 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2261297
   id: 1144
   user_id: 1
   date_of: 2008-08-05
 - created_at: 2008-08-06 00:00:00 -04:00
-  updated_at: 2008-08-06 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2271425
   id: 1145
   user_id: 1
   date_of: 2008-08-06
 - created_at: 2008-08-07 00:00:00 -04:00
-  updated_at: 2008-08-07 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2280762
   id: 1146
   user_id: 1
   date_of: 2008-08-07
 - created_at: 2008-08-08 00:00:00 -04:00
-  updated_at: 2008-08-08 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2390041
   id: 1147
   user_id: 1
   date_of: 2008-08-08
 - created_at: 2008-08-09 00:00:00 -04:00
-  updated_at: 2008-08-09 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2390041
   id: 1148
   user_id: 1
   date_of: 2008-08-09
 - created_at: 2008-08-10 00:00:00 -04:00
-  updated_at: 2008-08-10 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2390041
   id: 1149
   user_id: 1
   date_of: 2008-08-10
 - created_at: 2008-08-11 00:00:00 -04:00
-  updated_at: 2008-08-11 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2401656
   id: 1150
   user_id: 1
   date_of: 2008-08-11
 - created_at: 2008-08-12 00:00:00 -04:00
-  updated_at: 2008-08-12 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2407510
   id: 1151
   user_id: 1
   date_of: 2008-08-12
 - created_at: 2008-08-13 00:00:00 -04:00
-  updated_at: 2008-08-13 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2407759
   id: 1152
   user_id: 1
   date_of: 2008-08-13
 - created_at: 2008-08-14 00:00:00 -04:00
-  updated_at: 2008-08-14 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2206839
   id: 1153
   user_id: 1
   date_of: 2008-08-14
 - created_at: 2008-08-15 00:00:00 -04:00
-  updated_at: 2008-08-15 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2255585
   id: 1154
   user_id: 1
   date_of: 2008-08-15
 - created_at: 2008-08-16 00:00:00 -04:00
-  updated_at: 2008-08-16 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2265767
   id: 1155
   user_id: 1
   date_of: 2008-08-16
 - created_at: 2008-08-17 00:00:00 -04:00
-  updated_at: 2008-08-17 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2265767
   id: 1156
   user_id: 1
   date_of: 2008-08-17
 - created_at: 2008-08-18 00:00:00 -04:00
-  updated_at: 2008-08-18 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2283847
   id: 1157
   user_id: 1
   date_of: 2008-08-18
 - created_at: 2008-08-19 00:00:00 -04:00
-  updated_at: 2008-08-19 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2283847
   id: 1158
   user_id: 1
   date_of: 2008-08-19
 - created_at: 2008-08-20 00:00:00 -04:00
-  updated_at: 2008-08-20 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2442840
   id: 1159
   user_id: 1
   date_of: 2008-08-20
 - created_at: 2008-08-21 00:00:00 -04:00
-  updated_at: 2008-08-21 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2456915
   id: 1160
   user_id: 1
   date_of: 2008-08-21
 - created_at: 2008-08-22 00:00:00 -04:00
-  updated_at: 2008-08-22 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2461090
   id: 1161
   user_id: 1
   date_of: 2008-08-22
 - created_at: 2008-08-23 00:00:00 -04:00
-  updated_at: 2008-08-23 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2461490
   id: 1162
   user_id: 1
   date_of: 2008-08-23
 - created_at: 2008-08-24 00:00:00 -04:00
-  updated_at: 2008-08-24 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2467665
   id: 1163
   user_id: 1
   date_of: 2008-08-24
 - created_at: 2008-08-25 00:00:00 -04:00
-  updated_at: 2008-08-25 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2485465
   id: 1164
   user_id: 1
   date_of: 2008-08-25
 - created_at: 2008-08-26 00:00:00 -04:00
-  updated_at: 2008-08-26 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2479470
   id: 1165
   user_id: 1
   date_of: 2008-08-26
 - created_at: 2008-08-27 00:00:00 -04:00
-  updated_at: 2008-08-27 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:02 -04:00
   account_id: 1
   amount: -2479470
   id: 1166
   user_id: 1
   date_of: 2008-08-27
 - created_at: 2008-08-28 00:00:00 -04:00
-  updated_at: 2008-08-28 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2270893
   id: 1167
   user_id: 1
   date_of: 2008-08-28
 - created_at: 2008-08-29 00:00:00 -04:00
-  updated_at: 2008-08-29 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2270893
   id: 1168
   user_id: 1
   date_of: 2008-08-29
 - created_at: 2008-08-30 00:00:00 -04:00
-  updated_at: 2008-08-30 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2402448
   id: 1169
   user_id: 1
   date_of: 2008-08-30
 - created_at: 2008-08-31 00:00:00 -04:00
-  updated_at: 2008-08-31 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2407029
   id: 1170
   user_id: 1
   date_of: 2008-08-31
 - created_at: 2008-09-01 00:00:00 -04:00
-  updated_at: 2008-09-01 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2419325
   id: 1171
   user_id: 1
   date_of: 2008-09-01
 - created_at: 2008-09-02 00:00:00 -04:00
-  updated_at: 2008-09-02 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2419325
   id: 1172
   user_id: 1
   date_of: 2008-09-02
 - created_at: 2008-09-03 00:00:00 -04:00
-  updated_at: 2008-09-03 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2448471
   id: 1173
   user_id: 1
   date_of: 2008-09-03
 - created_at: 2008-09-04 00:00:00 -04:00
-  updated_at: 2008-09-04 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2448471
   id: 1174
   user_id: 1
   date_of: 2008-09-04
 - created_at: 2008-09-05 00:00:00 -04:00
-  updated_at: 2008-09-05 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2470265
   id: 1175
   user_id: 1
   date_of: 2008-09-05
 - created_at: 2008-09-06 00:00:00 -04:00
-  updated_at: 2008-09-06 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2470265
   id: 1176
   user_id: 1
   date_of: 2008-09-06
 - created_at: 2008-09-07 00:00:00 -04:00
-  updated_at: 2008-09-07 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2470265
   id: 1177
   user_id: 1
   date_of: 2008-09-07
 - created_at: 2008-09-08 00:00:00 -04:00
-  updated_at: 2008-09-08 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2482705
   id: 1178
   user_id: 1
   date_of: 2008-09-08
 - created_at: 2008-09-09 00:00:00 -04:00
-  updated_at: 2008-09-09 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2417432
   id: 1179
   user_id: 1
   date_of: 2008-09-09
 - created_at: 2008-09-10 00:00:00 -04:00
-  updated_at: 2008-09-10 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2332330
   id: 1180
   user_id: 1
   date_of: 2008-09-10
 - created_at: 2008-09-11 00:00:00 -04:00
-  updated_at: 2008-09-11 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2336130
   id: 1181
   user_id: 1
   date_of: 2008-09-11
 - created_at: 2008-09-12 00:00:00 -04:00
-  updated_at: 2008-09-12 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2340329
   id: 1182
   user_id: 1
   date_of: 2008-09-12
 - created_at: 2008-09-13 00:00:00 -04:00
-  updated_at: 2008-09-13 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2340329
   id: 1183
   user_id: 1
   date_of: 2008-09-13
 - created_at: 2008-09-14 00:00:00 -04:00
-  updated_at: 2008-09-14 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2346401
   id: 1184
   user_id: 1
   date_of: 2008-09-14
 - created_at: 2008-09-15 00:00:00 -04:00
-  updated_at: 2008-09-15 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2346401
   id: 1185
   user_id: 1
   date_of: 2008-09-15
 - created_at: 2008-09-16 00:00:00 -04:00
-  updated_at: 2008-09-16 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2340901
   id: 1186
   user_id: 1
   date_of: 2008-09-16
 - created_at: 2008-09-17 00:00:00 -04:00
-  updated_at: 2008-09-17 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2440952
   id: 1187
   user_id: 1
   date_of: 2008-09-17
 - created_at: 2008-09-18 00:00:00 -04:00
-  updated_at: 2008-09-18 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2451787
   id: 1188
   user_id: 1
   date_of: 2008-09-18
 - created_at: 2008-09-19 00:00:00 -04:00
-  updated_at: 2008-09-19 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2275327
   id: 1189
   user_id: 1
   date_of: 2008-09-19
 - created_at: 2008-09-20 00:00:00 -04:00
-  updated_at: 2008-09-20 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2284404
   id: 1190
   user_id: 1
   date_of: 2008-09-20
 - created_at: 2008-09-21 00:00:00 -04:00
-  updated_at: 2008-09-21 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2290863
   id: 1191
   user_id: 1
   date_of: 2008-09-21
 - created_at: 2008-09-22 00:00:00 -04:00
-  updated_at: 2008-09-22 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2290863
   id: 1192
   user_id: 1
   date_of: 2008-09-22
 - created_at: 2008-09-23 00:00:00 -04:00
-  updated_at: 2008-09-23 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2290863
   id: 1193
   user_id: 1
   date_of: 2008-09-23
 - created_at: 2008-09-24 00:00:00 -04:00
-  updated_at: 2008-09-24 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2290863
   id: 1194
   user_id: 1
   date_of: 2008-09-24
 - created_at: 2008-09-25 00:00:00 -04:00
-  updated_at: 2008-09-25 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2341778
   id: 1195
   user_id: 1
   date_of: 2008-09-25
 - created_at: 2008-09-26 00:00:00 -04:00
-  updated_at: 2008-09-26 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2351346
   id: 1196
   user_id: 1
   date_of: 2008-09-26
 - created_at: 2008-09-27 00:00:00 -04:00
-  updated_at: 2008-09-27 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2354920
   id: 1197
   user_id: 1
   date_of: 2008-09-27
 - created_at: 2008-09-28 00:00:00 -04:00
-  updated_at: 2008-09-28 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2373296
   id: 1198
   user_id: 1
   date_of: 2008-09-28
 - created_at: 2008-09-29 00:00:00 -04:00
-  updated_at: 2008-09-29 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2373296
   id: 1199
   user_id: 1
   date_of: 2008-09-29
 - created_at: 2008-09-30 00:00:00 -04:00
-  updated_at: 2008-09-30 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2216970
   id: 1200
   user_id: 1
   date_of: 2008-09-30
 - created_at: 2008-10-01 00:00:00 -04:00
-  updated_at: 2008-10-01 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2227964
   id: 1201
   user_id: 1
   date_of: 2008-10-01
 - created_at: 2008-10-02 00:00:00 -04:00
-  updated_at: 2008-10-02 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2333664
   id: 1202
   user_id: 1
   date_of: 2008-10-02
 - created_at: 2008-10-03 00:00:00 -04:00
-  updated_at: 2008-10-03 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2347206
   id: 1203
   user_id: 1
   date_of: 2008-10-03
 - created_at: 2008-10-04 00:00:00 -04:00
-  updated_at: 2008-10-04 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2364112
   id: 1204
   user_id: 1
   date_of: 2008-10-04
 - created_at: 2008-10-05 00:00:00 -04:00
-  updated_at: 2008-10-05 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2368312
   id: 1205
   user_id: 1
   date_of: 2008-10-05
 - created_at: 2008-10-06 00:00:00 -04:00
-  updated_at: 2008-10-06 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2370869
   id: 1206
   user_id: 1
   date_of: 2008-10-06
 - created_at: 2008-10-07 00:00:00 -04:00
-  updated_at: 2008-10-07 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2377144
   id: 1207
   user_id: 1
   date_of: 2008-10-07
 - created_at: 2008-10-08 00:00:00 -04:00
-  updated_at: 2008-10-08 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2407033
   id: 1208
   user_id: 1
   date_of: 2008-10-08
 - created_at: 2008-10-09 00:00:00 -04:00
-  updated_at: 2008-10-09 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2407033
   id: 1209
   user_id: 1
   date_of: 2008-10-09
 - created_at: 2008-10-10 00:00:00 -04:00
-  updated_at: 2008-10-10 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2407033
   id: 1210
   user_id: 1
   date_of: 2008-10-10
 - created_at: 2008-10-11 00:00:00 -04:00
-  updated_at: 2008-10-11 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2407033
   id: 1211
   user_id: 1
   date_of: 2008-10-11
 - created_at: 2008-10-12 00:00:00 -04:00
-  updated_at: 2008-10-12 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2407033
   id: 1212
   user_id: 1
   date_of: 2008-10-12
 - created_at: 2008-10-13 00:00:00 -04:00
-  updated_at: 2008-10-13 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2417033
   id: 1213
   user_id: 1
   date_of: 2008-10-13
 - created_at: 2008-10-14 00:00:00 -04:00
-  updated_at: 2008-10-14 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2417033
   id: 1214
   user_id: 1
   date_of: 2008-10-14
 - created_at: 2008-10-15 00:00:00 -04:00
-  updated_at: 2008-10-15 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2270788
   id: 1215
   user_id: 1
   date_of: 2008-10-15
 - created_at: 2008-10-16 00:00:00 -04:00
-  updated_at: 2008-10-16 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2221846
   id: 1216
   user_id: 1
   date_of: 2008-10-16
 - created_at: 2008-10-17 00:00:00 -04:00
-  updated_at: 2008-10-17 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2282792
   id: 1217
   user_id: 1
   date_of: 2008-10-17
 - created_at: 2008-10-18 00:00:00 -04:00
-  updated_at: 2008-10-18 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2291141
   id: 1218
   user_id: 1
   date_of: 2008-10-18
 - created_at: 2008-10-19 00:00:00 -04:00
-  updated_at: 2008-10-19 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2299741
   id: 1219
   user_id: 1
   date_of: 2008-10-19
 - created_at: 2008-10-20 00:00:00 -04:00
-  updated_at: 2008-10-20 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2313456
   id: 1220
   user_id: 1
   date_of: 2008-10-20
 - created_at: 2008-10-21 00:00:00 -04:00
-  updated_at: 2008-10-21 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2313456
   id: 1221
   user_id: 1
   date_of: 2008-10-21
 - created_at: 2008-10-22 00:00:00 -04:00
-  updated_at: 2008-10-22 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2316046
   id: 1222
   user_id: 1
   date_of: 2008-10-22
 - created_at: 2008-10-23 00:00:00 -04:00
-  updated_at: 2008-10-23 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2316046
   id: 1223
   user_id: 1
   date_of: 2008-10-23
 - created_at: 2008-10-24 00:00:00 -04:00
-  updated_at: 2008-10-24 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2317317
   id: 1224
   user_id: 1
   date_of: 2008-10-24
 - created_at: 2008-10-25 00:00:00 -04:00
-  updated_at: 2008-10-25 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2323091
   id: 1225
   user_id: 1
   date_of: 2008-10-25
 - created_at: 2008-10-26 00:00:00 -04:00
-  updated_at: 2008-10-26 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2323091
   id: 1226
   user_id: 1
   date_of: 2008-10-26
 - created_at: 2008-10-27 00:00:00 -04:00
-  updated_at: 2008-10-27 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2323091
   id: 1227
   user_id: 1
   date_of: 2008-10-27
 - created_at: 2008-10-28 00:00:00 -04:00
-  updated_at: 2008-10-28 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2323091
   id: 1228
   user_id: 1
   date_of: 2008-10-28
 - created_at: 2008-10-29 00:00:00 -04:00
-  updated_at: 2008-10-29 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2333091
   id: 1229
   user_id: 1
   date_of: 2008-10-29
 - created_at: 2008-10-30 00:00:00 -04:00
-  updated_at: 2008-10-30 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2333091
   id: 1230
   user_id: 1
   date_of: 2008-10-30
 - created_at: 2008-10-31 00:00:00 -04:00
-  updated_at: 2008-10-31 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2184250
   id: 1231
   user_id: 1
   date_of: 2008-10-31
 - created_at: 2008-11-01 00:00:00 -04:00
-  updated_at: 2008-11-01 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2188118
   id: 1232
   user_id: 1
   date_of: 2008-11-01
 - created_at: 2008-11-02 00:00:00 -04:00
-  updated_at: 2008-11-02 00:00:00 -04:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2192369
   id: 1233
   user_id: 1
   date_of: 2008-11-02
 - created_at: 2008-11-03 00:00:00 -05:00
-  updated_at: 2008-11-03 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2192369
   id: 1234
   user_id: 1
   date_of: 2008-11-03
 - created_at: 2008-11-04 00:00:00 -05:00
-  updated_at: 2008-11-04 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2312566
   id: 1235
   user_id: 1
   date_of: 2008-11-04
 - created_at: 2008-11-05 00:00:00 -05:00
-  updated_at: 2008-11-05 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2328576
   id: 1236
   user_id: 1
   date_of: 2008-11-05
 - created_at: 2008-11-06 00:00:00 -05:00
-  updated_at: 2008-11-06 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2328576
   id: 1237
   user_id: 1
   date_of: 2008-11-06
 - created_at: 2008-11-07 00:00:00 -05:00
-  updated_at: 2008-11-07 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2340432
   id: 1238
   user_id: 1
   date_of: 2008-11-07
 - created_at: 2008-11-08 00:00:00 -05:00
-  updated_at: 2008-11-08 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2346360
   id: 1239
   user_id: 1
   date_of: 2008-11-08
 - created_at: 2008-11-09 00:00:00 -05:00
-  updated_at: 2008-11-09 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2350360
   id: 1240
   user_id: 1
   date_of: 2008-11-09
 - created_at: 2008-11-10 00:00:00 -05:00
-  updated_at: 2008-11-10 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2342328
   id: 1241
   user_id: 1
   date_of: 2008-11-10
 - created_at: 2008-11-11 00:00:00 -05:00
-  updated_at: 2008-11-11 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2342328
   id: 1242
   user_id: 1
   date_of: 2008-11-11
 - created_at: 2008-11-12 00:00:00 -05:00
-  updated_at: 2008-11-12 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2350428
   id: 1243
   user_id: 1
   date_of: 2008-11-12
 - created_at: 2008-11-13 00:00:00 -05:00
-  updated_at: 2008-11-13 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2350428
   id: 1244
   user_id: 1
   date_of: 2008-11-13
 - created_at: 2008-11-14 00:00:00 -05:00
-  updated_at: 2008-11-14 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2339905
   id: 1245
   user_id: 1
   date_of: 2008-11-14
 - created_at: 2008-11-15 00:00:00 -05:00
-  updated_at: 2008-11-15 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2339905
   id: 1246
   user_id: 1
   date_of: 2008-11-15
 - created_at: 2008-11-16 00:00:00 -05:00
-  updated_at: 2008-11-16 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2339905
   id: 1247
   user_id: 1
   date_of: 2008-11-16
 - created_at: 2008-11-17 00:00:00 -05:00
-  updated_at: 2008-11-17 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2342822
   id: 1248
   user_id: 1
   date_of: 2008-11-17
 - created_at: 2008-11-18 00:00:00 -05:00
-  updated_at: 2008-11-18 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2349005
   id: 1249
   user_id: 1
   date_of: 2008-11-18
 - created_at: 2008-11-19 00:00:00 -05:00
-  updated_at: 2008-11-19 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2350701
   id: 1250
   user_id: 1
   date_of: 2008-11-19
 - created_at: 2008-11-20 00:00:00 -05:00
-  updated_at: 2008-11-20 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2377236
   id: 1251
   user_id: 1
   date_of: 2008-11-20
 - created_at: 2008-11-21 00:00:00 -05:00
-  updated_at: 2008-11-21 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2278820
   id: 1252
   user_id: 1
   date_of: 2008-11-21
 - created_at: 2008-11-22 00:00:00 -05:00
-  updated_at: 2008-11-22 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2280221
   id: 1253
   user_id: 1
   date_of: 2008-11-22
 - created_at: 2008-11-23 00:00:00 -05:00
-  updated_at: 2008-11-23 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2280221
   id: 1254
   user_id: 1
   date_of: 2008-11-23
 - created_at: 2008-11-24 00:00:00 -05:00
-  updated_at: 2008-11-24 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2280221
   id: 1255
   user_id: 1
   date_of: 2008-11-24
 - created_at: 2008-11-25 00:00:00 -05:00
-  updated_at: 2008-11-25 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2282369
   id: 1256
   user_id: 1
   date_of: 2008-11-25
 - created_at: 2008-11-26 00:00:00 -05:00
-  updated_at: 2008-11-26 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2310067
   id: 1257
   user_id: 1
   date_of: 2008-11-26
 - created_at: 2008-11-27 00:00:00 -05:00
-  updated_at: 2008-11-27 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2337365
   id: 1258
   user_id: 1
   date_of: 2008-11-27
 - created_at: 2008-11-28 00:00:00 -05:00
-  updated_at: 2008-11-28 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2337365
   id: 1259
   user_id: 1
   date_of: 2008-11-28
 - created_at: 2008-11-29 00:00:00 -05:00
-  updated_at: 2008-11-29 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2347905
   id: 1260
   user_id: 1
   date_of: 2008-11-29
 - created_at: 2008-11-30 00:00:00 -05:00
-  updated_at: 2008-11-30 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2347906
   id: 1261
   user_id: 1
   date_of: 2008-11-30
 - created_at: 2008-12-01 00:00:00 -05:00
-  updated_at: 2008-12-01 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2347445
   id: 1262
   user_id: 1
   date_of: 2008-12-01
 - created_at: 2008-12-02 00:00:00 -05:00
-  updated_at: 2008-12-02 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2458326
   id: 1263
   user_id: 1
   date_of: 2008-12-02
 - created_at: 2008-12-03 00:00:00 -05:00
-  updated_at: 2008-12-03 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2469815
   id: 1264
   user_id: 1
   date_of: 2008-12-03
 - created_at: 2008-12-04 00:00:00 -05:00
-  updated_at: 2008-12-04 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2476469
   id: 1265
   user_id: 1
   date_of: 2008-12-04
 - created_at: 2008-12-05 00:00:00 -05:00
-  updated_at: 2008-12-05 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:03 -04:00
   account_id: 1
   amount: -2490129
   id: 1266
   user_id: 1
   date_of: 2008-12-05
 - created_at: 2008-12-06 00:00:00 -05:00
-  updated_at: 2008-12-06 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2490129
   id: 1267
   user_id: 1
   date_of: 2008-12-06
 - created_at: 2008-12-07 00:00:00 -05:00
-  updated_at: 2008-12-07 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2494925
   id: 1268
   user_id: 1
   date_of: 2008-12-07
 - created_at: 2008-12-08 00:00:00 -05:00
-  updated_at: 2008-12-08 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2497808
   id: 1269
   user_id: 1
   date_of: 2008-12-08
 - created_at: 2008-12-09 00:00:00 -05:00
-  updated_at: 2008-12-09 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2499131
   id: 1270
   user_id: 1
   date_of: 2008-12-09
 - created_at: 2008-12-10 00:00:00 -05:00
-  updated_at: 2008-12-10 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2504937
   id: 1271
   user_id: 1
   date_of: 2008-12-10
 - created_at: 2008-12-11 00:00:00 -05:00
-  updated_at: 2008-12-11 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2505230
   id: 1272
   user_id: 1
   date_of: 2008-12-11
 - created_at: 2008-12-12 00:00:00 -05:00
-  updated_at: 2008-12-12 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2522299
   id: 1273
   user_id: 1
   date_of: 2008-12-12
 - created_at: 2008-12-13 00:00:00 -05:00
-  updated_at: 2008-12-13 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2510554
   id: 1274
   user_id: 1
   date_of: 2008-12-13
 - created_at: 2008-12-14 00:00:00 -05:00
-  updated_at: 2008-12-14 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2511154
   id: 1275
   user_id: 1
   date_of: 2008-12-14
 - created_at: 2008-12-15 00:00:00 -05:00
-  updated_at: 2008-12-15 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2511354
   id: 1276
   user_id: 1
   date_of: 2008-12-15
 - created_at: 2008-12-16 00:00:00 -05:00
-  updated_at: 2008-12-16 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2548010
   id: 1277
   user_id: 1
   date_of: 2008-12-16
 - created_at: 2008-12-17 00:00:00 -05:00
-  updated_at: 2008-12-17 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2549210
   id: 1278
   user_id: 1
   date_of: 2008-12-17
 - created_at: 2008-12-18 00:00:00 -05:00
-  updated_at: 2008-12-18 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2552705
   id: 1279
   user_id: 1
   date_of: 2008-12-18
 - created_at: 2008-12-19 00:00:00 -05:00
-  updated_at: 2008-12-19 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2512282
   id: 1280
   user_id: 1
   date_of: 2008-12-19
 - created_at: 2008-12-20 00:00:00 -05:00
-  updated_at: 2008-12-20 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2516507
   id: 1281
   user_id: 1
   date_of: 2008-12-20
 - created_at: 2008-12-21 00:00:00 -05:00
-  updated_at: 2008-12-21 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2517804
   id: 1282
   user_id: 1
   date_of: 2008-12-21
 - created_at: 2008-12-22 00:00:00 -05:00
-  updated_at: 2008-12-22 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2376035
   id: 1283
   user_id: 1
   date_of: 2008-12-22
 - created_at: 2008-12-23 00:00:00 -05:00
-  updated_at: 2008-12-23 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2324924
   id: 1284
   user_id: 1
   date_of: 2008-12-23
 - created_at: 2008-12-24 00:00:00 -05:00
-  updated_at: 2008-12-24 00:00:00 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2324924
   id: 1285
@@ -7308,7 +7308,7 @@
   user_id: 1
   date_of: 2008-12-25
 - created_at: 2008-12-25 11:00:05 -05:00
-  updated_at: 2008-12-25 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2342416
   id: 1290
@@ -7343,7 +7343,7 @@
   user_id: 1
   date_of: 2008-12-26
 - created_at: 2008-12-26 11:00:06 -05:00
-  updated_at: 2008-12-26 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2342416
   id: 1295
@@ -7378,7 +7378,7 @@
   user_id: 1
   date_of: 2008-12-27
 - created_at: 2008-12-27 11:00:05 -05:00
-  updated_at: 2008-12-27 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2343018
   id: 1300
@@ -7413,7 +7413,7 @@
   user_id: 1
   date_of: 2008-12-28
 - created_at: 2008-12-28 11:00:06 -05:00
-  updated_at: 2008-12-28 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2343562
   id: 1305
@@ -7448,7 +7448,7 @@
   user_id: 1
   date_of: 2008-12-29
 - created_at: 2008-12-29 11:00:05 -05:00
-  updated_at: 2008-12-29 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2424011
   id: 1310
@@ -7483,7 +7483,7 @@
   user_id: 1
   date_of: 2008-12-30
 - created_at: 2008-12-30 11:00:05 -05:00
-  updated_at: 2008-12-30 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2430166
   id: 1315
@@ -7518,7 +7518,7 @@
   user_id: 1
   date_of: 2008-12-31
 - created_at: 2008-12-31 11:00:05 -05:00
-  updated_at: 2008-12-31 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2537666
   id: 1320
@@ -7553,7 +7553,7 @@
   user_id: 1
   date_of: 2009-01-01
 - created_at: 2009-01-01 11:00:04 -05:00
-  updated_at: 2009-01-01 11:00:04 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2542770
   id: 1325
@@ -7588,7 +7588,7 @@
   user_id: 1
   date_of: 2009-01-02
 - created_at: 2009-01-02 11:00:04 -05:00
-  updated_at: 2009-01-02 11:00:04 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2542770
   id: 1330
@@ -7623,7 +7623,7 @@
   user_id: 1
   date_of: 2009-01-03
 - created_at: 2009-01-03 11:00:04 -05:00
-  updated_at: 2009-01-03 11:00:04 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2558764
   id: 1335
@@ -7658,7 +7658,7 @@
   user_id: 1
   date_of: 2009-01-04
 - created_at: 2009-01-04 11:00:05 -05:00
-  updated_at: 2009-01-04 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2559960
   id: 1340
@@ -7693,7 +7693,7 @@
   user_id: 1
   date_of: 2009-01-05
 - created_at: 2009-01-05 11:00:06 -05:00
-  updated_at: 2009-01-05 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2559960
   id: 1345
@@ -7728,7 +7728,7 @@
   user_id: 1
   date_of: 2009-01-06
 - created_at: 2009-01-06 11:00:05 -05:00
-  updated_at: 2009-01-06 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2561027
   id: 1350
@@ -7763,7 +7763,7 @@
   user_id: 1
   date_of: 2009-01-07
 - created_at: 2009-01-07 11:00:06 -05:00
-  updated_at: 2009-01-07 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2561027
   id: 1355
@@ -7798,7 +7798,7 @@
   user_id: 1
   date_of: 2009-01-08
 - created_at: 2009-01-08 11:00:06 -05:00
-  updated_at: 2009-01-08 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2561027
   id: 1360
@@ -7833,7 +7833,7 @@
   user_id: 1
   date_of: 2009-01-09
 - created_at: 2009-01-09 11:00:06 -05:00
-  updated_at: 2009-01-09 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2443419
   id: 1365
@@ -7868,7 +7868,7 @@
   user_id: 1
   date_of: 2009-01-10
 - created_at: 2009-01-10 11:00:05 -05:00
-  updated_at: 2009-01-10 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2443418
   id: 1370
@@ -7903,7 +7903,7 @@
   user_id: 1
   date_of: 2009-01-11
 - created_at: 2009-01-11 11:00:05 -05:00
-  updated_at: 2009-01-11 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2443418
   id: 1375
@@ -7938,7 +7938,7 @@
   user_id: 1
   date_of: 2009-01-12
 - created_at: 2009-01-12 11:00:07 -05:00
-  updated_at: 2009-01-12 11:00:07 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2443418
   id: 1380
@@ -7973,7 +7973,7 @@
   user_id: 1
   date_of: 2009-01-13
 - created_at: 2009-01-13 11:00:06 -05:00
-  updated_at: 2009-01-13 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2512642
   id: 1385
@@ -8008,7 +8008,7 @@
   user_id: 1
   date_of: 2009-01-14
 - created_at: 2009-01-14 11:00:05 -05:00
-  updated_at: 2009-01-14 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2552681
   id: 1390
@@ -8043,7 +8043,7 @@
   user_id: 1
   date_of: 2009-01-15
 - created_at: 2009-01-15 11:00:05 -05:00
-  updated_at: 2009-01-15 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2499642
   id: 1395
@@ -8078,7 +8078,7 @@
   user_id: 1
   date_of: 2009-01-16
 - created_at: 2009-01-16 11:00:06 -05:00
-  updated_at: 2009-01-16 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2499642
   id: 1400
@@ -8113,7 +8113,7 @@
   user_id: 1
   date_of: 2009-01-17
 - created_at: 2009-01-17 11:00:05 -05:00
-  updated_at: 2009-01-17 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2506756
   id: 1405
@@ -8148,7 +8148,7 @@
   user_id: 1
   date_of: 2009-01-18
 - created_at: 2009-01-18 11:00:06 -05:00
-  updated_at: 2009-01-18 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2506756
   id: 1410
@@ -8183,7 +8183,7 @@
   user_id: 1
   date_of: 2009-01-19
 - created_at: 2009-01-19 11:00:05 -05:00
-  updated_at: 2009-01-19 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2506756
   id: 1415
@@ -8218,7 +8218,7 @@
   user_id: 1
   date_of: 2009-01-20
 - created_at: 2009-01-20 11:00:06 -05:00
-  updated_at: 2009-01-20 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2309390
   id: 1420
@@ -8253,7 +8253,7 @@
   user_id: 1
   date_of: 2009-01-21
 - created_at: 2009-01-21 11:00:06 -05:00
-  updated_at: 2009-01-21 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2321815
   id: 1425
@@ -8288,7 +8288,7 @@
   user_id: 1
   date_of: 2009-01-22
 - created_at: 2009-01-22 11:00:04 -05:00
-  updated_at: 2009-01-22 11:00:04 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2338341
   id: 1430
@@ -8323,7 +8323,7 @@
   user_id: 1
   date_of: 2009-01-23
 - created_at: 2009-01-23 11:00:05 -05:00
-  updated_at: 2009-01-23 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2407302
   id: 1435
@@ -8358,7 +8358,7 @@
   user_id: 1
   date_of: 2009-01-25
 - created_at: 2009-01-25 11:00:05 -05:00
-  updated_at: 2009-01-25 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2423306
   id: 1440
@@ -8393,7 +8393,7 @@
   user_id: 1
   date_of: 2009-01-26
 - created_at: 2009-01-26 11:00:07 -05:00
-  updated_at: 2009-01-26 11:00:07 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2377106
   id: 1445
@@ -8428,7 +8428,7 @@
   user_id: 1
   date_of: 2009-01-27
 - created_at: 2009-01-27 11:00:05 -05:00
-  updated_at: 2009-01-27 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2520701
   id: 1450
@@ -8463,7 +8463,7 @@
   user_id: 1
   date_of: 2009-01-28
 - created_at: 2009-01-28 11:00:07 -05:00
-  updated_at: 2009-01-28 11:00:07 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2417089
   id: 1455
@@ -8498,7 +8498,7 @@
   user_id: 1
   date_of: 2009-01-29
 - created_at: 2009-01-29 11:00:06 -05:00
-  updated_at: 2009-01-29 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2420977
   id: 1460
@@ -8533,7 +8533,7 @@
   user_id: 1
   date_of: 2009-01-30
 - created_at: 2009-01-30 11:00:07 -05:00
-  updated_at: 2009-01-30 11:00:07 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2425152
   id: 1465
@@ -8568,7 +8568,7 @@
   user_id: 1
   date_of: 2009-01-31
 - created_at: 2009-01-31 11:00:05 -05:00
-  updated_at: 2009-01-31 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2440789
   id: 1470
@@ -8603,7 +8603,7 @@
   user_id: 1
   date_of: 2009-02-01
 - created_at: 2009-02-01 11:00:08 -05:00
-  updated_at: 2009-02-01 11:00:08 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2482468
   id: 1475
@@ -8638,7 +8638,7 @@
   user_id: 1
   date_of: 2009-02-02
 - created_at: 2009-02-02 11:00:06 -05:00
-  updated_at: 2009-02-02 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2482468
   id: 1480
@@ -8673,7 +8673,7 @@
   user_id: 1
   date_of: 2009-02-03
 - created_at: 2009-02-03 11:00:05 -05:00
-  updated_at: 2009-02-03 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2324785
   id: 1485
@@ -8708,7 +8708,7 @@
   user_id: 1
   date_of: 2009-02-04
 - created_at: 2009-02-04 11:00:06 -05:00
-  updated_at: 2009-02-04 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2328935
   id: 1490
@@ -8743,7 +8743,7 @@
   user_id: 1
   date_of: 2009-02-05
 - created_at: 2009-02-05 11:00:06 -05:00
-  updated_at: 2009-02-05 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2412737
   id: 1495
@@ -8778,7 +8778,7 @@
   user_id: 1
   date_of: 2009-02-06
 - created_at: 2009-02-06 11:00:06 -05:00
-  updated_at: 2009-02-06 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2345152
   id: 1500
@@ -8813,7 +8813,7 @@
   user_id: 1
   date_of: 2009-02-07
 - created_at: 2009-02-07 11:00:05 -05:00
-  updated_at: 2009-02-07 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2380493
   id: 1505
@@ -8848,7 +8848,7 @@
   user_id: 1
   date_of: 2009-02-08
 - created_at: 2009-02-08 11:00:05 -05:00
-  updated_at: 2009-02-08 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2380493
   id: 1510
@@ -8883,7 +8883,7 @@
   user_id: 1
   date_of: 2009-02-09
 - created_at: 2009-02-09 11:00:06 -05:00
-  updated_at: 2009-02-09 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2395153
   id: 1515
@@ -8918,7 +8918,7 @@
   user_id: 1
   date_of: 2009-02-10
 - created_at: 2009-02-10 11:00:06 -05:00
-  updated_at: 2009-02-10 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2438920
   id: 1520
@@ -8953,7 +8953,7 @@
   user_id: 1
   date_of: 2009-02-11
 - created_at: 2009-02-11 11:00:05 -05:00
-  updated_at: 2009-02-11 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2448449
   id: 1525
@@ -8988,7 +8988,7 @@
   user_id: 1
   date_of: 2009-02-12
 - created_at: 2009-02-12 11:00:06 -05:00
-  updated_at: 2009-02-12 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2454449
   id: 1530
@@ -9023,7 +9023,7 @@
   user_id: 1
   date_of: 2009-02-13
 - created_at: 2009-02-13 11:00:05 -05:00
-  updated_at: 2009-02-13 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2351230
   id: 1535
@@ -9058,7 +9058,7 @@
   user_id: 1
   date_of: 2009-02-14
 - created_at: 2009-02-14 11:00:05 -05:00
-  updated_at: 2009-02-14 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2356050
   id: 1540
@@ -9093,7 +9093,7 @@
   user_id: 1
   date_of: 2009-02-15
 - created_at: 2009-02-15 11:00:05 -05:00
-  updated_at: 2009-02-15 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2358050
   id: 1545
@@ -9128,7 +9128,7 @@
   user_id: 1
   date_of: 2009-02-16
 - created_at: 2009-02-16 11:00:05 -05:00
-  updated_at: 2009-02-16 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2358050
   id: 1550
@@ -9163,7 +9163,7 @@
   user_id: 1
   date_of: 2009-02-17
 - created_at: 2009-02-17 11:00:05 -05:00
-  updated_at: 2009-02-17 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2362124
   id: 1555
@@ -9198,7 +9198,7 @@
   user_id: 1
   date_of: 2009-02-18
 - created_at: 2009-02-18 11:00:04 -05:00
-  updated_at: 2009-02-18 11:00:04 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2424033
   id: 1560
@@ -9233,7 +9233,7 @@
   user_id: 1
   date_of: 2009-02-19
 - created_at: 2009-02-19 11:00:05 -05:00
-  updated_at: 2009-02-19 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2338118
   id: 1565
@@ -9268,7 +9268,7 @@
   user_id: 1
   date_of: 2009-02-20
 - created_at: 2009-02-20 11:00:05 -05:00
-  updated_at: 2009-02-20 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2391930
   id: 1570
@@ -9303,7 +9303,7 @@
   user_id: 1
   date_of: 2009-02-21
 - created_at: 2009-02-21 11:00:04 -05:00
-  updated_at: 2009-02-21 11:00:04 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2391930
   id: 1575
@@ -9338,7 +9338,7 @@
   user_id: 1
   date_of: 2009-02-22
 - created_at: 2009-02-22 11:00:04 -05:00
-  updated_at: 2009-02-22 11:00:04 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2141930
   id: 1580
@@ -9373,7 +9373,7 @@
   user_id: 1
   date_of: 2009-02-23
 - created_at: 2009-02-23 11:00:06 -05:00
-  updated_at: 2009-02-23 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2143607
   id: 1585
@@ -9408,7 +9408,7 @@
   user_id: 1
   date_of: 2009-02-24
 - created_at: 2009-02-24 11:00:05 -05:00
-  updated_at: 2009-02-24 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2143607
   id: 1590
@@ -9443,7 +9443,7 @@
   user_id: 1
   date_of: 2009-02-25
 - created_at: 2009-02-25 11:00:05 -05:00
-  updated_at: 2009-02-25 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2134602
   id: 1595
@@ -9478,7 +9478,7 @@
   user_id: 1
   date_of: 2009-02-26
 - created_at: 2009-02-26 11:00:06 -05:00
-  updated_at: 2009-02-26 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2233901
   id: 1600
@@ -9513,7 +9513,7 @@
   user_id: 1
   date_of: 2009-02-27
 - created_at: 2009-02-27 11:00:10 -05:00
-  updated_at: 2009-02-27 11:00:10 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2253251
   id: 1605
@@ -9548,7 +9548,7 @@
   user_id: 1
   date_of: 2009-02-28
 - created_at: 2009-02-28 11:00:05 -05:00
-  updated_at: 2009-02-28 11:00:05 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2273449
   id: 1610
@@ -9583,7 +9583,7 @@
   user_id: 1
   date_of: 2009-03-01
 - created_at: 2009-03-01 11:00:06 -05:00
-  updated_at: 2009-03-01 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2283747
   id: 1615
@@ -9618,7 +9618,7 @@
   user_id: 1
   date_of: 2009-03-02
 - created_at: 2009-03-02 11:00:06 -05:00
-  updated_at: 2009-03-02 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2287887
   id: 1620
@@ -9653,7 +9653,7 @@
   user_id: 1
   date_of: 2009-03-03
 - created_at: 2009-03-03 11:00:06 -05:00
-  updated_at: 2009-03-03 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2307777
   id: 1625
@@ -9688,7 +9688,7 @@
   user_id: 1
   date_of: 2009-03-04
 - created_at: 2009-03-04 11:00:06 -05:00
-  updated_at: 2009-03-04 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2311477
   id: 1630
@@ -9723,7 +9723,7 @@
   user_id: 1
   date_of: 2009-03-05
 - created_at: 2009-03-05 11:00:06 -05:00
-  updated_at: 2009-03-05 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2316727
   id: 1635
@@ -9758,7 +9758,7 @@
   user_id: 1
   date_of: 2009-03-06
 - created_at: 2009-03-06 11:00:08 -05:00
-  updated_at: 2009-03-06 11:00:08 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2519188
   id: 1640
@@ -9793,7 +9793,7 @@
   user_id: 1
   date_of: 2009-03-07
 - created_at: 2009-03-07 11:00:06 -05:00
-  updated_at: 2009-03-07 11:00:06 -05:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2523954
   id: 1645
@@ -9828,7 +9828,7 @@
   user_id: 1
   date_of: 2009-03-08
 - created_at: 2009-03-08 10:00:05 -04:00
-  updated_at: 2009-03-08 10:00:05 -04:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2523954
   id: 1650
@@ -9863,7 +9863,7 @@
   user_id: 1
   date_of: 2009-03-09
 - created_at: 2009-03-09 10:00:06 -04:00
-  updated_at: 2009-03-09 10:00:06 -04:00
+  updated_at: 2010-05-11 22:27:04 -04:00
   account_id: 1
   amount: -2351455
   id: 1655
@@ -9898,7 +9898,7 @@
   user_id: 1
   date_of: 2009-03-10
 - created_at: 2009-03-10 10:00:06 -04:00
-  updated_at: 2009-03-10 10:00:06 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2351455
   id: 1660
@@ -9933,7 +9933,7 @@
   user_id: 1
   date_of: 2009-03-11
 - created_at: 2009-03-11 10:00:08 -04:00
-  updated_at: 2009-03-11 10:00:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2402746
   id: 1665
@@ -9968,7 +9968,7 @@
   user_id: 1
   date_of: 2009-03-12
 - created_at: 2009-03-12 10:00:08 -04:00
-  updated_at: 2009-03-12 10:00:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2402746
   id: 1670
@@ -10003,7 +10003,7 @@
   user_id: 1
   date_of: 2009-03-13
 - created_at: 2009-03-13 10:00:07 -04:00
-  updated_at: 2009-03-13 10:00:07 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2243135
   id: 1675
@@ -10038,7 +10038,7 @@
   user_id: 1
   date_of: 2009-03-14
 - created_at: 2009-03-14 10:00:07 -04:00
-  updated_at: 2009-03-14 10:00:07 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2245139
   id: 1680
@@ -10073,7 +10073,7 @@
   user_id: 1
   date_of: 2009-03-15
 - created_at: 2009-03-15 10:00:06 -04:00
-  updated_at: 2009-03-15 10:00:06 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2245163
   id: 1685
@@ -10108,7 +10108,7 @@
   user_id: 1
   date_of: 2009-03-16
 - created_at: 2009-03-16 10:00:06 -04:00
-  updated_at: 2009-03-16 10:00:06 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2248877
   id: 1690
@@ -10143,7 +10143,7 @@
   user_id: 1
   date_of: 2009-03-17
 - created_at: 2009-03-17 10:00:07 -04:00
-  updated_at: 2009-03-17 10:00:07 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2272341
   id: 1695
@@ -10178,7 +10178,7 @@
   user_id: 1
   date_of: 2009-03-18
 - created_at: 2009-03-18 10:00:06 -04:00
-  updated_at: 2009-03-18 10:00:06 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2261893
   id: 1700
@@ -10213,7 +10213,7 @@
   user_id: 1
   date_of: 2009-03-19
 - created_at: 2009-03-19 10:00:05 -04:00
-  updated_at: 2009-03-19 10:00:05 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2381101
   id: 1705
@@ -10248,7 +10248,7 @@
   user_id: 1
   date_of: 2009-03-20
 - created_at: 2009-03-20 10:00:07 -04:00
-  updated_at: 2009-03-20 10:00:07 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2394347
   id: 1710
@@ -10283,7 +10283,7 @@
   user_id: 1
   date_of: 2009-03-21
 - created_at: 2009-03-21 10:00:07 -04:00
-  updated_at: 2009-03-21 10:00:07 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2394347
   id: 1715
@@ -10318,7 +10318,7 @@
   user_id: 1
   date_of: 2009-03-22
 - created_at: 2009-03-22 15:39:05 -04:00
-  updated_at: 2009-03-22 15:39:05 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2394347
   id: 1720
@@ -10353,7 +10353,7 @@
   user_id: 1
   date_of: 2009-03-23
 - created_at: 2009-03-23 10:00:07 -04:00
-  updated_at: 2009-03-23 10:00:07 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2400547
   id: 1725
@@ -10388,7 +10388,7 @@
   user_id: 1
   date_of: 2009-03-24
 - created_at: 2009-03-24 10:00:05 -04:00
-  updated_at: 2009-03-24 10:00:05 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2461608
   id: 1730
@@ -10423,7 +10423,7 @@
   user_id: 1
   date_of: 2009-03-25
 - created_at: 2009-03-25 10:00:12 -04:00
-  updated_at: 2009-03-25 10:00:12 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2469673
   id: 1735
@@ -10458,7 +10458,7 @@
   user_id: 1
   date_of: 2009-03-26
 - created_at: 2009-03-26 10:00:07 -04:00
-  updated_at: 2009-03-26 10:00:07 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2484828
   id: 1740
@@ -10493,7 +10493,7 @@
   user_id: 1
   date_of: 2009-03-27
 - created_at: 2009-03-27 10:00:05 -04:00
-  updated_at: 2009-03-27 10:00:05 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2490591
   id: 1745
@@ -10528,7 +10528,7 @@
   user_id: 1
   date_of: 2009-03-28
 - created_at: 2009-03-28 10:00:05 -04:00
-  updated_at: 2009-03-28 10:00:05 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2496991
   id: 1750
@@ -10563,7 +10563,7 @@
   user_id: 1
   date_of: 2009-03-29
 - created_at: 2009-03-29 10:00:06 -04:00
-  updated_at: 2009-03-29 10:00:06 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2501275
   id: 1755
@@ -10598,7 +10598,7 @@
   user_id: 1
   date_of: 2009-03-30
 - created_at: 2009-03-30 10:00:07 -04:00
-  updated_at: 2009-03-30 10:00:07 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2298993
   id: 1760
@@ -10633,7 +10633,7 @@
   user_id: 1
   date_of: 2009-03-31
 - created_at: 2009-03-31 10:00:08 -04:00
-  updated_at: 2009-03-31 10:00:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2412238
   id: 1765
@@ -10668,7 +10668,7 @@
   user_id: 1
   date_of: 2009-04-01
 - created_at: 2009-04-01 10:00:07 -04:00
-  updated_at: 2009-04-01 10:00:07 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2416502
   id: 1770
@@ -10703,7 +10703,7 @@
   user_id: 1
   date_of: 2009-04-02
 - created_at: 2009-04-02 10:00:06 -04:00
-  updated_at: 2009-04-02 10:00:06 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2419468
   id: 1775
@@ -10738,7 +10738,7 @@
   user_id: 1
   date_of: 2009-04-03
 - created_at: 2009-04-03 10:00:07 -04:00
-  updated_at: 2009-04-03 10:00:07 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2419468
   id: 1780
@@ -10773,7 +10773,7 @@
   user_id: 1
   date_of: 2009-04-04
 - created_at: 2009-04-04 10:00:05 -04:00
-  updated_at: 2009-04-04 10:00:05 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2446602
   id: 1785
@@ -10808,7 +10808,7 @@
   user_id: 1
   date_of: 2009-04-05
 - created_at: 2009-04-05 10:00:06 -04:00
-  updated_at: 2009-04-05 10:00:06 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2455792
   id: 1790
@@ -10843,7 +10843,7 @@
   user_id: 1
   date_of: 2009-04-06
 - created_at: 2009-04-06 10:00:13 -04:00
-  updated_at: 2009-04-06 10:00:13 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2458292
   id: 1795
@@ -10878,7 +10878,7 @@
   user_id: 1
   date_of: 2009-04-07
 - created_at: 2009-04-07 10:00:08 -04:00
-  updated_at: 2009-04-07 10:00:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2469667
   id: 1800
@@ -10913,7 +10913,7 @@
   user_id: 1
   date_of: 2009-04-08
 - created_at: 2009-04-08 10:00:07 -04:00
-  updated_at: 2009-04-08 10:00:07 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2485391
   id: 1805
@@ -10948,7 +10948,7 @@
   user_id: 1
   date_of: 2009-04-09
 - created_at: 2009-04-09 10:00:07 -04:00
-  updated_at: 2009-04-09 10:00:07 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2502909
   id: 1810
@@ -10983,7 +10983,7 @@
   user_id: 1
   date_of: 2009-04-10
 - created_at: 2009-04-10 10:00:06 -04:00
-  updated_at: 2009-04-10 10:00:06 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2531510
   id: 1815
@@ -11018,7 +11018,7 @@
   user_id: 1
   date_of: 2009-04-11
 - created_at: 2009-04-11 10:00:05 -04:00
-  updated_at: 2009-04-11 10:00:05 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2533599
   id: 1820
@@ -11053,7 +11053,7 @@
   user_id: 1
   date_of: 2009-04-12
 - created_at: 2009-04-12 10:00:07 -04:00
-  updated_at: 2009-04-12 10:00:07 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2537850
   id: 1825
@@ -11088,7 +11088,7 @@
   user_id: 1
   date_of: 2009-04-13
 - created_at: 2009-04-13 10:00:07 -04:00
-  updated_at: 2009-04-13 10:00:07 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2557949
   id: 1830
@@ -11123,7 +11123,7 @@
   user_id: 1
   date_of: 2009-04-14
 - created_at: 2009-04-14 10:00:07 -04:00
-  updated_at: 2009-04-14 10:00:07 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2562792
   id: 1835
@@ -11158,7 +11158,7 @@
   user_id: 1
   date_of: 2009-04-15
 - created_at: 2009-04-15 10:00:06 -04:00
-  updated_at: 2009-04-15 10:00:06 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2366812
   id: 1840
@@ -11193,7 +11193,7 @@
   user_id: 1
   date_of: 2009-04-16
 - created_at: 2009-04-16 10:00:07 -04:00
-  updated_at: 2009-04-16 10:00:07 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2254139
   id: 1845
@@ -11228,7 +11228,7 @@
   user_id: 1
   date_of: 2009-04-17
 - created_at: 2009-04-17 10:00:07 -04:00
-  updated_at: 2009-04-17 10:00:07 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2260438
   id: 1850
@@ -11263,7 +11263,7 @@
   user_id: 1
   date_of: 2009-04-18
 - created_at: 2009-04-18 10:00:06 -04:00
-  updated_at: 2009-04-18 10:00:06 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2299415
   id: 1855
@@ -11298,7 +11298,7 @@
   user_id: 1
   date_of: 2009-04-19
 - created_at: 2009-04-19 10:00:06 -04:00
-  updated_at: 2009-04-19 10:00:06 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2305715
   id: 1860
@@ -11333,7 +11333,7 @@
   user_id: 1
   date_of: 2009-04-20
 - created_at: 2009-04-20 10:00:06 -04:00
-  updated_at: 2009-04-20 10:00:06 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2305715
   id: 1865
@@ -11368,7 +11368,7 @@
   user_id: 1
   date_of: 2009-04-21
 - created_at: 2009-04-21 10:00:07 -04:00
-  updated_at: 2009-04-21 10:00:07 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2366442
   id: 1870
@@ -11403,7 +11403,7 @@
   user_id: 1
   date_of: 2009-04-22
 - created_at: 2009-04-22 10:00:14 -04:00
-  updated_at: 2009-04-22 10:00:14 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2386340
   id: 1875
@@ -11438,7 +11438,7 @@
   user_id: 1
   date_of: 2009-04-23
 - created_at: 2009-04-23 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2377289
   id: 1880
@@ -11473,7 +11473,7 @@
   user_id: 1
   date_of: 2009-04-24
 - created_at: 2009-04-24 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2399789
   id: 1885
@@ -11508,7 +11508,7 @@
   user_id: 1
   date_of: 2009-04-25
 - created_at: 2009-04-25 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2399789
   id: 1890
@@ -11543,7 +11543,7 @@
   user_id: 1
   date_of: 2009-04-26
 - created_at: 2009-04-26 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2413083
   id: 1895
@@ -11578,7 +11578,7 @@
   user_id: 1
   date_of: 2009-04-27
 - created_at: 2009-04-27 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2366592
   id: 1900
@@ -11613,7 +11613,7 @@
   user_id: 1
   date_of: 2009-05-01
 - created_at: 2009-05-01 10:00:23 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2103308
   id: 1905
@@ -11648,7 +11648,7 @@
   user_id: 1
   date_of: 2009-05-02
 - created_at: 2009-05-02 10:00:10 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2173285
   id: 1910
@@ -11683,7 +11683,7 @@
   user_id: 1
   date_of: 2009-05-03
 - created_at: 2009-05-03 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2291260
   id: 1915
@@ -11718,7 +11718,7 @@
   user_id: 1
   date_of: 2009-05-04
 - created_at: 2009-05-04 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2320399
   id: 1920
@@ -11753,7 +11753,7 @@
   user_id: 1
   date_of: 2009-05-05
 - created_at: 2009-05-05 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2322676
   id: 1925
@@ -11788,7 +11788,7 @@
   user_id: 1
   date_of: 2009-05-06
 - created_at: 2009-05-06 10:00:09 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2334963
   id: 1930
@@ -11823,7 +11823,7 @@
   user_id: 1
   date_of: 2009-05-07
 - created_at: 2009-05-07 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2351485
   id: 1935
@@ -11858,7 +11858,7 @@
   user_id: 1
   date_of: 2009-05-08
 - created_at: 2009-05-08 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2378083
   id: 1940
@@ -11893,7 +11893,7 @@
   user_id: 1
   date_of: 2009-05-09
 - created_at: 2009-05-09 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2384333
   id: 1945
@@ -11928,7 +11928,7 @@
   user_id: 1
   date_of: 2009-05-10
 - created_at: 2009-05-10 10:00:23 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2388133
   id: 1950
@@ -11963,7 +11963,7 @@
   user_id: 1
   date_of: 2009-05-11
 - created_at: 2009-05-11 10:00:18 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2396100
   id: 1955
@@ -11998,7 +11998,7 @@
   user_id: 1
   date_of: 2009-05-12
 - created_at: 2009-05-12 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2407204
   id: 1960
@@ -12033,7 +12033,7 @@
   user_id: 1
   date_of: 2009-05-13
 - created_at: 2009-05-13 10:00:24 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2413499
   id: 1965
@@ -12068,7 +12068,7 @@
   user_id: 1
   date_of: 2009-05-14
 - created_at: 2009-05-14 10:00:10 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2423248
   id: 1970
@@ -12103,7 +12103,7 @@
   user_id: 1
   date_of: 2009-05-15
 - created_at: 2009-05-15 10:00:24 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -1980445
   id: 1975
@@ -12138,7 +12138,7 @@
   user_id: 1
   date_of: 2009-05-16
 - created_at: 2009-05-16 10:00:12 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -1986620
   id: 1980
@@ -12173,7 +12173,7 @@
   user_id: 1
   date_of: 2009-05-17
 - created_at: 2009-05-17 10:00:14 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2010428
   id: 1985
@@ -12208,7 +12208,7 @@
   user_id: 1
   date_of: 2009-05-18
 - created_at: 2009-05-18 10:00:25 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2234669
   id: 1990
@@ -12243,7 +12243,7 @@
   user_id: 1
   date_of: 2009-05-19
 - created_at: 2009-05-19 10:00:17 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2240669
   id: 1995
@@ -12278,7 +12278,7 @@
   user_id: 1
   date_of: 2009-05-20
 - created_at: 2009-05-20 10:00:10 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2243365
   id: 2000
@@ -12313,7 +12313,7 @@
   user_id: 1
   date_of: 2009-05-21
 - created_at: 2009-05-21 10:00:10 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2249365
   id: 2005
@@ -12348,7 +12348,7 @@
   user_id: 1
   date_of: 2009-05-22
 - created_at: 2009-05-22 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2233775
   id: 2010
@@ -12383,7 +12383,7 @@
   user_id: 1
   date_of: 2009-05-23
 - created_at: 2009-05-23 10:00:04 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2233775
   id: 2015
@@ -12418,7 +12418,7 @@
   user_id: 1
   date_of: 2009-05-24
 - created_at: 2009-05-24 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2248479
   id: 2020
@@ -12453,7 +12453,7 @@
   user_id: 1
   date_of: 2009-05-25
 - created_at: 2009-05-25 10:00:04 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2248479
   id: 2025
@@ -12488,7 +12488,7 @@
   user_id: 1
   date_of: 2009-05-26
 - created_at: 2009-05-26 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2257220
   id: 2030
@@ -12523,7 +12523,7 @@
   user_id: 1
   date_of: 2009-05-27
 - created_at: 2009-05-27 10:00:04 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2263732
   id: 2035
@@ -12558,7 +12558,7 @@
   user_id: 1
   date_of: 2009-05-28
 - created_at: 2009-05-28 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2367133
   id: 2040
@@ -12593,7 +12593,7 @@
   user_id: 1
   date_of: 2009-05-29
 - created_at: 2009-05-29 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2162488
   id: 2045
@@ -12628,7 +12628,7 @@
   user_id: 1
   date_of: 2009-05-30
 - created_at: 2009-05-30 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2169763
   id: 2050
@@ -12663,7 +12663,7 @@
   user_id: 1
   date_of: 2009-05-31
 - created_at: 2009-05-31 10:00:04 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2182593
   id: 2055
@@ -12698,7 +12698,7 @@
   user_id: 1
   date_of: 2009-06-01
 - created_at: 2009-06-01 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2195236
   id: 2060
@@ -12733,7 +12733,7 @@
   user_id: 1
   date_of: 2009-06-02
 - created_at: 2009-06-02 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2196842
   id: 2065
@@ -12768,7 +12768,7 @@
   user_id: 1
   date_of: 2009-06-03
 - created_at: 2009-06-03 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2204240
   id: 2070
@@ -12803,7 +12803,7 @@
   user_id: 1
   date_of: 2009-06-04
 - created_at: 2009-06-04 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2236010
   id: 2075
@@ -12838,7 +12838,7 @@
   user_id: 1
   date_of: 2009-06-05
 - created_at: 2009-06-05 10:00:04 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2245755
   id: 2080
@@ -12873,7 +12873,7 @@
   user_id: 1
   date_of: 2009-06-06
 - created_at: 2009-06-06 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2258055
   id: 2085
@@ -12908,7 +12908,7 @@
   user_id: 1
   date_of: 2009-06-07
 - created_at: 2009-06-07 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2271081
   id: 2090
@@ -12943,7 +12943,7 @@
   user_id: 1
   date_of: 2009-06-08
 - created_at: 2009-06-08 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2282022
   id: 2095
@@ -12978,7 +12978,7 @@
   user_id: 1
   date_of: 2009-06-09
 - created_at: 2009-06-09 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2291025
   id: 2100
@@ -13013,7 +13013,7 @@
   user_id: 1
   date_of: 2009-06-10
 - created_at: 2009-06-10 10:00:04 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2291575
   id: 2105
@@ -13048,7 +13048,7 @@
   user_id: 1
   date_of: 2009-06-11
 - created_at: 2009-06-11 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2295746
   id: 2110
@@ -13083,7 +13083,7 @@
   user_id: 1
   date_of: 2009-06-12
 - created_at: 2009-06-12 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2299034
   id: 2115
@@ -13118,7 +13118,7 @@
   user_id: 1
   date_of: 2009-06-13
 - created_at: 2009-06-13 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2299034
   id: 2120
@@ -13153,7 +13153,7 @@
   user_id: 1
   date_of: 2009-06-14
 - created_at: 2009-06-14 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2200628
   id: 2125
@@ -13188,7 +13188,7 @@
   user_id: 1
   date_of: 2009-06-15
 - created_at: 2009-06-15 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2202447
   id: 2130
@@ -13223,7 +13223,7 @@
   user_id: 1
   date_of: 2009-06-16
 - created_at: 2009-06-16 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2205322
   id: 2135
@@ -13258,7 +13258,7 @@
   user_id: 1
   date_of: 2009-06-17
 - created_at: 2009-06-17 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:05 -04:00
   account_id: 1
   amount: -2211620
   id: 2140
@@ -13293,7 +13293,7 @@
   user_id: 1
   date_of: 2009-06-18
 - created_at: 2009-06-18 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2219259
   id: 2145
@@ -13328,7 +13328,7 @@
   user_id: 1
   date_of: 2009-06-19
 - created_at: 2009-06-19 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2220957
   id: 2150
@@ -13363,7 +13363,7 @@
   user_id: 1
   date_of: 2009-06-20
 - created_at: 2009-06-20 10:00:04 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2226957
   id: 2155
@@ -13398,7 +13398,7 @@
   user_id: 1
   date_of: 2009-06-21
 - created_at: 2009-06-21 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2236182
   id: 2160
@@ -13433,7 +13433,7 @@
   user_id: 1
   date_of: 2009-06-22
 - created_at: 2009-06-22 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2241697
   id: 2165
@@ -13468,7 +13468,7 @@
   user_id: 1
   date_of: 2009-06-23
 - created_at: 2009-06-23 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2253796
   id: 2170
@@ -13503,7 +13503,7 @@
   user_id: 1
   date_of: 2009-06-24
 - created_at: 2009-06-24 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2233091
   id: 2175
@@ -13538,7 +13538,7 @@
   user_id: 1
   date_of: 2009-06-25
 - created_at: 2009-06-25 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2233091
   id: 2180
@@ -13573,7 +13573,7 @@
   user_id: 1
   date_of: 2009-06-26
 - created_at: 2009-06-26 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2255790
   id: 2185
@@ -13608,7 +13608,7 @@
   user_id: 1
   date_of: 2009-06-27
 - created_at: 2009-06-27 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2255790
   id: 2190
@@ -13643,7 +13643,7 @@
   user_id: 1
   date_of: 2009-06-28
 - created_at: 2009-06-28 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2261975
   id: 2195
@@ -13678,7 +13678,7 @@
   user_id: 1
   date_of: 2009-06-29
 - created_at: 2009-06-29 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2279881
   id: 2200
@@ -13713,7 +13713,7 @@
   user_id: 1
   date_of: 2009-06-30
 - created_at: 2009-06-30 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2089123
   id: 2205
@@ -13748,7 +13748,7 @@
   user_id: 1
   date_of: 2009-07-01
 - created_at: 2009-07-01 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2111884
   id: 2210
@@ -13783,7 +13783,7 @@
   user_id: 1
   date_of: 2009-07-02
 - created_at: 2009-07-02 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2127632
   id: 2215
@@ -13818,7 +13818,7 @@
   user_id: 1
   date_of: 2009-07-03
 - created_at: 2009-07-03 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2147058
   id: 2220
@@ -13853,7 +13853,7 @@
   user_id: 1
   date_of: 2009-07-04
 - created_at: 2009-07-04 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2147058
   id: 2225
@@ -13888,7 +13888,7 @@
   user_id: 1
   date_of: 2009-07-05
 - created_at: 2009-07-05 10:00:04 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2156697
   id: 2230
@@ -13923,7 +13923,7 @@
   user_id: 1
   date_of: 2009-07-06
 - created_at: 2009-07-06 10:00:04 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2160482
   id: 2235
@@ -13958,7 +13958,7 @@
   user_id: 1
   date_of: 2009-07-07
 - created_at: 2009-07-07 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2162012
   id: 2240
@@ -13993,7 +13993,7 @@
   user_id: 1
   date_of: 2009-07-08
 - created_at: 2009-07-08 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2221237
   id: 2245
@@ -14028,7 +14028,7 @@
   user_id: 1
   date_of: 2009-07-09
 - created_at: 2009-07-09 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2223610
   id: 2250
@@ -14063,7 +14063,7 @@
   user_id: 1
   date_of: 2009-07-10
 - created_at: 2009-07-10 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2235062
   id: 2255
@@ -14098,7 +14098,7 @@
   user_id: 1
   date_of: 2009-07-11
 - created_at: 2009-07-11 10:00:04 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2235062
   id: 2260
@@ -14133,7 +14133,7 @@
   user_id: 1
   date_of: 2009-07-12
 - created_at: 2009-07-12 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2256415
   id: 2265
@@ -14168,7 +14168,7 @@
   user_id: 1
   date_of: 2009-07-13
 - created_at: 2009-07-13 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2290254
   id: 2270
@@ -14203,7 +14203,7 @@
   user_id: 1
   date_of: 2009-07-14
 - created_at: 2009-07-14 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2300585
   id: 2275
@@ -14238,7 +14238,7 @@
   user_id: 1
   date_of: 2009-07-15
 - created_at: 2009-07-15 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2002576
   id: 2280
@@ -14273,7 +14273,7 @@
   user_id: 1
   date_of: 2009-07-16
 - created_at: 2009-07-16 10:00:04 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2009074
   id: 2285
@@ -14308,7 +14308,7 @@
   user_id: 1
   date_of: 2009-07-17
 - created_at: 2009-07-17 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2013831
   id: 2290
@@ -14343,7 +14343,7 @@
   user_id: 1
   date_of: 2009-07-19
 - created_at: 2009-07-19 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2027032
   id: 2295
@@ -14378,7 +14378,7 @@
   user_id: 1
   date_of: 2009-07-20
 - created_at: 2009-07-20 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2040428
   id: 2300
@@ -14413,7 +14413,7 @@
   user_id: 1
   date_of: 2009-07-21
 - created_at: 2009-07-21 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2107743
   id: 2305
@@ -14448,7 +14448,7 @@
   user_id: 1
   date_of: 2009-07-22
 - created_at: 2009-07-22 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2103339
   id: 2310
@@ -14483,7 +14483,7 @@
   user_id: 1
   date_of: 2009-07-23
 - created_at: 2009-07-23 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2102591
   id: 2315
@@ -14518,7 +14518,7 @@
   user_id: 1
   date_of: 2009-07-24
 - created_at: 2009-07-24 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2113598
   id: 2320
@@ -14553,7 +14553,7 @@
   user_id: 1
   date_of: 2009-07-25
 - created_at: 2009-07-25 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2115147
   id: 2325
@@ -14588,7 +14588,7 @@
   user_id: 1
   date_of: 2009-07-26
 - created_at: 2009-07-26 10:00:04 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2124892
   id: 2330
@@ -14623,7 +14623,7 @@
   user_id: 1
   date_of: 2009-07-27
 - created_at: 2009-07-27 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2124018
   id: 2335
@@ -14658,7 +14658,7 @@
   user_id: 1
   date_of: 2009-07-28
 - created_at: 2009-07-28 10:00:04 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2132281
   id: 2340
@@ -14693,7 +14693,7 @@
   user_id: 1
   date_of: 2009-07-29
 - created_at: 2009-07-29 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2131439
   id: 2345
@@ -14728,7 +14728,7 @@
   user_id: 1
   date_of: 2009-07-30
 - created_at: 2009-07-30 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2280758
   id: 2350
@@ -14763,7 +14763,7 @@
   user_id: 1
   date_of: 2009-07-31
 - created_at: 2009-07-31 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2086428
   id: 2355
@@ -14798,7 +14798,7 @@
   user_id: 1
   date_of: 2009-08-01
 - created_at: 2009-08-01 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2086428
   id: 2360
@@ -14833,7 +14833,7 @@
   user_id: 1
   date_of: 2009-08-02
 - created_at: 2009-08-02 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2086428
   id: 2365
@@ -14868,7 +14868,7 @@
   user_id: 1
   date_of: 2009-08-03
 - created_at: 2009-08-03 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2086741
   id: 2370
@@ -14903,7 +14903,7 @@
   user_id: 1
   date_of: 2009-08-04
 - created_at: 2009-08-04 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -2088556
   id: 2375
@@ -14938,7 +14938,7 @@
   user_id: 1
   date_of: 2009-08-07
 - created_at: 2009-08-07 13:13:46 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1860766
   id: 2380
@@ -14973,7 +14973,7 @@
   user_id: 1
   date_of: 2009-08-08
 - created_at: 2009-08-08 10:00:04 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1845722
   id: 2385
@@ -15008,7 +15008,7 @@
   user_id: 1
   date_of: 2009-08-09
 - created_at: 2009-08-09 10:00:04 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1845807
   id: 2390
@@ -15043,7 +15043,7 @@
   user_id: 1
   date_of: 2009-08-10
 - created_at: 2009-08-10 10:00:04 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1847605
   id: 2395
@@ -15078,7 +15078,7 @@
   user_id: 1
   date_of: 2009-08-11
 - created_at: 2009-08-11 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1863431
   id: 2400
@@ -15113,7 +15113,7 @@
   user_id: 1
   date_of: 2009-08-12
 - created_at: 2009-08-12 10:00:03 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1865441
   id: 2405
@@ -15148,7 +15148,7 @@
   user_id: 1
   date_of: 2009-08-13
 - created_at: 2009-08-13 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1871141
   id: 2410
@@ -15183,7 +15183,7 @@
   user_id: 1
   date_of: 2009-08-14
 - created_at: 2009-08-14 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1687110
   id: 2415
@@ -15218,7 +15218,7 @@
   user_id: 1
   date_of: 2009-08-15
 - created_at: 2009-08-15 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1700543
   id: 2420
@@ -15253,7 +15253,7 @@
   user_id: 1
   date_of: 2009-08-16
 - created_at: 2009-08-16 10:00:04 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1758049
   id: 2425
@@ -15288,7 +15288,7 @@
   user_id: 1
   date_of: 2009-08-17
 - created_at: 2009-08-17 10:00:04 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1798689
   id: 2430
@@ -15323,7 +15323,7 @@
   user_id: 1
   date_of: 2009-08-18
 - created_at: 2009-08-18 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1798689
   id: 2435
@@ -15358,7 +15358,7 @@
   user_id: 1
   date_of: 2009-08-19
 - created_at: 2009-08-19 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1798689
   id: 2440
@@ -15393,7 +15393,7 @@
   user_id: 1
   date_of: 2009-08-20
 - created_at: 2009-08-20 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1799959
   id: 2445
@@ -15428,7 +15428,7 @@
   user_id: 1
   date_of: 2009-08-21
 - created_at: 2009-08-21 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1805958
   id: 2450
@@ -15463,7 +15463,7 @@
   user_id: 1
   date_of: 2009-08-22
 - created_at: 2009-08-22 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1812765
   id: 2455
@@ -15498,7 +15498,7 @@
   user_id: 1
   date_of: 2009-08-23
 - created_at: 2009-08-23 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1818615
   id: 2460
@@ -15533,7 +15533,7 @@
   user_id: 1
   date_of: 2009-08-24
 - created_at: 2009-08-24 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1832014
   id: 2465
@@ -15568,7 +15568,7 @@
   user_id: 1
   date_of: 2009-08-25
 - created_at: 2009-08-25 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1832014
   id: 2470
@@ -15603,7 +15603,7 @@
   user_id: 1
   date_of: 2009-08-26
 - created_at: 2009-08-26 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1835989
   id: 2475
@@ -15638,7 +15638,7 @@
   user_id: 1
   date_of: 2009-08-27
 - created_at: 2009-08-27 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1840496
   id: 2480
@@ -15673,7 +15673,7 @@
   user_id: 1
   date_of: 2009-08-28
 - created_at: 2009-08-28 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1638443
   id: 2485
@@ -15708,7 +15708,7 @@
   user_id: 1
   date_of: 2009-08-29
 - created_at: 2009-08-29 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1642073
   id: 2490
@@ -15743,7 +15743,7 @@
   user_id: 1
   date_of: 2009-08-30
 - created_at: 2009-08-30 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1642442
   id: 2495
@@ -15778,7 +15778,7 @@
   user_id: 1
   date_of: 2009-08-31
 - created_at: 2009-08-31 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1734682
   id: 2500
@@ -15813,7 +15813,7 @@
   user_id: 1
   date_of: 2009-09-01
 - created_at: 2009-09-01 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1747648
   id: 2505
@@ -15848,7 +15848,7 @@
   user_id: 1
   date_of: 2009-09-02
 - created_at: 2009-09-02 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1748180
   id: 2510
@@ -15883,7 +15883,7 @@
   user_id: 1
   date_of: 2009-09-03
 - created_at: 2009-09-03 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1769262
   id: 2515
@@ -15918,7 +15918,7 @@
   user_id: 1
   date_of: 2009-09-04
 - created_at: 2009-09-04 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1774637
   id: 2520
@@ -15953,7 +15953,7 @@
   user_id: 1
   date_of: 2009-09-05
 - created_at: 2009-09-05 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1774637
   id: 2525
@@ -15988,7 +15988,7 @@
   user_id: 1
   date_of: 2009-09-06
 - created_at: 2009-09-06 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1785828
   id: 2530
@@ -16023,7 +16023,7 @@
   user_id: 1
   date_of: 2009-09-07
 - created_at: 2009-09-07 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1785828
   id: 2535
@@ -16058,7 +16058,7 @@
   user_id: 1
   date_of: 2009-09-08
 - created_at: 2009-09-08 10:00:11 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1807363
   id: 2540
@@ -16093,7 +16093,7 @@
   user_id: 1
   date_of: 2009-09-09
 - created_at: 2009-09-09 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1810662
   id: 2545
@@ -16128,7 +16128,7 @@
   user_id: 1
   date_of: 2009-09-10
 - created_at: 2009-09-10 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1817722
   id: 2550
@@ -16163,7 +16163,7 @@
   user_id: 1
   date_of: 2009-09-11
 - created_at: 2009-09-11 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1822180
   id: 2555
@@ -16198,7 +16198,7 @@
   user_id: 1
   date_of: 2009-09-12
 - created_at: 2009-09-12 10:00:11 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1823488
   id: 2560
@@ -16233,7 +16233,7 @@
   user_id: 1
   date_of: 2009-09-13
 - created_at: 2009-09-13 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1823488
   id: 2565
@@ -16268,7 +16268,7 @@
   user_id: 1
   date_of: 2009-09-14
 - created_at: 2009-09-14 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1835988
   id: 2570
@@ -16303,7 +16303,7 @@
   user_id: 1
   date_of: 2009-09-15
 - created_at: 2009-09-15 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1637311
   id: 2575
@@ -16338,7 +16338,7 @@
   user_id: 1
   date_of: 2009-09-16
 - created_at: 2009-09-16 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1646055
   id: 2580
@@ -16373,7 +16373,7 @@
   user_id: 1
   date_of: 2009-09-17
 - created_at: 2009-09-17 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1682268
   id: 2585
@@ -16408,7 +16408,7 @@
   user_id: 1
   date_of: 2009-09-18
 - created_at: 2009-09-18 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1687268
   id: 2590
@@ -16443,7 +16443,7 @@
   user_id: 1
   date_of: 2009-09-19
 - created_at: 2009-09-19 10:00:12 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1694410
   id: 2595
@@ -16478,7 +16478,7 @@
   user_id: 1
   date_of: 2009-09-20
 - created_at: 2009-09-20 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1694410
   id: 2600
@@ -16513,7 +16513,7 @@
   user_id: 1
   date_of: 2009-09-21
 - created_at: 2009-09-21 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1696073
   id: 2605
@@ -16548,7 +16548,7 @@
   user_id: 1
   date_of: 2009-09-22
 - created_at: 2009-09-22 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1705903
   id: 2610
@@ -16583,7 +16583,7 @@
   user_id: 1
   date_of: 2009-09-23
 - created_at: 2009-09-23 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1711807
   id: 2615
@@ -16618,7 +16618,7 @@
   user_id: 1
   date_of: 2009-09-24
 - created_at: 2009-09-24 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1711807
   id: 2620
@@ -16653,7 +16653,7 @@
   user_id: 1
   date_of: 2009-09-25
 - created_at: 2009-09-25 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:06 -04:00
   account_id: 1
   amount: -1711807
   id: 2625
@@ -16688,7 +16688,7 @@
   user_id: 1
   date_of: 2009-09-26
 - created_at: 2009-09-26 10:00:09 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1718007
   id: 2630
@@ -16723,7 +16723,7 @@
   user_id: 1
   date_of: 2009-09-27
 - created_at: 2009-09-27 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1718007
   id: 2635
@@ -16758,7 +16758,7 @@
   user_id: 1
   date_of: 2009-09-28
 - created_at: 2009-09-28 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1718007
   id: 2640
@@ -16793,7 +16793,7 @@
   user_id: 1
   date_of: 2009-09-29
 - created_at: 2009-09-29 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1724656
   id: 2645
@@ -16828,7 +16828,7 @@
   user_id: 1
   date_of: 2009-09-30
 - created_at: 2009-09-30 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1531564
   id: 2650
@@ -16863,7 +16863,7 @@
   user_id: 1
   date_of: 2009-10-01
 - created_at: 2009-10-01 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1536908
   id: 2655
@@ -16898,7 +16898,7 @@
   user_id: 1
   date_of: 2009-10-02
 - created_at: 2009-10-02 10:00:10 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1554181
   id: 2660
@@ -16933,7 +16933,7 @@
   user_id: 1
   date_of: 2009-10-03
 - created_at: 2009-10-03 10:00:10 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1585367
   id: 2665
@@ -16968,7 +16968,7 @@
   user_id: 1
   date_of: 2009-10-04
 - created_at: 2009-10-04 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1596660
   id: 2670
@@ -17003,7 +17003,7 @@
   user_id: 1
   date_of: 2009-10-05
 - created_at: 2009-10-05 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1603291
   id: 2675
@@ -17038,7 +17038,7 @@
   user_id: 1
   date_of: 2009-10-06
 - created_at: 2009-10-06 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1613669
   id: 2680
@@ -17073,7 +17073,7 @@
   user_id: 1
   date_of: 2009-10-07
 - created_at: 2009-10-07 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1627996
   id: 2685
@@ -17108,7 +17108,7 @@
   user_id: 1
   date_of: 2009-10-08
 - created_at: 2009-10-08 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1640930
   id: 2690
@@ -17143,7 +17143,7 @@
   user_id: 1
   date_of: 2009-10-09
 - created_at: 2009-10-09 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1643966
   id: 2695
@@ -17178,7 +17178,7 @@
   user_id: 1
   date_of: 2009-10-10
 - created_at: 2009-10-10 10:00:10 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1649132
   id: 2700
@@ -17213,7 +17213,7 @@
   user_id: 1
   date_of: 2009-10-11
 - created_at: 2009-10-11 10:00:09 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1649901
   id: 2705
@@ -17248,7 +17248,7 @@
   user_id: 1
   date_of: 2009-10-12
 - created_at: 2009-10-12 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1656137
   id: 2710
@@ -17269,9 +17269,9 @@
   user_id: 1
   date_of: 2009-10-13
 - created_at: 2009-10-13 10:00:07 -04:00
-  updated_at: 2010-05-11 21:34:31 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 43117
+  amount: -43117
   id: 2713
   user_id: 1
   date_of: 2009-10-13
@@ -17283,7 +17283,7 @@
   user_id: 1
   date_of: 2009-10-13
 - created_at: 2009-10-13 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1621312
   id: 2715
@@ -17304,9 +17304,9 @@
   user_id: 1
   date_of: 2009-10-14
 - created_at: 2009-10-14 10:00:06 -04:00
-  updated_at: 2010-05-11 21:34:31 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 43117
+  amount: -43117
   id: 2718
   user_id: 1
   date_of: 2009-10-14
@@ -17318,7 +17318,7 @@
   user_id: 1
   date_of: 2009-10-14
 - created_at: 2009-10-14 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1633422
   id: 2720
@@ -17339,9 +17339,9 @@
   user_id: 1
   date_of: 2009-10-15
 - created_at: 2009-10-15 10:00:08 -04:00
-  updated_at: 2010-05-11 21:34:31 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 43117
+  amount: -43117
   id: 2723
   user_id: 1
   date_of: 2009-10-15
@@ -17353,7 +17353,7 @@
   user_id: 1
   date_of: 2009-10-15
 - created_at: 2009-10-15 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1431152
   id: 2725
@@ -17374,9 +17374,9 @@
   user_id: 1
   date_of: 2009-10-16
 - created_at: 2009-10-16 10:00:08 -04:00
-  updated_at: 2010-05-11 21:34:31 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 43117
+  amount: -43117
   id: 2728
   user_id: 1
   date_of: 2009-10-16
@@ -17388,7 +17388,7 @@
   user_id: 1
   date_of: 2009-10-16
 - created_at: 2009-10-16 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1453661
   id: 2730
@@ -17409,9 +17409,9 @@
   user_id: 1
   date_of: 2009-10-17
 - created_at: 2009-10-17 10:00:09 -04:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 43117
+  amount: -43117
   id: 2733
   user_id: 1
   date_of: 2009-10-17
@@ -17423,7 +17423,7 @@
   user_id: 1
   date_of: 2009-10-17
 - created_at: 2009-10-17 10:00:09 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1453661
   id: 2735
@@ -17444,9 +17444,9 @@
   user_id: 1
   date_of: 2009-10-18
 - created_at: 2009-10-18 10:00:08 -04:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 43117
+  amount: -43117
   id: 2738
   user_id: 1
   date_of: 2009-10-18
@@ -17458,7 +17458,7 @@
   user_id: 1
   date_of: 2009-10-18
 - created_at: 2009-10-18 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1467242
   id: 2740
@@ -17479,9 +17479,9 @@
   user_id: 1
   date_of: 2009-10-19
 - created_at: 2009-10-19 10:00:08 -04:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 43117
+  amount: -43117
   id: 2743
   user_id: 1
   date_of: 2009-10-19
@@ -17493,7 +17493,7 @@
   user_id: 1
   date_of: 2009-10-19
 - created_at: 2009-10-19 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1479011
   id: 2745
@@ -17514,9 +17514,9 @@
   user_id: 1
   date_of: 2009-10-20
 - created_at: 2009-10-20 10:00:08 -04:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 43117
+  amount: -43117
   id: 2748
   user_id: 1
   date_of: 2009-10-20
@@ -17528,7 +17528,7 @@
   user_id: 1
   date_of: 2009-10-20
 - created_at: 2009-10-20 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1519471
   id: 2750
@@ -17549,9 +17549,9 @@
   user_id: 1
   date_of: 2009-10-21
 - created_at: 2009-10-21 10:00:09 -04:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 43117
+  amount: -43117
   id: 2753
   user_id: 1
   date_of: 2009-10-21
@@ -17563,7 +17563,7 @@
   user_id: 1
   date_of: 2009-10-21
 - created_at: 2009-10-21 10:00:10 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1519471
   id: 2755
@@ -17584,9 +17584,9 @@
   user_id: 1
   date_of: 2009-10-22
 - created_at: 2009-10-22 10:00:08 -04:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 43117
+  amount: -43117
   id: 2758
   user_id: 1
   date_of: 2009-10-22
@@ -17598,7 +17598,7 @@
   user_id: 1
   date_of: 2009-10-22
 - created_at: 2009-10-22 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1527611
   id: 2760
@@ -17619,9 +17619,9 @@
   user_id: 1
   date_of: 2009-10-23
 - created_at: 2009-10-23 10:00:11 -04:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 43117
+  amount: -43117
   id: 2763
   user_id: 1
   date_of: 2009-10-23
@@ -17633,7 +17633,7 @@
   user_id: 1
   date_of: 2009-10-23
 - created_at: 2009-10-23 10:00:11 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1536208
   id: 2765
@@ -17654,9 +17654,9 @@
   user_id: 1
   date_of: 2009-10-24
 - created_at: 2009-10-24 10:00:08 -04:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 43117
+  amount: -43117
   id: 2768
   user_id: 1
   date_of: 2009-10-24
@@ -17668,7 +17668,7 @@
   user_id: 1
   date_of: 2009-10-24
 - created_at: 2009-10-24 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1544615
   id: 2770
@@ -17689,9 +17689,9 @@
   user_id: 1
   date_of: 2009-10-25
 - created_at: 2009-10-25 10:00:08 -04:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 43117
+  amount: -43117
   id: 2773
   user_id: 1
   date_of: 2009-10-25
@@ -17703,7 +17703,7 @@
   user_id: 1
   date_of: 2009-10-25
 - created_at: 2009-10-25 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1556034
   id: 2775
@@ -17724,9 +17724,9 @@
   user_id: 1
   date_of: 2009-10-26
 - created_at: 2009-10-26 10:00:07 -04:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 43117
+  amount: -43117
   id: 2778
   user_id: 1
   date_of: 2009-10-26
@@ -17738,7 +17738,7 @@
   user_id: 1
   date_of: 2009-10-26
 - created_at: 2009-10-26 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1563849
   id: 2780
@@ -17759,9 +17759,9 @@
   user_id: 1
   date_of: 2009-10-27
 - created_at: 2009-10-27 10:00:07 -04:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 43117
+  amount: -43117
   id: 2783
   user_id: 1
   date_of: 2009-10-27
@@ -17773,7 +17773,7 @@
   user_id: 1
   date_of: 2009-10-27
 - created_at: 2009-10-27 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1768650
   id: 2785
@@ -17794,9 +17794,9 @@
   user_id: 1
   date_of: 2009-10-28
 - created_at: 2009-10-28 10:00:08 -04:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 41617
+  amount: -41617
   id: 2788
   user_id: 1
   date_of: 2009-10-28
@@ -17808,7 +17808,7 @@
   user_id: 1
   date_of: 2009-10-28
 - created_at: 2009-10-28 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1776877
   id: 2790
@@ -17829,9 +17829,9 @@
   user_id: 1
   date_of: 2009-10-29
 - created_at: 2009-10-29 10:00:09 -04:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 41617
+  amount: -41617
   id: 2793
   user_id: 1
   date_of: 2009-10-29
@@ -17843,7 +17843,7 @@
   user_id: 1
   date_of: 2009-10-29
 - created_at: 2009-10-29 10:00:09 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1769634
   id: 2795
@@ -17864,9 +17864,9 @@
   user_id: 1
   date_of: 2009-10-30
 - created_at: 2009-10-30 10:00:08 -04:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 41617
+  amount: -41617
   id: 2798
   user_id: 1
   date_of: 2009-10-30
@@ -17878,7 +17878,7 @@
   user_id: 1
   date_of: 2009-10-30
 - created_at: 2009-10-30 10:00:08 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1590200
   id: 2800
@@ -17899,9 +17899,9 @@
   user_id: 1
   date_of: 2009-10-31
 - created_at: 2009-10-31 10:00:07 -04:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 41617
+  amount: -41617
   id: 2803
   user_id: 1
   date_of: 2009-10-31
@@ -17913,7 +17913,7 @@
   user_id: 1
   date_of: 2009-10-31
 - created_at: 2009-10-31 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1597411
   id: 2805
@@ -17934,9 +17934,9 @@
   user_id: 1
   date_of: 2009-11-01
 - created_at: 2009-11-01 11:00:07 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 41617
+  amount: -41617
   id: 2808
   user_id: 1
   date_of: 2009-11-01
@@ -17948,7 +17948,7 @@
   user_id: 1
   date_of: 2009-11-01
 - created_at: 2009-11-01 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1597630
   id: 2810
@@ -17969,9 +17969,9 @@
   user_id: 1
   date_of: 2009-11-02
 - created_at: 2009-11-02 11:00:08 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 41617
+  amount: -41617
   id: 2813
   user_id: 1
   date_of: 2009-11-02
@@ -17983,7 +17983,7 @@
   user_id: 1
   date_of: 2009-11-02
 - created_at: 2009-11-02 11:00:08 -05:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1582566
   id: 2815
@@ -18004,9 +18004,9 @@
   user_id: 1
   date_of: 2009-11-03
 - created_at: 2009-11-03 11:00:07 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 41617
+  amount: -41617
   id: 2818
   user_id: 1
   date_of: 2009-11-03
@@ -18018,7 +18018,7 @@
   user_id: 1
   date_of: 2009-11-03
 - created_at: 2009-11-03 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1589218
   id: 2820
@@ -18039,9 +18039,9 @@
   user_id: 1
   date_of: 2009-11-04
 - created_at: 2009-11-04 11:00:09 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 41617
+  amount: -41617
   id: 2823
   user_id: 1
   date_of: 2009-11-04
@@ -18053,7 +18053,7 @@
   user_id: 1
   date_of: 2009-11-04
 - created_at: 2009-11-04 11:00:09 -05:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1613610
   id: 2825
@@ -18074,9 +18074,9 @@
   user_id: 1
   date_of: 2009-11-05
 - created_at: 2009-11-05 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 41617
+  amount: -41617
   id: 2828
   user_id: 1
   date_of: 2009-11-05
@@ -18088,7 +18088,7 @@
   user_id: 1
   date_of: 2009-11-05
 - created_at: 2009-11-05 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1615405
   id: 2830
@@ -18109,9 +18109,9 @@
   user_id: 1
   date_of: 2009-11-06
 - created_at: 2009-11-06 11:00:10 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 41617
+  amount: -41617
   id: 2833
   user_id: 1
   date_of: 2009-11-06
@@ -18123,7 +18123,7 @@
   user_id: 1
   date_of: 2009-11-06
 - created_at: 2009-11-06 11:00:10 -05:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1617206
   id: 2835
@@ -18144,9 +18144,9 @@
   user_id: 1
   date_of: 2009-11-07
 - created_at: 2009-11-07 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 41617
+  amount: -41617
   id: 2838
   user_id: 1
   date_of: 2009-11-07
@@ -18158,7 +18158,7 @@
   user_id: 1
   date_of: 2009-11-07
 - created_at: 2009-11-07 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1623033
   id: 2840
@@ -18179,9 +18179,9 @@
   user_id: 1
   date_of: 2009-11-08
 - created_at: 2009-11-08 11:00:09 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:36 -04:00
   account_id: 4
-  amount: 41617
+  amount: -41617
   id: 2843
   user_id: 1
   date_of: 2009-11-08
@@ -18193,7 +18193,7 @@
   user_id: 1
   date_of: 2009-11-08
 - created_at: 2009-11-08 11:00:09 -05:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1625548
   id: 2845
@@ -18214,9 +18214,9 @@
   user_id: 1
   date_of: 2009-11-09
 - created_at: 2009-11-09 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 41617
+  amount: -41617
   id: 2848
   user_id: 1
   date_of: 2009-11-09
@@ -18228,7 +18228,7 @@
   user_id: 1
   date_of: 2009-11-09
 - created_at: 2009-11-09 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1631999
   id: 2850
@@ -18249,9 +18249,9 @@
   user_id: 1
   date_of: 2009-11-10
 - created_at: 2009-11-10 11:00:05 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 41617
+  amount: -41617
   id: 2853
   user_id: 1
   date_of: 2009-11-10
@@ -18263,7 +18263,7 @@
   user_id: 1
   date_of: 2009-11-10
 - created_at: 2009-11-10 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1638696
   id: 2855
@@ -18284,9 +18284,9 @@
   user_id: 1
   date_of: 2009-11-11
 - created_at: 2009-11-11 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 41617
+  amount: -41617
   id: 2858
   user_id: 1
   date_of: 2009-11-11
@@ -18298,7 +18298,7 @@
   user_id: 1
   date_of: 2009-11-11
 - created_at: 2009-11-11 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1644191
   id: 2860
@@ -18319,9 +18319,9 @@
   user_id: 1
   date_of: 2009-11-12
 - created_at: 2009-11-12 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 42151
+  amount: -42151
   id: 2863
   user_id: 1
   date_of: 2009-11-12
@@ -18333,7 +18333,7 @@
   user_id: 1
   date_of: 2009-11-12
 - created_at: 2009-11-12 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1656474
   id: 2865
@@ -18354,9 +18354,9 @@
   user_id: 1
   date_of: 2009-11-13
 - created_at: 2009-11-13 11:00:08 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 42151
+  amount: -42151
   id: 2868
   user_id: 1
   date_of: 2009-11-13
@@ -18368,7 +18368,7 @@
   user_id: 1
   date_of: 2009-11-13
 - created_at: 2009-11-13 11:00:10 -05:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1448616
   id: 2870
@@ -18389,9 +18389,9 @@
   user_id: 1
   date_of: 2009-11-14
 - created_at: 2009-11-14 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 42151
+  amount: -42151
   id: 2873
   user_id: 1
   date_of: 2009-11-14
@@ -18403,7 +18403,7 @@
   user_id: 1
   date_of: 2009-11-14
 - created_at: 2009-11-14 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1454816
   id: 2875
@@ -18424,9 +18424,9 @@
   user_id: 1
   date_of: 2009-11-15
 - created_at: 2009-11-15 11:00:05 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 37000
+  amount: -37000
   id: 2878
   user_id: 1
   date_of: 2009-11-15
@@ -18438,7 +18438,7 @@
   user_id: 1
   date_of: 2009-11-15
 - created_at: 2009-11-15 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1471763
   id: 2880
@@ -18459,9 +18459,9 @@
   user_id: 1
   date_of: 2009-11-16
 - created_at: 2009-11-16 11:00:09 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 37000
+  amount: -37000
   id: 2883
   user_id: 1
   date_of: 2009-11-16
@@ -18473,7 +18473,7 @@
   user_id: 1
   date_of: 2009-11-16
 - created_at: 2009-11-16 11:00:09 -05:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1490851
   id: 2885
@@ -18494,9 +18494,9 @@
   user_id: 1
   date_of: 2009-11-17
 - created_at: 2009-11-17 11:00:05 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 37000
+  amount: -37000
   id: 2888
   user_id: 1
   date_of: 2009-11-17
@@ -18508,7 +18508,7 @@
   user_id: 1
   date_of: 2009-11-17
 - created_at: 2009-11-17 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1494550
   id: 2890
@@ -18529,9 +18529,9 @@
   user_id: 1
   date_of: 2009-11-18
 - created_at: 2009-11-18 11:00:07 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 37000
+  amount: -37000
   id: 2893
   user_id: 1
   date_of: 2009-11-18
@@ -18543,7 +18543,7 @@
   user_id: 1
   date_of: 2009-11-18
 - created_at: 2009-11-18 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:11 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1494649
   id: 2895
@@ -18564,9 +18564,9 @@
   user_id: 1
   date_of: 2009-11-19
 - created_at: 2009-11-19 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 37000
+  amount: -37000
   id: 2898
   user_id: 1
   date_of: 2009-11-19
@@ -18578,7 +18578,7 @@
   user_id: 1
   date_of: 2009-11-19
 - created_at: 2009-11-19 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1504120
   id: 2900
@@ -18599,9 +18599,9 @@
   user_id: 1
   date_of: 2009-11-20
 - created_at: 2009-11-20 11:00:04 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 37000
+  amount: -37000
   id: 2903
   user_id: 1
   date_of: 2009-11-20
@@ -18613,7 +18613,7 @@
   user_id: 1
   date_of: 2009-11-20
 - created_at: 2009-11-20 11:00:04 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1512136
   id: 2905
@@ -18634,9 +18634,9 @@
   user_id: 1
   date_of: 2009-11-21
 - created_at: 2009-11-21 11:00:04 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 37000
+  amount: -37000
   id: 2908
   user_id: 1
   date_of: 2009-11-21
@@ -18648,7 +18648,7 @@
   user_id: 1
   date_of: 2009-11-21
 - created_at: 2009-11-21 11:00:04 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1513846
   id: 2910
@@ -18669,9 +18669,9 @@
   user_id: 1
   date_of: 2009-11-22
 - created_at: 2009-11-22 11:00:05 -05:00
-  updated_at: 2010-05-11 21:34:31 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 37000
+  amount: -37000
   id: 2913
   user_id: 1
   date_of: 2009-11-22
@@ -18683,7 +18683,7 @@
   user_id: 1
   date_of: 2009-11-22
 - created_at: 2009-11-22 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1529440
   id: 2915
@@ -18704,9 +18704,9 @@
   user_id: 1
   date_of: 2009-11-23
 - created_at: 2009-11-23 11:00:07 -05:00
-  updated_at: 2010-05-11 21:34:31 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 87830
+  amount: -87830
   id: 2918
   user_id: 1
   date_of: 2009-11-23
@@ -18718,7 +18718,7 @@
   user_id: 1
   date_of: 2009-11-23
 - created_at: 2009-11-23 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1502503
   id: 2920
@@ -18739,9 +18739,9 @@
   user_id: 1
   date_of: 2009-11-24
 - created_at: 2009-11-24 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:31 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 87830
+  amount: -87830
   id: 2923
   user_id: 1
   date_of: 2009-11-24
@@ -18753,7 +18753,7 @@
   user_id: 1
   date_of: 2009-11-24
 - created_at: 2009-11-24 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1506529
   id: 2925
@@ -18774,9 +18774,9 @@
   user_id: 1
   date_of: 2009-11-25
 - created_at: 2009-11-25 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:31 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 87830
+  amount: -87830
   id: 2928
   user_id: 1
   date_of: 2009-11-25
@@ -18788,7 +18788,7 @@
   user_id: 1
   date_of: 2009-11-25
 - created_at: 2009-11-25 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1519188
   id: 2930
@@ -18809,9 +18809,9 @@
   user_id: 1
   date_of: 2009-11-26
 - created_at: 2009-11-26 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:31 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 87830
+  amount: -87830
   id: 2933
   user_id: 1
   date_of: 2009-11-26
@@ -18823,7 +18823,7 @@
   user_id: 1
   date_of: 2009-11-26
 - created_at: 2009-11-26 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1523541
   id: 2935
@@ -18844,9 +18844,9 @@
   user_id: 1
   date_of: 2009-11-27
 - created_at: 2009-11-27 11:00:05 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 87830
+  amount: -87830
   id: 2938
   user_id: 1
   date_of: 2009-11-27
@@ -18858,7 +18858,7 @@
   user_id: 1
   date_of: 2009-11-27
 - created_at: 2009-11-27 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1526740
   id: 2940
@@ -18879,9 +18879,9 @@
   user_id: 1
   date_of: 2009-11-28
 - created_at: 2009-11-28 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 87830
+  amount: -87830
   id: 2943
   user_id: 1
   date_of: 2009-11-28
@@ -18893,7 +18893,7 @@
   user_id: 1
   date_of: 2009-11-28
 - created_at: 2009-11-28 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1526740
   id: 2945
@@ -18914,9 +18914,9 @@
   user_id: 1
   date_of: 2009-11-29
 - created_at: 2009-11-29 11:00:05 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 87830
+  amount: -87830
   id: 2948
   user_id: 1
   date_of: 2009-11-29
@@ -18928,7 +18928,7 @@
   user_id: 1
   date_of: 2009-11-29
 - created_at: 2009-11-29 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1526740
   id: 2950
@@ -18949,9 +18949,9 @@
   user_id: 1
   date_of: 2009-11-30
 - created_at: 2009-11-30 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 87830
+  amount: -87830
   id: 2953
   user_id: 1
   date_of: 2009-11-30
@@ -18963,7 +18963,7 @@
   user_id: 1
   date_of: 2009-11-30
 - created_at: 2009-11-30 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1427250
   id: 2955
@@ -18984,9 +18984,9 @@
   user_id: 1
   date_of: 2009-12-01
 - created_at: 2009-12-01 11:00:08 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 87830
+  amount: -87830
   id: 2958
   user_id: 1
   date_of: 2009-12-01
@@ -18998,7 +18998,7 @@
   user_id: 1
   date_of: 2009-12-01
 - created_at: 2009-12-01 11:00:09 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1476451
   id: 2960
@@ -19019,9 +19019,9 @@
   user_id: 1
   date_of: 2009-12-02
 - created_at: 2009-12-02 11:00:08 -05:00
-  updated_at: 2010-05-11 21:34:31 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 87830
+  amount: -87830
   id: 2963
   user_id: 1
   date_of: 2009-12-02
@@ -19033,7 +19033,7 @@
   user_id: 1
   date_of: 2009-12-02
 - created_at: 2009-12-02 11:00:08 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1482099
   id: 2965
@@ -19054,9 +19054,9 @@
   user_id: 1
   date_of: 2009-12-03
 - created_at: 2009-12-03 11:00:05 -05:00
-  updated_at: 2010-05-11 21:34:31 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 87830
+  amount: -87830
   id: 2968
   user_id: 1
   date_of: 2009-12-03
@@ -19068,7 +19068,7 @@
   user_id: 1
   date_of: 2009-12-03
 - created_at: 2009-12-03 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1487158
   id: 2970
@@ -19089,9 +19089,9 @@
   user_id: 1
   date_of: 2009-12-04
 - created_at: 2009-12-04 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:31 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 87830
+  amount: -87830
   id: 2973
   user_id: 1
   date_of: 2009-12-04
@@ -19103,7 +19103,7 @@
   user_id: 1
   date_of: 2009-12-04
 - created_at: 2009-12-04 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1516152
   id: 2975
@@ -19124,9 +19124,9 @@
   user_id: 1
   date_of: 2009-12-05
 - created_at: 2009-12-05 11:00:05 -05:00
-  updated_at: 2010-05-11 21:34:31 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 87830
+  amount: -87830
   id: 2978
   user_id: 1
   date_of: 2009-12-05
@@ -19138,7 +19138,7 @@
   user_id: 1
   date_of: 2009-12-05
 - created_at: 2009-12-05 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1516152
   id: 2980
@@ -19159,9 +19159,9 @@
   user_id: 1
   date_of: 2009-12-06
 - created_at: 2009-12-06 11:00:05 -05:00
-  updated_at: 2010-05-11 21:34:31 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 87830
+  amount: -87830
   id: 2983
   user_id: 1
   date_of: 2009-12-06
@@ -19173,7 +19173,7 @@
   user_id: 1
   date_of: 2009-12-06
 - created_at: 2009-12-06 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1525970
   id: 2985
@@ -19194,9 +19194,9 @@
   user_id: 1
   date_of: 2009-12-07
 - created_at: 2009-12-07 11:00:07 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 87830
+  amount: -87830
   id: 2988
   user_id: 1
   date_of: 2009-12-07
@@ -19208,7 +19208,7 @@
   user_id: 1
   date_of: 2009-12-07
 - created_at: 2009-12-07 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1534271
   id: 2990
@@ -19229,9 +19229,9 @@
   user_id: 1
   date_of: 2009-12-08
 - created_at: 2009-12-08 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 87830
+  amount: -87830
   id: 2993
   user_id: 1
   date_of: 2009-12-08
@@ -19243,7 +19243,7 @@
   user_id: 1
   date_of: 2009-12-08
 - created_at: 2009-12-08 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1542971
   id: 2995
@@ -19264,9 +19264,9 @@
   user_id: 1
   date_of: 2009-12-09
 - created_at: 2009-12-09 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 87830
+  amount: -87830
   id: 2998
   user_id: 1
   date_of: 2009-12-09
@@ -19278,7 +19278,7 @@
   user_id: 1
   date_of: 2009-12-09
 - created_at: 2009-12-09 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1551742
   id: 3000
@@ -19299,9 +19299,9 @@
   user_id: 1
   date_of: 2009-12-10
 - created_at: 2009-12-10 11:00:07 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 87830
+  amount: -87830
   id: 3003
   user_id: 1
   date_of: 2009-12-10
@@ -19313,7 +19313,7 @@
   user_id: 1
   date_of: 2009-12-10
 - created_at: 2009-12-10 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1594173
   id: 3005
@@ -19334,9 +19334,9 @@
   user_id: 1
   date_of: 2009-12-11
 - created_at: 2009-12-11 11:00:04 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 87830
+  amount: -87830
   id: 3008
   user_id: 1
   date_of: 2009-12-11
@@ -19348,7 +19348,7 @@
   user_id: 1
   date_of: 2009-12-11
 - created_at: 2009-12-11 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1612981
   id: 3010
@@ -19369,9 +19369,9 @@
   user_id: 1
   date_of: 2009-12-12
 - created_at: 2009-12-12 11:00:07 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 87830
+  amount: -87830
   id: 3013
   user_id: 1
   date_of: 2009-12-12
@@ -19383,7 +19383,7 @@
   user_id: 1
   date_of: 2009-12-12
 - created_at: 2009-12-12 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1612981
   id: 3015
@@ -19404,9 +19404,9 @@
   user_id: 1
   date_of: 2009-12-13
 - created_at: 2009-12-13 11:00:05 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 88866
+  amount: -88866
   id: 3018
   user_id: 1
   date_of: 2009-12-13
@@ -19418,7 +19418,7 @@
   user_id: 1
   date_of: 2009-12-13
 - created_at: 2009-12-13 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1613495
   id: 3020
@@ -19439,9 +19439,9 @@
   user_id: 1
   date_of: 2009-12-14
 - created_at: 2009-12-14 11:00:08 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3023
   user_id: 1
   date_of: 2009-12-14
@@ -19453,7 +19453,7 @@
   user_id: 1
   date_of: 2009-12-14
 - created_at: 2009-12-14 11:00:09 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1613910
   id: 3025
@@ -19474,9 +19474,9 @@
   user_id: 1
   date_of: 2009-12-15
 - created_at: 2009-12-15 11:00:05 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3028
   user_id: 1
   date_of: 2009-12-15
@@ -19488,7 +19488,7 @@
   user_id: 1
   date_of: 2009-12-15
 - created_at: 2009-12-15 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1407916
   id: 3030
@@ -19509,9 +19509,9 @@
   user_id: 1
   date_of: 2009-12-16
 - created_at: 2009-12-16 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3033
   user_id: 1
   date_of: 2009-12-16
@@ -19523,7 +19523,7 @@
   user_id: 1
   date_of: 2009-12-16
 - created_at: 2009-12-16 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1416616
   id: 3035
@@ -19544,9 +19544,9 @@
   user_id: 1
   date_of: 2009-12-17
 - created_at: 2009-12-17 11:00:05 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3038
   user_id: 1
   date_of: 2009-12-17
@@ -19558,7 +19558,7 @@
   user_id: 1
   date_of: 2009-12-17
 - created_at: 2009-12-17 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1457597
   id: 3040
@@ -19579,9 +19579,9 @@
   user_id: 1
   date_of: 2009-12-18
 - created_at: 2009-12-18 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3043
   user_id: 1
   date_of: 2009-12-18
@@ -19593,7 +19593,7 @@
   user_id: 1
   date_of: 2009-12-18
 - created_at: 2009-12-18 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1478385
   id: 3045
@@ -19614,9 +19614,9 @@
   user_id: 1
   date_of: 2009-12-19
 - created_at: 2009-12-19 11:00:07 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3048
   user_id: 1
   date_of: 2009-12-19
@@ -19628,7 +19628,7 @@
   user_id: 1
   date_of: 2009-12-19
 - created_at: 2009-12-19 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1478385
   id: 3050
@@ -19649,9 +19649,9 @@
   user_id: 1
   date_of: 2009-12-20
 - created_at: 2009-12-20 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3053
   user_id: 1
   date_of: 2009-12-20
@@ -19663,7 +19663,7 @@
   user_id: 1
   date_of: 2009-12-20
 - created_at: 2009-12-20 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:07 -04:00
   account_id: 1
   amount: -1494510
   id: 3055
@@ -19684,9 +19684,9 @@
   user_id: 1
   date_of: 2009-12-21
 - created_at: 2009-12-21 11:00:09 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3058
   user_id: 1
   date_of: 2009-12-21
@@ -19698,7 +19698,7 @@
   user_id: 1
   date_of: 2009-12-21
 - created_at: 2009-12-21 11:00:09 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1523971
   id: 3060
@@ -19719,9 +19719,9 @@
   user_id: 1
   date_of: 2009-12-22
 - created_at: 2009-12-22 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3063
   user_id: 1
   date_of: 2009-12-22
@@ -19733,7 +19733,7 @@
   user_id: 1
   date_of: 2009-12-22
 - created_at: 2009-12-22 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1533809
   id: 3065
@@ -19754,9 +19754,9 @@
   user_id: 1
   date_of: 2009-12-23
 - created_at: 2009-12-23 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3068
   user_id: 1
   date_of: 2009-12-23
@@ -19768,7 +19768,7 @@
   user_id: 1
   date_of: 2009-12-23
 - created_at: 2009-12-23 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1535390
   id: 3070
@@ -19789,9 +19789,9 @@
   user_id: 1
   date_of: 2009-12-24
 - created_at: 2009-12-24 11:00:09 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3073
   user_id: 1
   date_of: 2009-12-24
@@ -19803,7 +19803,7 @@
   user_id: 1
   date_of: 2009-12-24
 - created_at: 2009-12-24 11:00:09 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1545163
   id: 3075
@@ -19824,9 +19824,9 @@
   user_id: 1
   date_of: 2009-12-25
 - created_at: 2009-12-25 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3078
   user_id: 1
   date_of: 2009-12-25
@@ -19838,7 +19838,7 @@
   user_id: 1
   date_of: 2009-12-25
 - created_at: 2009-12-25 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1546705
   id: 3080
@@ -19859,9 +19859,9 @@
   user_id: 1
   date_of: 2009-12-26
 - created_at: 2009-12-26 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3083
   user_id: 1
   date_of: 2009-12-26
@@ -19873,7 +19873,7 @@
   user_id: 1
   date_of: 2009-12-26
 - created_at: 2009-12-26 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1558505
   id: 3085
@@ -19894,9 +19894,9 @@
   user_id: 1
   date_of: 2009-12-27
 - created_at: 2009-12-27 11:00:05 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3088
   user_id: 1
   date_of: 2009-12-27
@@ -19908,7 +19908,7 @@
   user_id: 1
   date_of: 2009-12-27
 - created_at: 2009-12-27 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1585675
   id: 3090
@@ -19929,9 +19929,9 @@
   user_id: 1
   date_of: 2009-12-28
 - created_at: 2009-12-28 11:00:05 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3093
   user_id: 1
   date_of: 2009-12-28
@@ -19943,7 +19943,7 @@
   user_id: 1
   date_of: 2009-12-28
 - created_at: 2009-12-28 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1585675
   id: 3095
@@ -19964,9 +19964,9 @@
   user_id: 1
   date_of: 2009-12-29
 - created_at: 2009-12-29 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:30 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3098
   user_id: 1
   date_of: 2009-12-29
@@ -19978,7 +19978,7 @@
   user_id: 1
   date_of: 2009-12-29
 - created_at: 2009-12-29 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1586675
   id: 3100
@@ -19999,9 +19999,9 @@
   user_id: 1
   date_of: 2009-12-30
 - created_at: 2009-12-30 11:00:05 -05:00
-  updated_at: 2010-05-11 21:34:31 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3103
   user_id: 1
   date_of: 2009-12-30
@@ -20013,7 +20013,7 @@
   user_id: 1
   date_of: 2009-12-30
 - created_at: 2009-12-30 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1605530
   id: 3105
@@ -20034,9 +20034,9 @@
   user_id: 1
   date_of: 2009-12-31
 - created_at: 2009-12-31 11:00:05 -05:00
-  updated_at: 2010-05-11 21:34:31 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3108
   user_id: 1
   date_of: 2009-12-31
@@ -20048,7 +20048,7 @@
   user_id: 1
   date_of: 2009-12-31
 - created_at: 2009-12-31 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1492343
   id: 3110
@@ -20069,9 +20069,9 @@
   user_id: 1
   date_of: 2010-01-01
 - created_at: 2010-01-01 11:00:04 -05:00
-  updated_at: 2010-05-11 21:34:31 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3113
   user_id: 1
   date_of: 2010-01-01
@@ -20083,7 +20083,7 @@
   user_id: 1
   date_of: 2010-01-01
 - created_at: 2010-01-01 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1482475
   id: 3115
@@ -20104,9 +20104,9 @@
   user_id: 1
   date_of: 2010-01-02
 - created_at: 2010-01-02 11:00:05 -05:00
-  updated_at: 2010-05-11 21:34:31 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3118
   user_id: 1
   date_of: 2010-01-02
@@ -20118,7 +20118,7 @@
   user_id: 1
   date_of: 2010-01-02
 - created_at: 2010-01-02 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1483421
   id: 3120
@@ -20139,9 +20139,9 @@
   user_id: 1
   date_of: 2010-01-03
 - created_at: 2010-01-03 11:00:05 -05:00
-  updated_at: 2010-05-11 21:34:31 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3123
   user_id: 1
   date_of: 2010-01-03
@@ -20153,7 +20153,7 @@
   user_id: 1
   date_of: 2010-01-03
 - created_at: 2010-01-03 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1496611
   id: 3125
@@ -20174,9 +20174,9 @@
   user_id: 1
   date_of: 2010-01-04
 - created_at: 2010-01-04 11:00:05 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 97566
+  amount: -97566
   id: 3128
   user_id: 1
   date_of: 2010-01-04
@@ -20188,7 +20188,7 @@
   user_id: 1
   date_of: 2010-01-04
 - created_at: 2010-01-04 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1520322
   id: 3130
@@ -20209,9 +20209,9 @@
   user_id: 1
   date_of: 2010-01-05
 - created_at: 2010-01-05 11:00:05 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 153508
+  amount: -153508
   id: 3133
   user_id: 1
   date_of: 2010-01-05
@@ -20223,7 +20223,7 @@
   user_id: 1
   date_of: 2010-01-05
 - created_at: 2010-01-05 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1465755
   id: 3135
@@ -20244,9 +20244,9 @@
   user_id: 1
   date_of: 2010-01-06
 - created_at: 2010-01-06 11:00:07 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 153508
+  amount: -153508
   id: 3138
   user_id: 1
   date_of: 2010-01-06
@@ -20258,7 +20258,7 @@
   user_id: 1
   date_of: 2010-01-06
 - created_at: 2010-01-06 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1473845
   id: 3140
@@ -20279,9 +20279,9 @@
   user_id: 1
   date_of: 2010-01-08
 - created_at: 2010-01-08 11:00:07 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 64642
+  amount: -64642
   id: 3143
   user_id: 1
   date_of: 2010-01-08
@@ -20293,7 +20293,7 @@
   user_id: 1
   date_of: 2010-01-08
 - created_at: 2010-01-08 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1565469
   id: 3145
@@ -20314,9 +20314,9 @@
   user_id: 1
   date_of: 2010-01-09
 - created_at: 2010-01-09 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 64642
+  amount: -64642
   id: 3148
   user_id: 1
   date_of: 2010-01-09
@@ -20328,7 +20328,7 @@
   user_id: 1
   date_of: 2010-01-09
 - created_at: 2010-01-09 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1565469
   id: 3150
@@ -20349,9 +20349,9 @@
   user_id: 1
   date_of: 2010-01-10
 - created_at: 2010-01-10 11:00:06 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 64642
+  amount: -64642
   id: 3153
   user_id: 1
   date_of: 2010-01-10
@@ -20363,7 +20363,7 @@
   user_id: 1
   date_of: 2010-01-10
 - created_at: 2010-01-10 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1570769
   id: 3155
@@ -20384,9 +20384,9 @@
   user_id: 1
   date_of: 2010-01-11
 - created_at: 2010-01-11 11:00:07 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 64642
+  amount: -64642
   id: 3158
   user_id: 1
   date_of: 2010-01-11
@@ -20398,7 +20398,7 @@
   user_id: 1
   date_of: 2010-01-11
 - created_at: 2010-01-11 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1663028
   id: 3160
@@ -20419,9 +20419,9 @@
   user_id: 1
   date_of: 2010-01-12
 - created_at: 2010-01-12 11:00:07 -05:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 104642
+  amount: -104642
   id: 3163
   user_id: 1
   date_of: 2010-01-12
@@ -20433,7 +20433,7 @@
   user_id: 1
   date_of: 2010-01-12
 - created_at: 2010-01-12 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1659567
   id: 3165
@@ -20468,7 +20468,7 @@
   user_id: 1
   date_of: 2010-01-13
 - created_at: 2010-01-13 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1799109
   id: 3170
@@ -20503,7 +20503,7 @@
   user_id: 1
   date_of: 2010-01-14
 - created_at: 2010-01-14 11:00:18 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1752730
   id: 3175
@@ -20538,7 +20538,7 @@
   user_id: 1
   date_of: 2010-01-15
 - created_at: 2010-01-15 11:00:04 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1640649
   id: 3180
@@ -20573,7 +20573,7 @@
   user_id: 1
   date_of: 2010-01-16
 - created_at: 2010-01-16 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1646899
   id: 3185
@@ -20608,7 +20608,7 @@
   user_id: 1
   date_of: 2010-01-17
 - created_at: 2010-01-17 11:00:04 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1654010
   id: 3190
@@ -20643,7 +20643,7 @@
   user_id: 1
   date_of: 2010-01-18
 - created_at: 2010-01-18 11:00:13 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1654010
   id: 3195
@@ -20678,7 +20678,7 @@
   user_id: 1
   date_of: 2010-01-19
 - created_at: 2010-01-19 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1627247
   id: 3200
@@ -20713,7 +20713,7 @@
   user_id: 1
   date_of: 2010-01-20
 - created_at: 2010-01-20 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1634025
   id: 3205
@@ -20748,7 +20748,7 @@
   user_id: 1
   date_of: 2010-01-21
 - created_at: 2010-01-21 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1636124
   id: 3210
@@ -20783,7 +20783,7 @@
   user_id: 1
   date_of: 2010-01-22
 - created_at: 2010-01-22 11:00:04 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1652275
   id: 3215
@@ -20818,7 +20818,7 @@
   user_id: 1
   date_of: 2010-01-23
 - created_at: 2010-01-23 11:00:08 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1652275
   id: 3220
@@ -20853,7 +20853,7 @@
   user_id: 1
   date_of: 2010-01-24
 - created_at: 2010-01-24 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1651276
   id: 3225
@@ -20888,7 +20888,7 @@
   user_id: 1
   date_of: 2010-01-25
 - created_at: 2010-01-25 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1654934
   id: 3230
@@ -20923,7 +20923,7 @@
   user_id: 1
   date_of: 2010-01-26
 - created_at: 2010-01-26 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1654934
   id: 3235
@@ -20958,7 +20958,7 @@
   user_id: 1
   date_of: 2010-01-27
 - created_at: 2010-01-27 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1655234
   id: 3240
@@ -20993,7 +20993,7 @@
   user_id: 1
   date_of: 2010-01-28
 - created_at: 2010-01-28 11:00:08 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1655234
   id: 3245
@@ -21028,7 +21028,7 @@
   user_id: 1
   date_of: 2010-01-29
 - created_at: 2010-01-29 11:00:04 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1457680
   id: 3250
@@ -21063,7 +21063,7 @@
   user_id: 1
   date_of: 2010-01-30
 - created_at: 2010-01-30 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1463980
   id: 3255
@@ -21098,7 +21098,7 @@
   user_id: 1
   date_of: 2010-01-31
 - created_at: 2010-01-31 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1563462
   id: 3260
@@ -21133,7 +21133,7 @@
   user_id: 1
   date_of: 2010-02-01
 - created_at: 2010-02-01 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1574191
   id: 3265
@@ -21168,7 +21168,7 @@
   user_id: 1
   date_of: 2010-02-02
 - created_at: 2010-02-02 11:00:04 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1583406
   id: 3270
@@ -21203,7 +21203,7 @@
   user_id: 1
   date_of: 2010-02-03
 - created_at: 2010-02-03 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1585970
   id: 3275
@@ -21238,7 +21238,7 @@
   user_id: 1
   date_of: 2010-02-04
 - created_at: 2010-02-04 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1589557
   id: 3280
@@ -21273,7 +21273,7 @@
   user_id: 1
   date_of: 2010-02-05
 - created_at: 2010-02-05 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1592347
   id: 3285
@@ -21308,7 +21308,7 @@
   user_id: 1
   date_of: 2010-02-06
 - created_at: 2010-02-06 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1592347
   id: 3290
@@ -21343,7 +21343,7 @@
   user_id: 1
   date_of: 2010-02-07
 - created_at: 2010-02-07 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1599297
   id: 3295
@@ -21378,7 +21378,7 @@
   user_id: 1
   date_of: 2010-02-08
 - created_at: 2010-02-08 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1605505
   id: 3300
@@ -21413,7 +21413,7 @@
   user_id: 1
   date_of: 2010-02-09
 - created_at: 2010-02-09 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1605365
   id: 3305
@@ -21448,7 +21448,7 @@
   user_id: 1
   date_of: 2010-02-10
 - created_at: 2010-02-10 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1606314
   id: 3310
@@ -21483,7 +21483,7 @@
   user_id: 1
   date_of: 2010-02-11
 - created_at: 2010-02-11 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1610465
   id: 3315
@@ -21518,7 +21518,7 @@
   user_id: 1
   date_of: 2010-02-12
 - created_at: 2010-02-12 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1634636
   id: 3320
@@ -21553,7 +21553,7 @@
   user_id: 1
   date_of: 2010-02-13
 - created_at: 2010-02-13 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1634636
   id: 3325
@@ -21588,7 +21588,7 @@
   user_id: 1
   date_of: 2010-02-14
 - created_at: 2010-02-14 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1635435
   id: 3330
@@ -21623,7 +21623,7 @@
   user_id: 1
   date_of: 2010-02-15
 - created_at: 2010-02-15 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1635435
   id: 3335
@@ -21658,7 +21658,7 @@
   user_id: 1
   date_of: 2010-02-16
 - created_at: 2010-02-16 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1473463
   id: 3340
@@ -21693,7 +21693,7 @@
   user_id: 1
   date_of: 2010-02-17
 - created_at: 2010-02-17 11:00:08 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1478211
   id: 3345
@@ -21728,7 +21728,7 @@
   user_id: 1
   date_of: 2010-02-18
 - created_at: 2010-02-18 11:00:09 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1484022
   id: 3350
@@ -21763,7 +21763,7 @@
   user_id: 1
   date_of: 2010-02-19
 - created_at: 2010-02-19 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1482072
   id: 3355
@@ -21798,7 +21798,7 @@
   user_id: 1
   date_of: 2010-02-20
 - created_at: 2010-02-20 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1482072
   id: 3360
@@ -21833,7 +21833,7 @@
   user_id: 1
   date_of: 2010-02-21
 - created_at: 2010-02-21 11:00:04 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1490499
   id: 3365
@@ -21868,7 +21868,7 @@
   user_id: 1
   date_of: 2010-02-22
 - created_at: 2010-02-22 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1521044
   id: 3370
@@ -21903,7 +21903,7 @@
   user_id: 1
   date_of: 2010-02-23
 - created_at: 2010-02-23 11:00:08 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1523594
   id: 3375
@@ -21938,7 +21938,7 @@
   user_id: 1
   date_of: 2010-02-24
 - created_at: 2010-02-24 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1526918
   id: 3380
@@ -21973,7 +21973,7 @@
   user_id: 1
   date_of: 2010-02-25
 - created_at: 2010-02-25 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1533356
   id: 3385
@@ -22008,7 +22008,7 @@
   user_id: 1
   date_of: 2010-02-26
 - created_at: 2010-02-26 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1348248
   id: 3390
@@ -22043,7 +22043,7 @@
   user_id: 1
   date_of: 2010-02-27
 - created_at: 2010-02-27 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1445608
   id: 3395
@@ -22078,7 +22078,7 @@
   user_id: 1
   date_of: 2010-02-28
 - created_at: 2010-02-28 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1450267
   id: 3400
@@ -22113,7 +22113,7 @@
   user_id: 1
   date_of: 2010-03-01
 - created_at: 2010-03-01 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1450267
   id: 3405
@@ -22148,7 +22148,7 @@
   user_id: 1
   date_of: 2010-03-02
 - created_at: 2010-03-02 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1426186
   id: 3410
@@ -22183,7 +22183,7 @@
   user_id: 1
   date_of: 2010-03-03
 - created_at: 2010-03-03 11:00:05 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1427864
   id: 3415
@@ -22218,7 +22218,7 @@
   user_id: 1
   date_of: 2010-03-04
 - created_at: 2010-03-04 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1438303
   id: 3420
@@ -22253,7 +22253,7 @@
   user_id: 1
   date_of: 2010-03-05
 - created_at: 2010-03-05 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1434838
   id: 3425
@@ -22288,7 +22288,7 @@
   user_id: 1
   date_of: 2010-03-06
 - created_at: 2010-03-06 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1434838
   id: 3430
@@ -22323,7 +22323,7 @@
   user_id: 1
   date_of: 2010-03-07
 - created_at: 2010-03-07 11:00:08 -05:00
-  updated_at: 2010-05-11 21:56:13 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1447570
   id: 3435
@@ -22358,7 +22358,7 @@
   user_id: 1
   date_of: 2010-03-08
 - created_at: 2010-03-08 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:14 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1447570
   id: 3440
@@ -22393,7 +22393,7 @@
   user_id: 1
   date_of: 2010-03-09
 - created_at: 2010-03-09 11:00:09 -05:00
-  updated_at: 2010-05-11 21:56:14 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1454437
   id: 3445
@@ -22428,7 +22428,7 @@
   user_id: 1
   date_of: 2010-03-10
 - created_at: 2010-03-10 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:14 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1505564
   id: 3450
@@ -22463,7 +22463,7 @@
   user_id: 1
   date_of: 2010-03-11
 - created_at: 2010-03-11 11:00:06 -05:00
-  updated_at: 2010-05-11 21:56:14 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1513891
   id: 3455
@@ -22498,7 +22498,7 @@
   user_id: 1
   date_of: 2010-03-12
 - created_at: 2010-03-12 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:14 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1574891
   id: 3460
@@ -22533,7 +22533,7 @@
   user_id: 1
   date_of: 2010-03-13
 - created_at: 2010-03-13 11:00:07 -05:00
-  updated_at: 2010-05-11 21:56:14 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1581091
   id: 3465
@@ -22568,7 +22568,7 @@
   user_id: 1
   date_of: 2010-03-14
 - created_at: 2010-03-14 10:00:07 -04:00
-  updated_at: 2010-05-11 21:56:14 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1581091
   id: 3470
@@ -22603,7 +22603,7 @@
   user_id: 1
   date_of: 2010-03-15
 - created_at: 2010-03-15 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:14 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1371268
   id: 3475
@@ -22638,7 +22638,7 @@
   user_id: 1
   date_of: 2010-03-16
 - created_at: 2010-03-16 10:00:10 -04:00
-  updated_at: 2010-05-11 21:56:14 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1381568
   id: 3480
@@ -22673,7 +22673,7 @@
   user_id: 1
   date_of: 2010-03-17
 - created_at: 2010-03-17 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:14 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1382853
   id: 3485
@@ -22708,7 +22708,7 @@
   user_id: 1
   date_of: 2010-03-18
 - created_at: 2010-03-18 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:14 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1385891
   id: 3490
@@ -22743,7 +22743,7 @@
   user_id: 1
   date_of: 2010-03-19
 - created_at: 2010-03-19 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:14 -04:00
+  updated_at: 2010-05-11 22:27:08 -04:00
   account_id: 1
   amount: -1405069
   id: 3495
@@ -22778,7 +22778,7 @@
   user_id: 1
   date_of: 2010-03-20
 - created_at: 2010-03-20 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:14 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1405069
   id: 3500
@@ -22813,7 +22813,7 @@
   user_id: 1
   date_of: 2010-03-21
 - created_at: 2010-03-21 10:00:06 -04:00
-  updated_at: 2010-05-11 21:56:14 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1405974
   id: 3505
@@ -22848,7 +22848,7 @@
   user_id: 1
   date_of: 2010-03-22
 - created_at: 2010-03-22 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:14 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1428926
   id: 3510
@@ -22883,7 +22883,7 @@
   user_id: 1
   date_of: 2010-03-23
 - created_at: 2010-03-23 10:00:05 -04:00
-  updated_at: 2010-05-11 21:56:14 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1429724
   id: 3515
@@ -22918,7 +22918,7 @@
   user_id: 1
   date_of: 2010-03-24
 - created_at: 2010-03-25 00:41:18 -04:00
-  updated_at: 2010-05-11 21:56:14 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1423544
   id: 3520
@@ -22953,7 +22953,7 @@
   user_id: 1
   date_of: 2010-03-25
 - created_at: 2010-03-25 10:26:12 -04:00
-  updated_at: 2010-03-29 22:05:17 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1390569
   id: 3525
@@ -22988,7 +22988,7 @@
   user_id: 1
   date_of: 2010-03-26
 - created_at: 2010-03-26 05:00:11 -04:00
-  updated_at: 2010-03-29 22:05:17 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1443054
   id: 3530
@@ -23023,7 +23023,7 @@
   user_id: 1
   date_of: 2010-03-27
 - created_at: 2010-03-27 05:00:15 -04:00
-  updated_at: 2010-03-29 22:05:17 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1443054
   id: 3535
@@ -23058,7 +23058,7 @@
   user_id: 1
   date_of: 2010-03-28
 - created_at: 2010-03-28 05:00:12 -04:00
-  updated_at: 2010-03-29 22:05:17 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1421730
   id: 3540
@@ -23093,7 +23093,7 @@
   user_id: 1
   date_of: 2010-03-29
 - created_at: 2010-03-29 05:00:09 -04:00
-  updated_at: 2010-03-29 22:05:18 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1429142
   id: 3545
@@ -23128,7 +23128,7 @@
   user_id: 1
   date_of: 2010-03-30
 - created_at: 2010-03-30 10:58:30 -04:00
-  updated_at: 2010-03-30 10:58:30 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1300879
   id: 3550
@@ -23163,7 +23163,7 @@
   user_id: 1
   date_of: 2010-03-31
 - created_at: 2010-03-31 05:00:06 -04:00
-  updated_at: 2010-03-31 05:00:06 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1300879
   id: 3555
@@ -23198,7 +23198,7 @@
   user_id: 1
   date_of: 2010-04-01
 - created_at: 2010-04-01 05:00:07 -04:00
-  updated_at: 2010-04-01 05:00:07 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1103975
   id: 3560
@@ -23233,7 +23233,7 @@
   user_id: 1
   date_of: 2010-04-02
 - created_at: 2010-04-02 05:00:09 -04:00
-  updated_at: 2010-04-02 05:00:09 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1103975
   id: 3565
@@ -23268,7 +23268,7 @@
   user_id: 1
   date_of: 2010-04-03
 - created_at: 2010-04-03 05:00:05 -04:00
-  updated_at: 2010-04-03 05:00:05 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1103975
   id: 3570
@@ -23303,7 +23303,7 @@
   user_id: 1
   date_of: 2010-04-04
 - created_at: 2010-04-04 05:00:07 -04:00
-  updated_at: 2010-04-04 05:00:07 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1103975
   id: 3575
@@ -23338,7 +23338,7 @@
   user_id: 1
   date_of: 2010-04-05
 - created_at: 2010-04-05 05:00:07 -04:00
-  updated_at: 2010-04-05 05:00:07 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1230362
   id: 3580
@@ -23373,7 +23373,7 @@
   user_id: 1
   date_of: 2010-04-06
 - created_at: 2010-04-06 05:00:07 -04:00
-  updated_at: 2010-04-06 05:00:07 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1230362
   id: 3585
@@ -23408,7 +23408,7 @@
   user_id: 1
   date_of: 2010-04-07
 - created_at: 2010-04-07 05:00:08 -04:00
-  updated_at: 2010-04-07 05:00:08 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1230362
   id: 3590
@@ -23443,7 +23443,7 @@
   user_id: 1
   date_of: 2010-04-08
 - created_at: 2010-04-08 05:00:08 -04:00
-  updated_at: 2010-04-08 05:00:08 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1230362
   id: 3595
@@ -23478,7 +23478,7 @@
   user_id: 1
   date_of: 2010-04-09
 - created_at: 2010-04-09 05:00:05 -04:00
-  updated_at: 2010-04-09 05:00:05 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1230362
   id: 3600
@@ -23513,7 +23513,7 @@
   user_id: 1
   date_of: 2010-04-10
 - created_at: 2010-04-10 05:00:07 -04:00
-  updated_at: 2010-04-10 05:00:07 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1256623
   id: 3605
@@ -23548,7 +23548,7 @@
   user_id: 1
   date_of: 2010-04-11
 - created_at: 2010-04-11 05:00:09 -04:00
-  updated_at: 2010-04-11 05:00:09 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1256623
   id: 3610
@@ -23583,7 +23583,7 @@
   user_id: 1
   date_of: 2010-04-12
 - created_at: 2010-04-12 05:00:07 -04:00
-  updated_at: 2010-04-12 05:00:07 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1256623
   id: 3615
@@ -23618,7 +23618,7 @@
   user_id: 1
   date_of: 2010-04-13
 - created_at: 2010-04-13 05:00:06 -04:00
-  updated_at: 2010-04-13 05:00:06 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1256623
   id: 3620
@@ -23653,7 +23653,7 @@
   user_id: 1
   date_of: 2010-04-14
 - created_at: 2010-04-14 05:00:06 -04:00
-  updated_at: 2010-04-14 05:00:06 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1256623
   id: 3625
@@ -23688,7 +23688,7 @@
   user_id: 1
   date_of: 2010-04-15
 - created_at: 2010-04-15 05:00:09 -04:00
-  updated_at: 2010-04-15 05:00:09 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1256623
   id: 3630
@@ -23723,7 +23723,7 @@
   user_id: 1
   date_of: 2010-04-16
 - created_at: 2010-04-16 05:00:07 -04:00
-  updated_at: 2010-04-16 05:00:07 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1256623
   id: 3635
@@ -23758,7 +23758,7 @@
   user_id: 1
   date_of: 2010-04-17
 - created_at: 2010-04-17 05:00:06 -04:00
-  updated_at: 2010-04-17 05:00:06 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1256623
   id: 3640
@@ -23793,7 +23793,7 @@
   user_id: 1
   date_of: 2010-04-18
 - created_at: 2010-04-18 05:00:06 -04:00
-  updated_at: 2010-04-18 05:00:06 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1256623
   id: 3645
@@ -23828,7 +23828,7 @@
   user_id: 1
   date_of: 2010-04-19
 - created_at: 2010-04-19 05:00:09 -04:00
-  updated_at: 2010-04-19 05:00:09 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -918843
   id: 3650
@@ -23863,7 +23863,7 @@
   user_id: 1
   date_of: 2010-04-20
 - created_at: 2010-04-20 05:00:08 -04:00
-  updated_at: 2010-04-20 05:00:08 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -918843
   id: 3655
@@ -23898,7 +23898,7 @@
   user_id: 1
   date_of: 2010-04-21
 - created_at: 2010-04-21 05:00:06 -04:00
-  updated_at: 2010-04-21 05:00:06 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -918843
   id: 3660
@@ -23933,7 +23933,7 @@
   user_id: 1
   date_of: 2010-04-22
 - created_at: 2010-04-22 05:00:07 -04:00
-  updated_at: 2010-04-22 05:00:07 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -918843
   id: 3665
@@ -23968,7 +23968,7 @@
   user_id: 1
   date_of: 2010-04-23
 - created_at: 2010-04-23 05:00:08 -04:00
-  updated_at: 2010-04-23 05:00:08 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -918843
   id: 3670
@@ -24003,7 +24003,7 @@
   user_id: 1
   date_of: 2010-04-24
 - created_at: 2010-04-24 05:00:06 -04:00
-  updated_at: 2010-04-24 05:00:06 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -918843
   id: 3675
@@ -24038,7 +24038,7 @@
   user_id: 1
   date_of: 2010-04-25
 - created_at: 2010-04-25 05:00:06 -04:00
-  updated_at: 2010-04-25 05:00:06 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -918843
   id: 3680
@@ -24073,7 +24073,7 @@
   user_id: 1
   date_of: 2010-04-26
 - created_at: 2010-04-26 05:00:07 -04:00
-  updated_at: 2010-04-26 05:00:07 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -918843
   id: 3685
@@ -24108,7 +24108,7 @@
   user_id: 1
   date_of: 2010-04-27
 - created_at: 2010-04-27 05:00:08 -04:00
-  updated_at: 2010-04-27 05:00:08 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -918843
   id: 3690
@@ -24143,7 +24143,7 @@
   user_id: 1
   date_of: 2010-04-28
 - created_at: 2010-04-28 05:00:10 -04:00
-  updated_at: 2010-04-28 05:00:10 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1333175
   id: 3695
@@ -24178,7 +24178,7 @@
   user_id: 1
   date_of: 2010-04-29
 - created_at: 2010-04-29 05:00:09 -04:00
-  updated_at: 2010-04-29 05:00:09 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1333175
   id: 3700
@@ -24213,7 +24213,7 @@
   user_id: 1
   date_of: 2010-04-30
 - created_at: 2010-04-30 05:00:13 -04:00
-  updated_at: 2010-04-30 05:00:13 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1333175
   id: 3705
@@ -24248,7 +24248,7 @@
   user_id: 1
   date_of: 2010-05-01
 - created_at: 2010-05-01 05:00:26 -04:00
-  updated_at: 2010-05-01 05:00:26 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1300206
   id: 3710
@@ -24283,7 +24283,7 @@
   user_id: 1
   date_of: 2010-05-02
 - created_at: 2010-05-02 05:00:07 -04:00
-  updated_at: 2010-05-02 05:00:07 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1300206
   id: 3715
@@ -24318,7 +24318,7 @@
   user_id: 1
   date_of: 2010-05-03
 - created_at: 2010-05-03 05:00:16 -04:00
-  updated_at: 2010-05-03 05:00:16 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1300206
   id: 3720
@@ -24353,7 +24353,7 @@
   user_id: 1
   date_of: 2010-05-04
 - created_at: 2010-05-04 05:00:08 -04:00
-  updated_at: 2010-05-04 05:00:08 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1243354
   id: 3725
@@ -24388,7 +24388,7 @@
   user_id: 1
   date_of: 2010-05-05
 - created_at: 2010-05-05 05:00:08 -04:00
-  updated_at: 2010-05-05 05:00:08 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1243354
   id: 3730
@@ -24423,7 +24423,7 @@
   user_id: 1
   date_of: 2010-05-06
 - created_at: 2010-05-06 05:00:06 -04:00
-  updated_at: 2010-05-06 05:00:06 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1243354
   id: 3735
@@ -24458,7 +24458,7 @@
   user_id: 1
   date_of: 2010-05-07
 - created_at: 2010-05-07 05:00:06 -04:00
-  updated_at: 2010-05-07 05:00:06 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1243354
   id: 3740
@@ -24493,7 +24493,7 @@
   user_id: 1
   date_of: 2010-05-08
 - created_at: 2010-05-08 05:00:08 -04:00
-  updated_at: 2010-05-08 05:00:08 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1243354
   id: 3745
@@ -24528,7 +24528,7 @@
   user_id: 1
   date_of: 2010-05-09
 - created_at: 2010-05-09 05:00:09 -04:00
-  updated_at: 2010-05-09 05:00:09 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1243354
   id: 3750
@@ -24563,7 +24563,7 @@
   user_id: 1
   date_of: 2010-05-10
 - created_at: 2010-05-10 05:00:08 -04:00
-  updated_at: 2010-05-10 05:00:08 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1243354
   id: 3755
@@ -24598,7 +24598,7 @@
   user_id: 1
   date_of: 2010-05-11
 - created_at: 2010-05-11 05:00:10 -04:00
-  updated_at: 2010-05-11 05:00:10 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1309890
   id: 3760
@@ -24703,9 +24703,9 @@
   user_id: 1
   date_of: 2010-01-07
 - created_at: 2010-05-11 21:34:29 -04:00
-  updated_at: 2010-05-11 21:34:29 -04:00
+  updated_at: 2010-05-13 15:50:37 -04:00
   account_id: 4
-  amount: 153508
+  amount: -153508
   id: 3940
   user_id: 1
   date_of: 2010-01-07
@@ -24759,49 +24759,49 @@
   user_id: 1
   date_of: 2010-01-07
 - created_at: 2010-05-11 21:56:08 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -2119533
   id: 3948
   user_id: 1
   date_of: 2009-04-28
 - created_at: 2010-05-11 21:56:08 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1852727
   id: 3949
   user_id: 1
   date_of: 2009-04-29
 - created_at: 2010-05-11 21:56:08 -04:00
-  updated_at: 2010-05-11 21:56:08 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1642431
   id: 3950
   user_id: 1
   date_of: 2009-04-30
 - created_at: 2010-05-11 21:56:09 -04:00
-  updated_at: 2010-05-11 21:56:09 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1767129
   id: 3951
   user_id: 1
   date_of: 2009-07-18
 - created_at: 2010-05-11 21:56:10 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1847444
   id: 3952
   user_id: 1
   date_of: 2009-08-05
 - created_at: 2010-05-11 21:56:10 -04:00
-  updated_at: 2010-05-11 21:56:10 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1828310
   id: 3953
   user_id: 1
   date_of: 2009-08-06
 - created_at: 2010-05-11 21:56:12 -04:00
-  updated_at: 2010-05-11 21:56:12 -04:00
+  updated_at: 2010-05-11 22:27:09 -04:00
   account_id: 1
   amount: -1476603
   id: 3954
