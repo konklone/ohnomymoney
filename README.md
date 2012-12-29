@@ -1,3 +1,9 @@
+# Inactive
+
+This project has been inactive since 2010, since [Wesabe's closure](http://blog.precipice.org/why-wesabe-lost-to-mint).
+
+## Site
+
 This code powers [Ohnomymoney.com](http://ohnomymoney.com).  It's a Ruby app running on Sinatra.
 
 ### Loading data
