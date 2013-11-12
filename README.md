@@ -16,3 +16,7 @@ You'll want to set up an account on one of the two sites, and then fill out the 
 ### User accounts
 
 I want to open up the site to other users, but that's difficult now, with how unreliable the state of bank scraping is online.  When that situation improves, I'll be more inclined to do it.
+
+## License
+
+[MIT License](LICENSE).
