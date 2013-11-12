@@ -1,0 +1,130 @@
+body {padding: 0; margin: 0;}
+h1, h2, h3, h4, h5, h6 {margin: 0; padding: 0; font-weight: normal;}
+img {border: 0}
+h1 {display: none;}
+.left {float: left;}
+.right {float: right;}
+
+
+body, html {
+  background: #fff url(../images/background.gif) top center repeat-y;
+  text-align: center;
+}
+
+
+/* layout */
+div.accounts, div.worth {
+  width: 33%; 
+  text-align: center;
+}
+
+div.worth {
+  position: relative; 
+  margin: 30px auto;
+  top: 120px;
+}
+
+div.account {margin: 40px 0 70px 0; text-align: center;}
+div.account span, div.worth span {display: block;}
+
+
+/** account page **/
+
+div.title {
+  position: relative; 
+  margin: 30px auto; 
+  margin-top: 30px;
+  width: 33%; 
+  text-align: center;
+}
+div.title div.back {float: left; text-align: center; margin-top: 10px; width: 100%;}
+div.title div.back a {color: #3355aa; font-size: 1.0em; font-weight: bold;}
+
+
+div.graph {
+  clear: both; margin: 10px auto; margin-bottom: 0px; margin-top: 50px;
+  width: 957px; height: 500px;
+}
+
+/** footer **/
+
+div.footer {
+  text-align: center; 
+  clear: both; padding-top: 10px;
+  font-size: 10pt; font-weight: bold; color: #717171;
+}
+div.footer a {color: #3355aa}
+div.footer p {font-size: 12pt;}
+
+/* main design */
+
+div.account.oldest, div.account.newest {margin: 0; margin-top: -10px; margin-bottom: 30px;}
+div.account.oldest.history, div.account.newest.history {margin-bottom: 0}
+
+.accounts.left h2 {
+  width: 196px;
+  height: 45px;
+  text-indent: -5000px;
+  background: transparent url(../images/ohno.gif) top left no-repeat;
+  margin: 40px auto 20px auto;
+}
+
+.accounts.right h2 {
+  width: 319px;
+  height: 45px;
+  text-indent: -5000px;
+  background: transparent url(../images/mymoney.gif) top left no-repeat;
+  margin: 40px auto 20px auto;  
+}
+
+.accounts span, .worth span {
+  font-family: georgia, times, serif;
+  font-size: 3.6em;
+}
+
+.accounts h3, .worth h3 {
+  font-size: .9em;
+  text-transform: uppercase;
+  font-family: gotham, verdana, sans-serif;
+}
+
+.accounts.left h3.date, .accounts.right h3.date {
+  font-size: 1.0em;
+  font-weight: bold;
+  color: #333;
+}
+
+.title h2 {
+  font-size: 2.5em;
+  font-family: georgia, times, serif;
+}
+
+span.positive {color: #3fb021;}
+span.negative {color: #b61515;}
+
+.accounts.left h3 {color: #946d6d;}
+.accounts.right h3 {color: #7f9679;}
+.worth h3 {color: #7f7f7f;}
+.worth h4 {font-size: 0.8em; color: #7f7f7f; margin-top: 20px;}
+.worth img {
+  margin-bottom: -5px; 
+  margin-left: 5px; 
+}
+.worth span {margin-bottom: 5px;}
+
+.accounts a, .worth a {
+  font-family: gotham, verdana, sans-serif;
+  color: #336699; 
+}
+.account a {font-size: 1.0em;}
+.worth a {font-size: 1.3em; }
+
+.worth {
+  background: #f5f5f5;
+  padding: 30px 0 20px 0;
+}
+
+/** Graph internal styles **/
+
+p.tooltip {margin: 0; padding: 0;}
+p.tooltip.header {font-weight: bold; margin-bottom: 5px;}
